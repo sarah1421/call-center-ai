@@ -1,0 +1,25 @@
+flowchart LR
+    subgraph DATA["1 · Data"]
+        HF[("Hugging Face<br/>AppTek call-center<br/>dialogues")] --> DL["AppTekDataLoader<br/>stratified sample + QC"]
+        DL --> WAV[/"data/raw/audio<br/>call_XXX.wav"/]
+        DL --> GT[/"sample_metadata.jsonl<br/>(ground truth)"/]
+    end
+    subgraph SPEECH["2 · Speech"]
+        WAV --> ASR["WhisperTranscriber<br/>OpenAI Whisper turbo<br/>word timestamps"]
+        WAV --> DIA["SpeakerDiarizer<br/>pyannote.audio"]
+        ASR --> AL["Aligner<br/>words → speaker turns"]
+        DIA --> AL
+        AL --> RL["RoleLabeler<br/>Agent / Customer<br/>LLM + keywords"]
+    end
+    subgraph NLP["3 · Language (Groq LLM)"]
+        RL --> SUM["CallSummarizer<br/>issue · action · outcome"]
+        RL --> SEN["SentimentAnalyzer<br/>label · start vs end · reason"]
+    end
+    subgraph OUT["4 · Validation & Output"]
+        RL --> EV["Evaluator<br/>WER · role accuracy · DER"]
+        GT --> EV
+        SUM --> FT[/"results/final_results<br/>.csv / .json"/]
+        SEN --> FT
+        EV --> FT
+        FT --> APP["Streamlit app"]
+    end

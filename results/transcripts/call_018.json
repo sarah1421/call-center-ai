@@ -1,0 +1,1366 @@
+{
+  "call_id": "call_018",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hello there, you're through to Sally. How can I help? Oh, hello Sally. I'd like to schedule an appointment for a lab test please. I've got some health concerns I'm a bit worried about. and I'd like to do a sort of a routine blood test appointment at your lab. Okay, absolutely, that's not a problem. We can certainly sort that out for you today. Could I take, let's get into the, sorry, are you a pre-existing patient of ours or are you completely new? Just so we know which database to use. Sorry, just repeat that again for me. So I asked, are you an existing patient of ours or are you a completely new patient? Just so we know our system I'm an existing one Lovely, thank you So could you start off by giving me your surname please Yep, so it's Finny Could you spell that for me? Yeah, so it's F for Foxtrot I for India November, November I for India E for Echo Lovely, and your first name please madam It's Lucy Thank you And could you please give me your date of birth? Yep, so it's the 8th of November 1984. Right, okay. Could you just repeat that for me? I do apologise. It's not loaded on the system correctly. Yeah, so it's the 8th of November 1984. Lovely, thank you. Okay, and can I take the first line of your address please? Yep, so it's 13 Braunston Road. Okay, and your postcode please? Yep, so it's PE9 7QU. Perfect. Also, sorry to cut you off. Yeah, no, I was going to say it's Q for Quebec. Yep. U for uniform. Lovely, thank you. Okay, so that's loading for you. So usually we have quite a quick turnaround on these kind of things and we are fairly quiet at the moment in the lab. So could I ask obviously, when are you thinking, have you got a preference of when you'd like those appointments? Yeah, what do you have more to the point? Do you have any time slots at all available this week at all yeah okay is there a particular day in mind or time uh if you can do monday at all yeah great any time on monday or a certain time um if you can do it sort of after school run time so sort of after half nine but before um this sort of end of school which is about half three any time between sort of there okay great yeah oh there's a problem i do apologize we can't do that on the monday at that sort of time for you have you got any further movement on the time or is there a different day um if you can uh do the if there's anything on the tuesday at all in between those times that'd be great yeah so we've got one at about 9 30 does that work for you? Yeah, that would be perfect. Lovely. No, that's absolutely fine. So that's booked in for you for 9.30. So you should be getting a text any minute now because I can see that you are registered for that service. Oh, yeah, I've just heard it come through on my phone. Thank you for that. No, that's absolutely fine. Is there anything else I can do to help? Yeah. I also need to refill my prescription for my chronic medication. is this something you can help with at all okay i do apologize i can't take that request over the phone um so it can be done via the app or it can be done um obviously by when you come into the to have your blood tests uh fill the form in there um it does take either option mind it does take 48 hours to um be completed by the doctor and sent to your local pharmacy okay no that's fantastic I do have another question. I do need to schedule an appointment with the doctor. Is it possible I could do it online instead of coming in? It's just with work and everything. I find I really struggle to get the time off. My managers are really horrible and strict about what we have time off for and if I can do it sort of whilst I'm working at home. Yeah so we do have lots of different telehealth consultations and so you can sort that out for you again the system's down at the moment for me to be able to do that for you but you can use the app to complete for a you know to have a computer to have a telephone appointment or online through our CVP system. They are available to be booked all of the time but unfortunately it's not working today on the computer. We've had some gremlins in the network. No that's fine, that's understandable. Are you able to check, so I like to go and see Dr Smith, is it any possibility you could check the system at all to see if they've got any availability for me to go online and book that on the app okay yeah so they're very i know they're very very popular but they do have an awful lot of space at the minute we seem to be seeking a quiet period which is very unheard of um but you can book an appointment if you were to do it now you could get one for next wednesday and they're relatively free all day although that's brilliant thank you so much for that no that's absolutely fine um great so uh my can i just double check yeah that my appointment is confirmed for my blood test yeah that's on the the tuesdays until 9 30 okay and the medication refill um did you say that that that you've arranged that or is that's something i need to arrange so you need to come oh sure apologize you'll need to come in um or complete on the app the uh request then it goes to the doctor to sign off and then it'll go to your local uh pharmacy that you've selected okay no that's that's i completely get that um okay yeah no that's brilliant thank you so much no that's everything lovely well if that's everything and take care and all the best okay no that's brilliant and uh your phone lines quite free in case i do need to call yes yes they are okay no that's lovely thank you for that all right then we'll take care then tomorrow thank you goodbye Bye. Right, come on.",
+  "diarization": [
+    {
+      "start": 11.978468750000001,
+      "end": 16.29846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 17.32784375,
+      "end": 19.28534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 19.28534375,
+      "end": 32.17784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 32.41409375,
+      "end": 46.30221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 46.30221875,
+      "end": 46.31909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 47.28096875,
+      "end": 47.97284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 47.97284375,
+      "end": 49.49159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 49.49159375,
+      "end": 49.96409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 49.96409375,
+      "end": 50.031593750000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 50.031593750000006,
+      "end": 57.60846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 58.165343750000005,
+      "end": 65.26971875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 65.77596875,
+      "end": 68.15534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 68.44221875000001,
+      "end": 70.29846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 70.78784375000001,
+      "end": 73.33596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 73.40346875,
+      "end": 74.97284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 74.97284375000001,
+      "end": 75.02346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 75.02346875,
+      "end": 82.02659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 82.02659375,
+      "end": 82.06034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 82.06034375,
+      "end": 82.07721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 82.07721875,
+      "end": 82.09409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 82.56659375000001,
+      "end": 82.61721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 82.61721875,
+      "end": 83.71409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 84.69284375000001,
+      "end": 88.84409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 89.53596875000001,
+      "end": 89.55284375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 89.55284375000001,
+      "end": 92.32034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 93.13034375000001,
+      "end": 95.56034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 96.21846875,
+      "end": 97.43346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 98.10846875,
+      "end": 98.14221875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.14221875000001,
+      "end": 98.26034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 98.26034375,
+      "end": 98.66534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.66534375,
+      "end": 98.68221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 98.68221875,
+      "end": 98.69909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.69909375,
+      "end": 98.71596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 98.71596875,
+      "end": 98.73284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.73284375,
+      "end": 98.93534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 99.05346875000001,
+      "end": 99.18846875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 99.18846875000001,
+      "end": 99.52596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 101.87159375,
+      "end": 101.88846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 101.88846875,
+      "end": 106.57971875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 106.57971875000001,
+      "end": 110.42721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 110.96721875,
+      "end": 112.58721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 112.82346875,
+      "end": 117.49784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 117.88596875,
+      "end": 120.56909375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 120.56909375000001,
+      "end": 121.04159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 121.41284375000001,
+      "end": 126.32346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 126.32346875,
+      "end": 126.37409375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 126.37409375000001,
+      "end": 129.74909375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 130.55909375000002,
+      "end": 133.20846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 133.46159375000002,
+      "end": 134.47409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 134.47409375,
+      "end": 134.96346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 134.96346875,
+      "end": 137.81534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 137.95034375,
+      "end": 138.40596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 139.21596875,
+      "end": 141.00471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 141.91596875000002,
+      "end": 147.29909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 148.10909375,
+      "end": 160.17471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 160.47846875000002,
+      "end": 168.86534375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 168.88221875000002,
+      "end": 176.08784375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 176.08784375000002,
+      "end": 176.12159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 176.12159375000002,
+      "end": 176.64471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 176.64471875,
+      "end": 177.42096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 177.42096875000001,
+      "end": 177.52221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 177.69096875000002,
+      "end": 180.20534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 180.20534375,
+      "end": 187.36034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 187.84971875000002,
+      "end": 193.90784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 194.61659375000002,
+      "end": 194.63346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 194.63346875000002,
+      "end": 194.66721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 194.66721875000002,
+      "end": 194.92034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 194.92034375,
+      "end": 195.03846875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 195.03846875000002,
+      "end": 195.08909375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 195.42659375000002,
+      "end": 204.89346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 205.21409375000002,
+      "end": 205.97346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 205.97346875000002,
+      "end": 213.49971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 214.30971875,
+      "end": 215.03534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 215.03534375,
+      "end": 218.10659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 218.10659375,
+      "end": 218.14034375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 218.29221875000002,
+      "end": 222.47721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 222.47721875000002,
+      "end": 228.97409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 228.97409375,
+      "end": 229.02471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 229.02471875,
+      "end": 229.69971875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 229.69971875000002,
+      "end": 229.71659375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 229.71659375000002,
+      "end": 229.91909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 230.44221875000002,
+      "end": 230.49284375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 230.49284375000002,
+      "end": 230.96534375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 230.96534375000002,
+      "end": 233.85096875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 233.85096875000002,
+      "end": 233.90159375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 233.90159375000002,
+      "end": 234.03659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 234.03659375,
+      "end": 236.82096875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 237.37784375,
+      "end": 248.29596875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 248.29596875000001,
+      "end": 248.32971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 248.32971875,
+      "end": 248.36346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 248.36346875,
+      "end": 248.76846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 248.76846875,
+      "end": 248.78534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 249.08909375000002,
+      "end": 253.05471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 253.40909375,
+      "end": 272.96721875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 273.54096875,
+      "end": 278.82284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 278.82284375,
+      "end": 279.02534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 279.02534375,
+      "end": 284.34096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 284.34096875,
+      "end": 284.35784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 284.35784375000003,
+      "end": 284.37471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 284.37471875,
+      "end": 284.81346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 284.81346875,
+      "end": 290.01096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 290.17971875,
+      "end": 290.58471875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 290.58471875000004,
+      "end": 291.02346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 291.02346875,
+      "end": 296.30534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 296.30534375,
+      "end": 297.03096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 297.03096875,
+      "end": 300.05159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 300.05159375,
+      "end": 301.03034375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 301.03034375000004,
+      "end": 307.79721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 308.30346875000004,
+      "end": 329.24534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 329.54909375,
+      "end": 342.71159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 342.71159375,
+      "end": 359.58659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 359.58659375,
+      "end": 359.89034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 359.89034375,
+      "end": 359.97471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 359.97471875,
+      "end": 361.39221875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 361.39221875000004,
+      "end": 361.44284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 361.44284375,
+      "end": 377.82846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 378.63846875,
+      "end": 381.23721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 381.54096875000005,
+      "end": 383.31284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 384.08909375,
+      "end": 386.24909375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 386.82284375,
+      "end": 388.86471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 388.86471875,
+      "end": 389.03346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 389.03346875,
+      "end": 392.42534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 392.91471875,
+      "end": 394.31534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 394.56846875,
+      "end": 398.09534375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 398.61846875000003,
+      "end": 406.49909375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 406.49909375000004,
+      "end": 406.98846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 406.98846875000004,
+      "end": 407.81534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 409.14846875,
+      "end": 420.97784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 420.97784375000003,
+      "end": 421.02846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 421.70346875,
+      "end": 428.28471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 428.28471875,
+      "end": 429.90471875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 429.90471875000003,
+      "end": 430.02284375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 430.02284375000005,
+      "end": 430.12409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 430.12409375000004,
+      "end": 430.51221875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 430.51221875000005,
+      "end": 430.96784375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 430.96784375000004,
+      "end": 440.13096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 440.13096875,
+      "end": 441.05909375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 441.05909375000005,
+      "end": 441.16034375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 441.16034375000004,
+      "end": 441.46409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 441.46409375,
+      "end": 442.07159375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 442.72971875,
+      "end": 444.65346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 444.65346875,
+      "end": 445.02471875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 445.02471875000003,
+      "end": 445.09221875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 445.09221875000003,
+      "end": 447.16784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 447.65721875,
+      "end": 449.17596875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 460.06034375,
+      "end": 460.80284375,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 11.66,
+      "end": 18.44,
+      "text": "Hello there, you're through to Sally. How can I help? Oh, hello Sally.",
+      "confidence": 0.899,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 18.98,
+      "end": 31.68,
+      "text": "I'd like to schedule an appointment for a lab test please. I've got some health concerns I'm a bit worried about. and I'd like to do a sort of a routine blood test appointment at your lab.",
+      "confidence": 0.946,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 32.18,
+      "end": 48.04,
+      "text": "Okay, absolutely, that's not a problem. We can certainly sort that out for you today. Could I take, let's get into the, sorry, are you a pre-existing patient of ours or are you completely new? Just so we know which database to use. Sorry, just repeat",
+      "confidence": 0.947,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 48.04,
+      "end": 49.46,
+      "text": "that again for me. So",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 49.46,
+      "end": 64.76,
+      "text": "I asked, are you an existing patient of ours or are you a completely new patient? Just so we know our system I'm an existing one Lovely, thank you So could you start off by giving me your surname please",
+      "confidence": 0.937,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 65.42,
+      "end": 81.88,
+      "text": "Yep, so it's Finny Could you spell that for me? Yeah, so it's F for Foxtrot I for India November, November I for India E for Echo Lovely, and your first name please madam",
+      "confidence": 0.934,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 81.88,
+      "end": 88.68,
+      "text": "It's Lucy Thank you And could you please give me your date of birth?",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 89.28,
+      "end": 96.88,
+      "text": "Yep, so it's the 8th of November 1984.",
+      "confidence": 0.917,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 101.62,
+      "end": 106.16,
+      "text": "Right, okay. Could you just repeat that for me? I do apologise. It's not loaded on the system correctly.",
+      "confidence": 0.978,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 106.64,
+      "end": 112.34,
+      "text": "Yeah, so it's the 8th of November 1984. Lovely, thank you.",
+      "confidence": 0.952,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 112.34,
+      "end": 116.96,
+      "text": "Okay, and can I take the first line of your address please?",
+      "confidence": 0.9,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 117.94,
+      "end": 132.7,
+      "text": "Yep, so it's 13 Braunston Road. Okay, and your postcode please? Yep, so it's PE9 7QU. Perfect.",
+      "confidence": 0.95,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 133.5,
+      "end": 134.52,
+      "text": "Also, sorry to",
+      "confidence": 0.821,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 134.52,
+      "end": 134.84,
+      "text": "cut you off.",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 135.12,
+      "end": 135.44,
+      "text": "Yeah,",
+      "confidence": 0.887,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 135.58,
+      "end": 135.76,
+      "text": "no, I was going",
+      "confidence": 0.911,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 135.76,
+      "end": 138.32,
+      "text": "to say it's Q for Quebec. Yep.",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 139.4,
+      "end": 140.72,
+      "text": "U for uniform.",
+      "confidence": 0.813,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 142.12,
+      "end": 159.6,
+      "text": "Lovely, thank you. Okay, so that's loading for you. So usually we have quite a quick turnaround on these kind of things and we are fairly quiet at the moment in the lab. So could I ask obviously, when are you thinking, have you got a preference of when you'd like those appointments?",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 160.54,
+      "end": 168.66,
+      "text": "Yeah, what do you have more to the point? Do you have any time slots at all available this week at all",
+      "confidence": 0.968,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 168.66,
+      "end": 176.38,
+      "text": "yeah okay is there a particular day in mind or time uh if you can do monday at all yeah",
+      "confidence": 0.934,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 176.38,
+      "end": 178.0,
+      "text": "great any",
+      "confidence": 0.683,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 178.0,
+      "end": 180.16,
+      "text": "time on monday or a certain time",
+      "confidence": 0.929,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 180.16,
+      "end": 193.66,
+      "text": "um if you can do it sort of after school run time so sort of after half nine but before um this sort of end of school which is about half three any time between sort of there okay great",
+      "confidence": 0.936,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 193.66,
+      "end": 206.12,
+      "text": "yeah oh there's a problem i do apologize we can't do that on the monday at that sort of time for you have you got any further movement on the time or is there a different day um if",
+      "confidence": 0.971,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 206.12,
+      "end": 214.92,
+      "text": "you can uh do the if there's anything on the tuesday at all in between those times that'd be great yeah so",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 214.92,
+      "end": 217.96,
+      "text": "we've got one at about 9 30 does that work for you?",
+      "confidence": 0.937,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 218.48,
+      "end": 222.48,
+      "text": "Yeah, that would be perfect. Lovely. No, that's absolutely fine. So that's",
+      "confidence": 0.894,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 222.48,
+      "end": 230.9,
+      "text": "booked in for you for 9.30. So you should be getting a text any minute now because I can see that you are registered for that service. Oh, yeah,",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 230.96,
+      "end": 234.02,
+      "text": "I've just heard it come through on my phone. Thank you for that. No,",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 234.04,
+      "end": 236.74,
+      "text": "that's absolutely fine. Is there anything else I can do to help?",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 237.3,
+      "end": 248.3,
+      "text": "Yeah. I also need to refill my prescription for my chronic medication. is this something you can help with at",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 248.3,
+      "end": 272.66,
+      "text": "all okay i do apologize i can't take that request over the phone um so it can be done via the app or it can be done um obviously by when you come into the to have your blood tests uh fill the form in there um it does take either option mind it does take 48 hours to um be completed by the doctor and sent to your local pharmacy",
+      "confidence": 0.959,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 272.66,
+      "end": 283.7,
+      "text": "okay no that's fantastic I do have another question. I do need to schedule an appointment with the doctor.",
+      "confidence": 0.927,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 284.56,
+      "end": 284.8,
+      "text": "Is",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 284.8,
+      "end": 290.88,
+      "text": "it possible I could do it online instead of coming in? It's",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 290.88,
+      "end": 291.02,
+      "text": "just",
+      "confidence": 0.984,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 291.02,
+      "end": 295.6,
+      "text": "with work and everything. I find I really struggle to get the time off.",
+      "confidence": 0.995,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 296.26,
+      "end": 297.16,
+      "text": "My managers",
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 297.16,
+      "end": 300.28,
+      "text": "are really horrible and strict about",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 300.28,
+      "end": 300.9,
+      "text": "what we have",
+      "confidence": 0.715,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 300.9,
+      "end": 307.64,
+      "text": "time off for and if I can do it sort of whilst I'm working at home.",
+      "confidence": 0.887,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 308.54,
+      "end": 342.18,
+      "text": "Yeah so we do have lots of different telehealth consultations and so you can sort that out for you again the system's down at the moment for me to be able to do that for you but you can use the app to complete for a you know to have a computer to have a telephone appointment or online through our CVP system. They are available to be booked all of the time but unfortunately it's not working today on the computer. We've had some gremlins in the network. No that's fine, that's understandable.",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 343.0,
+      "end": 359.5,
+      "text": "Are you able to check, so I like to go and see Dr Smith, is it any possibility you could check the system at all to see if they've got any availability for me to go online and book that on the app",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 359.5,
+      "end": 365.86,
+      "text": "okay yeah so they're very i know they're very very popular but they do have an awful lot of space at",
+      "confidence": 0.892,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 365.86,
+      "end": 365.86,
+      "text": "the",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 365.86,
+      "end": 383.26,
+      "text": "minute we seem to be seeking a quiet period which is very unheard of um but you can book an appointment if you were to do it now you could get one for next wednesday and they're relatively free all day although that's brilliant thank you so much for that no that's absolutely fine",
+      "confidence": 0.956,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 383.26,
+      "end": 388.74,
+      "text": "um great so uh my can i just double check",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 388.74,
+      "end": 389.08,
+      "text": "yeah",
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 389.08,
+      "end": 406.42,
+      "text": "that my appointment is confirmed for my blood test yeah that's on the the tuesdays until 9 30 okay and the medication refill um did you say that that that you've arranged that or is that's something i need to arrange",
+      "confidence": 0.909,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 406.42,
+      "end": 406.88,
+      "text": "so",
+      "confidence": 0.886,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 406.88,
+      "end": 407.8,
+      "text": "you need to come",
+      "confidence": 0.81,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 407.8,
+      "end": 420.74,
+      "text": "oh sure apologize you'll need to come in um or complete on the app the uh request then it goes to the doctor to sign off and then it'll go to your local uh pharmacy that you've selected",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 420.74,
+      "end": 428.38,
+      "text": "okay no that's that's i completely get that um okay yeah no that's brilliant thank you so much",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 428.38,
+      "end": 431.04,
+      "text": "no that's everything lovely",
+      "confidence": 0.685,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 431.04,
+      "end": 440.1,
+      "text": "well if that's everything and take care and all the best okay no that's brilliant and uh your phone lines quite free in case i do need to call",
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 440.1,
+      "end": 441.28,
+      "text": "yes yes",
+      "confidence": 0.785,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 441.28,
+      "end": 444.64,
+      "text": "they are okay no that's lovely thank you for",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 444.64,
+      "end": 444.96,
+      "text": "that all",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 444.96,
+      "end": 445.12,
+      "text": "right",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 445.12,
+      "end": 448.48,
+      "text": "then we'll take care then tomorrow thank you goodbye",
+      "confidence": 0.984,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 458.98,
+      "end": 460.78,
+      "text": "Bye. Right, come on.",
+      "confidence": 0.571,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): The speaker who greets and asks for patient information (SPEAKER_00) is performing typical call‑center agent tasks, while the other speaker provides personal details, indicating the customer."
+}

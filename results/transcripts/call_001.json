@@ -1,0 +1,926 @@
+{
+  "call_id": "call_001",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Good morning. Thank you for calling Fox Korea. My name is Ali. How can I help you today? Hi, my name is Jenny. I'm waiting for a really important package, but it hasn't has not arrived on time and I was told it would arrive by yesterday still not here I really need this package oh I'm sorry to hear dad I understand you're calling about a package that hasn't arrived on time especially since it contains important information let's get this sorted out for you and you wanted this urgently can i please have your tracking number so i can look up the shipment details yeah it's four five nine two one seven eight four five sorry the last numbers were eight four five was it yeah okay thank you just let me bring this on the system. Thank you Jenny. I can see here that your package was due to arrive on 24th. Okay but you understand how there was some storms happening in the last couple of days. I understand that it's been delayed due to the storms. It is currently at the Tullamarine Airport facility. Oh, yeah. So my understanding is, can I confirm that this is going to be shipped to Brunswick? Yes, it is. Okay. So I wouldn't expect this to be more than another day or so, but if you require this shipment immediately, what I can do is to lodge a trace request so we can then monitor the package closely and make sure it continues to move through the network. Okay. Would you like me to do that for you? Yes, please. Okay. Just bear with me and I'll need to collect some information from you. So while I set this up, when we put this through, you will receive an update as soon as there is new tracking information. So the latest that I have is the package has arrived at Tulamar and airport at 9.15 this morning, so very recently. Okay. I can also upgrade this for you for faster handling, but that will cost you additional delivery. Would you like me to do that? Would it make it faster? It does. It is a little bit expensive. There is an additional $30 for that, but most likely you will be receiving that one by the end of today. I really like that idea because it's got some very important details, sorry, some very important documents that I need and I kind of need it today. Okay. Yeah, I'll go with that idea. Thank you. All right. So let's do that. So just bear with me. I will need to cancel that trace request and then upgrade this to expedited service for faster handling. Okay, yep. It is confirming that you should be able to receive that by 4.30 p.m. today. That would be perfect. So for that, I will need your tracking number, which I've got it. updated delivery no other information is going to change no no all the information stays the same okay fantastic so what i'll need is your credit card information in a second if you want to grab that while i complete your app processing yeah fantastic okay i've processed the upgrade um so can you tell me your name on the credit card Yes, Jennifer O'Brien. Yep. And what is your credit card number? It's 5452 100 954. 5454 100? Yep. And what was the last? 9254. 9254. Thank you. And the security code on the card? 459. 459. Perfect. Okay. This might take a couple of seconds. Beautiful. So what will happen now? We had your email address here. You should be receiving a confirmation on that. I'll stay on the line if you don't mind checking that your email has been received. Yep, the email has been received. Perfect. Was there anything else that we can help you today? No, I think that's all for today. Thank you. Great. Look, since you have upgraded this, you will receive a notification. we will receive a notification that the parcel has been received. But in the meantime, if there was anything else that you need help, you can always contact us 24-7 on this line and we will be able to help you. And thank you so much for your patience again. And I'm sorry about the delay. No, that's okay. Thank you. Thank you so much. And yeah, as I said, please feel free to call us any time, especially if you didn't receive it up to 4.30pm this afternoon. Thank you so much, Jenny, and have a great day. You too. Bye-bye.",
+  "diarization": [
+    {
+      "start": 13.328468750000003,
+      "end": 16.80471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17.37846875,
+      "end": 19.79159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 20.28096875,
+      "end": 24.73596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24.95534375,
+      "end": 33.00471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 33.96659375,
+      "end": 39.43409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 40.07534375,
+      "end": 44.580968750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 45.05346875,
+      "end": 48.158468750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 48.664718750000006,
+      "end": 51.752843750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 51.90471875,
+      "end": 56.258468750000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.96721875,
+      "end": 61.523468750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 63.68346875,
+      "end": 67.36221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 67.66596875,
+      "end": 72.66096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 78.02721875,
+      "end": 84.84471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 85.62096875,
+      "end": 87.73034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 88.77659375,
+      "end": 89.45159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 92.15159375,
+      "end": 102.51284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 104.13284375,
+      "end": 108.94221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 110.68034375,
+      "end": 111.03471875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 111.62534375000001,
+      "end": 118.18971875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 118.66221875000001,
+      "end": 119.47221875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 120.33284375000001,
+      "end": 121.04159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 121.41284375000001,
+      "end": 124.63596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 125.17596875000001,
+      "end": 127.58909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 127.90971875000001,
+      "end": 128.55096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 128.97284375,
+      "end": 140.02596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 140.59971875000002,
+      "end": 143.02971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 144.44721875000002,
+      "end": 144.58221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 144.83534375000002,
+      "end": 146.96159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 147.23159375,
+      "end": 148.02471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 148.36221875,
+      "end": 153.23909375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 159.65159375000002,
+      "end": 168.32534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 168.56159375000001,
+      "end": 173.75909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 174.28221875,
+      "end": 175.85159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 176.89784375000002,
+      "end": 180.20534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 181.92659375000002,
+      "end": 182.46659375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 184.87971875000002,
+      "end": 189.19971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 190.00971875000002,
+      "end": 195.30846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 195.73034375,
+      "end": 198.21096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 199.07159375,
+      "end": 200.53971875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 201.88971875000001,
+      "end": 202.07534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 202.07534375,
+      "end": 202.58159375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 202.58159375000002,
+      "end": 207.44159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 207.69471875000002,
+      "end": 212.01471875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 213.19596875000002,
+      "end": 214.17471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 214.93409375000002,
+      "end": 222.84846875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 223.65846875000003,
+      "end": 225.80159375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 226.66221875000002,
+      "end": 233.76659375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 234.17159375000003,
+      "end": 237.76596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 239.18346875,
+      "end": 243.97596875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 244.90409375000002,
+      "end": 246.47346875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 251.09721875000002,
+      "end": 252.22784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 254.77596875,
+      "end": 256.24409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 256.95284375,
+      "end": 264.42846875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 264.81659375000004,
+      "end": 265.42409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 265.66034375000004,
+      "end": 266.03159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 266.03159375,
+      "end": 266.14971875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 266.14971875000003,
+      "end": 267.31409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 267.46596875,
+      "end": 277.92846875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 278.23221875,
+      "end": 278.51909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 282.77159375,
+      "end": 290.77034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 291.69846875,
+      "end": 293.31846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 295.29284375000003,
+      "end": 295.61346875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 299.59596875,
+      "end": 301.65471875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 302.41409375,
+      "end": 307.12221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 313.18034375,
+      "end": 318.74909375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 319.30596875000003,
+      "end": 320.45346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 320.75721875,
+      "end": 322.44471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 322.78221875,
+      "end": 326.10659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 326.73096875000005,
+      "end": 328.04721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 329.21159375,
+      "end": 330.67971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 331.08471875000004,
+      "end": 332.24909375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 333.10971875,
+      "end": 333.76784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 334.13909375000003,
+      "end": 335.35409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 335.67471875,
+      "end": 337.07534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 341.59784375000004,
+      "end": 342.03659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 342.03659375,
+      "end": 342.13784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 342.13784375,
+      "end": 342.20534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 342.20534375,
+      "end": 342.44159375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 342.44159375000004,
+      "end": 353.83221875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 356.95409375,
+      "end": 358.33784375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 359.08034375,
+      "end": 359.72159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 361.61159375,
+      "end": 364.10909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 365.02034375000005,
+      "end": 365.79659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 365.98221875,
+      "end": 368.22659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 368.64846875,
+      "end": 377.76096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 378.21659375,
+      "end": 380.41034375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 380.74784375,
+      "end": 390.01221875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 390.38346875,
+      "end": 394.46721875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 395.02409375,
+      "end": 396.00284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 396.20534375,
+      "end": 396.81284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 397.47096875000005,
+      "end": 406.80284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 408.23721875,
+      "end": 408.25409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 408.25409375000004,
+      "end": 410.48159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 411.00471875000005,
+      "end": 411.02159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 411.02159375,
+      "end": 411.49409375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 412.65846875000005,
+      "end": 413.01284375,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 13.04,
+      "end": 19.58,
+      "text": "Good morning. Thank you for calling Fox Korea. My name is Ali. How can I help you today?",
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 20.36,
+      "end": 34.16,
+      "text": "Hi, my name is Jenny. I'm waiting for a really important package, but it hasn't has not arrived on time and I was told it would arrive by yesterday still not here I really need this package oh",
+      "confidence": 0.858,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 34.16,
+      "end": 56.02,
+      "text": "I'm sorry to hear dad I understand you're calling about a package that hasn't arrived on time especially since it contains important information let's get this sorted out for you and you wanted this urgently can i please have your tracking number so i can look up the shipment details",
+      "confidence": 0.972,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 56.8,
+      "end": 61.28,
+      "text": "yeah it's four five nine two one seven eight four five",
+      "confidence": 0.928,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 63.22,
+      "end": 72.4,
+      "text": "sorry the last numbers were eight four five was it yeah okay thank you just let me bring this on the system.",
+      "confidence": 0.881,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 77.36,
+      "end": 89.52,
+      "text": "Thank you Jenny. I can see here that your package was due to arrive on 24th.",
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 91.58,
+      "end": 118.06,
+      "text": "Okay but you understand how there was some storms happening in the last couple of days. I understand that it's been delayed due to the storms. It is currently at the Tullamarine Airport facility. Oh, yeah. So my understanding is, can I confirm that this is going to be shipped to Brunswick?",
+      "confidence": 0.97,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 118.36,
+      "end": 119.34,
+      "text": "Yes, it is.",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 120.1,
+      "end": 143.0,
+      "text": "Okay. So I wouldn't expect this to be more than another day or so, but if you require this shipment immediately, what I can do is to lodge a trace request so we can then monitor the package closely and make sure it continues to move through the network.",
+      "confidence": 0.981,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 144.02,
+      "end": 144.66,
+      "text": "Okay.",
+      "confidence": 0.388,
+      "low_confidence": true,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 144.86,
+      "end": 146.84,
+      "text": "Would you like me to do that for you?",
+      "confidence": 0.988,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 147.06,
+      "end": 147.74,
+      "text": "Yes, please.",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 148.36,
+      "end": 153.18,
+      "text": "Okay. Just bear with me and I'll need to collect some information from you.",
+      "confidence": 0.988,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 159.06,
+      "end": 198.08,
+      "text": "So while I set this up, when we put this through, you will receive an update as soon as there is new tracking information. So the latest that I have is the package has arrived at Tulamar and airport at 9.15 this morning, so very recently. Okay. I can also upgrade this for you for faster handling, but that will cost you additional delivery. Would you like me to do that?",
+      "confidence": 0.942,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 198.66,
+      "end": 200.3,
+      "text": "Would it make it faster?",
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 201.4,
+      "end": 202.2,
+      "text": "It",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 202.2,
+      "end": 202.48,
+      "text": "does.",
+      "confidence": 0.867,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 202.6,
+      "end": 213.66,
+      "text": "It is a little bit expensive. There is an additional $30 for that, but most likely you will be receiving that one by the end of today.",
+      "confidence": 0.989,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 215.04,
+      "end": 225.7,
+      "text": "I really like that idea because it's got some very important details, sorry, some very important documents that I need and I kind of need it today. Okay. Yeah, I'll go with that idea. Thank you.",
+      "confidence": 0.968,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 226.6,
+      "end": 246.02,
+      "text": "All right. So let's do that. So just bear with me. I will need to cancel that trace request and then upgrade this to expedited service for faster handling. Okay, yep. It is confirming that you should be able to receive that by 4.30 p.m. today.",
+      "confidence": 0.971,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 250.64,
+      "end": 251.94,
+      "text": "That would be perfect.",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 254.42,
+      "end": 264.3,
+      "text": "So for that, I will need your tracking number, which I've got it. updated delivery no other information is going to change",
+      "confidence": 0.929,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 264.3,
+      "end": 267.14,
+      "text": "no no all the information stays the same",
+      "confidence": 0.864,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 267.14,
+      "end": 278.44,
+      "text": "okay fantastic so what i'll need is your credit card information in a second if you want to grab that while i complete your app processing yeah",
+      "confidence": 0.96,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 282.5,
+      "end": 290.64,
+      "text": "fantastic okay i've processed the upgrade um so can you tell me your name on the credit card",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 290.64,
+      "end": 293.14,
+      "text": "Yes, Jennifer O'Brien.",
+      "confidence": 0.881,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 294.78,
+      "end": 295.54,
+      "text": "Yep.",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 298.98,
+      "end": 301.48,
+      "text": "And what is your credit card number?",
+      "confidence": 0.958,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 302.08,
+      "end": 307.02,
+      "text": "It's 5452 100 954.",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 314.42,
+      "end": 318.54,
+      "text": "5454 100? Yep. And what was the last?",
+      "confidence": 0.981,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 319.58,
+      "end": 320.34,
+      "text": "9254.",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 321.64,
+      "end": 326.1,
+      "text": "9254. Thank you. And the security code on the card?",
+      "confidence": 0.912,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 327.2,
+      "end": 327.92,
+      "text": "459.",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 329.6,
+      "end": 336.66,
+      "text": "459. Perfect. Okay. This might take a couple of seconds.",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 341.4,
+      "end": 353.74,
+      "text": "Beautiful. So what will happen now? We had your email address here. You should be receiving a confirmation on that. I'll stay on the line if you don't mind checking that your email has been received.",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 356.64,
+      "end": 358.28,
+      "text": "Yep, the email has been received.",
+      "confidence": 0.887,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 358.92,
+      "end": 363.94,
+      "text": "Perfect. Was there anything else that we can help you today?",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 365.86,
+      "end": 368.1,
+      "text": "No, I think that's all for today. Thank you.",
+      "confidence": 0.986,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 368.58,
+      "end": 394.32,
+      "text": "Great. Look, since you have upgraded this, you will receive a notification. we will receive a notification that the parcel has been received. But in the meantime, if there was anything else that you need help, you can always contact us 24-7 on this line and we will be able to help you. And thank you so much for your patience again. And I'm sorry about the delay.",
+      "confidence": 0.983,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 394.9,
+      "end": 396.66,
+      "text": "No, that's okay. Thank you.",
+      "confidence": 0.971,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 397.14,
+      "end": 410.36,
+      "text": "Thank you so much. And yeah, as I said, please feel free to call us any time, especially if you didn't receive it up to 4.30pm this afternoon. Thank you so much, Jenny, and have a great day.",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 410.96,
+      "end": 411.4,
+      "text": "You too.",
+      "confidence": 0.869,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 412.5,
+      "end": 412.94,
+      "text": "Bye-bye.",
+      "confidence": 0.981,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_01 greets, introduces themselves as a representative and handles the inquiry, while Speaker_00 asks about a missing package."
+}

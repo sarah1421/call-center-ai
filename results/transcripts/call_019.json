@@ -1,0 +1,1661 @@
+{
+  "call_id": "call_019",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hi there, thanks for calling the Campsy pub and Functions. How can I help you today? Hiya, I'm calling to ask about the catering services for a 30 birthday party. Okay, and how many people do you think should be there? Well, we're expecting at least 30 guests to turn up. Right, so what are you wanting to know the price per head for the catering? Information about your packages for catering. So, it depends what you're after. Well, I need the pricing where it's going to be a per head. i'm asking about the vegetarian and gluten free options and things like that yeah so we do do vegetarian and we also do gluten free so that's not a problem at all so we can offer things like sandwiches party snacks like sausage rolls chicken sati squares spring rolls um you know crisps snacks rolls, hot food so we can do a package per person for that it would come in around how many is it? 30? At least it should turn up possibly more I really want to know about the pricing is per head so it's about £5 per head for that package or we do have upgrade a wee bit yeah we have a more expensive one where you get sorry like kind of meal sort of thing like that yeah yeah I don't mean like a meal like obviously it's a 30th but you know yourself people get a wee bit to drink they'll be looking for something to eat Yeah, so we do have a more extensive package where you get like pizzas such as like pepperoni, cheese, spicy chicken, you get like chips, chicken nuggets, you know, hot food, things like that. That package, and it also comes with the sandwiches, the sausage rolls as well, that package is a wee bit more expensive. That one is actually £8 per head, per person, but to be honest, you're getting the pizza and the chips and stuff as well. No, it'd just be like pizzas, probably just shoes and maybe sandwiches and things like that. I know the pizzas would be fine, so if I had the pizzas, like the sandwiches and maybe snacks on the tables and things. And the chips? I'm not too sure. I don't think I'd really bother with them. Okay, so if you're not looking... And obviously I'd be giving them like a free drink. So if you're not looking for the chips then it'd be £7 per person per head. Regarding free drinks would you be putting money behind the bar or? Aye but for the first drink. Right so one drink per person. Yeah. Let me just check for you. So if it's 30 people it would be like £90. so we can do the drinks like £3 per head basically. That sounds okay. So that's like £3 a head, so roughly how much is that going to cost me for roughly about £30? So for 30 people, I'll just check for you now. So £7. I'd need to. So for your food package, it'd be £210. For your drinks, it would be £90. £210, you're looking at £300 for everything. Right, so, and what about the vegetarian, gluten-free, there'll be people there for that as well, but I'm not sure. Yeah, we can include that, but do you know how many people are? I think it's about 10 of them, maybe. Right, so. Maybe a wee bit less. Well, we wouldn't charge any extra for that because that's just like a dietary requirement, so we would just add in the vegetarian and gluten-free option, so we'd have that like on a separate tray for people. Right. For a second. And could you tell me about the delivery and the set-up services? So, there wouldn't really be any delivery because our chefs would make the food for you here. Set-up service, we only charge like £15 to lay it out for you and set it all up. Right, and you'll set the tables out and things like that with like the snacks and things. Yeah, so £315 for everything including your set-up because our chef cooks the food. and like say the banners and things i do all that myself um yeah and you would need to do that yourself you can come up and do that or if you want to hire someone separate to come in and do that and the cake i just put that behind the bar and things yeah right there's any chance i could have like a sample of your menu just to review before I can book it yeah yeah I can email you over at a menu can I take your email address it's kennybells665 at hotmail.com so I'll just confirm that back to you was that Kenny K for kilo E for echo N for November N for November Y for Yankee Bells B for bravo E for echo L for Lima L for Lima S for Sierra 65 at hotmail.com yes sorry that's okay who am I speaking with today what's your name I'm Mrs Miller Mrs Miller okay so what I'll do I'll send an email over to you you should get that straight away and that will allow you to look at the menu alright and if you are looking to book we do just require a £30 deposit I'd need to give you the date first yeah yeah when when are you looking for it's a february the fourth we actually do have a lot availability i should have asked you that at the start but we've got a lot of availability the fourth of february um yeah we can do that so if you want to pay your 30 pound deposit two weeks before and then if you pay the remainder at least five days before right and you're just email me over the menu and i can have a quick view on that and then get back to you on it how long will i have a milky to take a day or so to check over them yeah yeah you can you can take a day or so but obviously it's a first come first serve basis as you can imagine with things like this so if someone books it then you know they've got it if they're going to pay a deposit up front what time is it open till what time is the bar that things that are open till what time So it's open till 1am. Last orders at the bar will be like 12.30am. So, right, that's great. Thank you very much for your help. Thank you. And I'll get back to you soon. Right, thank you. No worries. Have a nice day. Bye-bye. Thank you.",
+  "diarization": [
+    {
+      "start": 12.349718750000001,
+      "end": 16.652843750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.72034375,
+      "end": 16.973468750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.973468750000002,
+      "end": 20.98971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 21.44534375,
+      "end": 22.96409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 23.622218750000002,
+      "end": 27.01409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 27.28409375,
+      "end": 31.637843750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 32.83596875,
+      "end": 33.64596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 34.64159375,
+      "end": 34.658468750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 34.658468750000004,
+      "end": 34.67534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 34.67534375,
+      "end": 34.81034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 34.81034375,
+      "end": 37.42596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 37.42596875,
+      "end": 41.03721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 42.06659375,
+      "end": 42.674093750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 43.90596875,
+      "end": 47.196593750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.69846875,
+      "end": 48.73221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 48.73221875,
+      "end": 48.96846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.96846875,
+      "end": 52.562843750000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 53.37284375,
+      "end": 57.55784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 58.21596875,
+      "end": 62.282843750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 62.65409375,
+      "end": 68.12159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 68.29034375,
+      "end": 71.17596875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 71.66534375,
+      "end": 72.42471875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 72.55971875,
+      "end": 74.88846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 76.01909375000001,
+      "end": 78.04409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 78.31409375,
+      "end": 79.44471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 80.10284375,
+      "end": 84.27096875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 85.55346875000001,
+      "end": 87.27471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 87.93284375,
+      "end": 90.61596875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 91.59471875000001,
+      "end": 94.49721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 98.20971875000001,
+      "end": 99.08721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 99.35721875,
+      "end": 102.44534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 103.06971875,
+      "end": 103.10346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 103.10346875,
+      "end": 105.11159375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 105.51659375000001,
+      "end": 105.53346875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 105.53346875000001,
+      "end": 105.55034375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 105.55034375000001,
+      "end": 105.58409375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 105.58409375000001,
+      "end": 105.70221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 105.70221875,
+      "end": 106.02284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 106.02284375,
+      "end": 106.25909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 106.25909375,
+      "end": 106.96784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 106.96784375,
+      "end": 107.06909375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 107.06909375000001,
+      "end": 107.13659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 107.13659375,
+      "end": 107.22096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 107.22096875000001,
+      "end": 107.30534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 107.30534375,
+      "end": 107.76096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 107.76096875,
+      "end": 107.77784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 107.77784375,
+      "end": 108.09846875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.99284375,
+      "end": 109.24596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 109.24596875,
+      "end": 109.34721875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 109.34721875000001,
+      "end": 109.38096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 109.78596875000001,
+      "end": 113.05971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 113.46471875,
+      "end": 116.28284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 117.07596875,
+      "end": 118.96596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 119.42159375000001,
+      "end": 123.85971875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 124.60221875,
+      "end": 125.02409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 125.14221875000001,
+      "end": 132.07784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 132.34784375,
+      "end": 134.59221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 135.01409375,
+      "end": 138.40596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 138.86159375,
+      "end": 140.65034375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 141.02159375000002,
+      "end": 144.24471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 144.43034375000002,
+      "end": 150.42096875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 150.94409375,
+      "end": 154.53846875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 154.53846875000002,
+      "end": 159.07784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 159.70221875000001,
+      "end": 159.80346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 159.80346875,
+      "end": 160.02284375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 160.02284375000002,
+      "end": 161.94659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 162.63846875000002,
+      "end": 167.29596875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 167.61659375000002,
+      "end": 168.79784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 169.48971875,
+      "end": 172.89846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 174.99096875,
+      "end": 175.81784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 175.81784375,
+      "end": 175.90221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 175.90221875,
+      "end": 175.96971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 175.96971875,
+      "end": 179.83409375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 180.49221875,
+      "end": 181.69034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 182.66909375,
+      "end": 183.09096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 183.24284375000002,
+      "end": 187.07346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 187.73159375,
+      "end": 188.37284375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 188.71034375000002,
+      "end": 192.10221875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 192.55784375000002,
+      "end": 194.31284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 195.30846875,
+      "end": 196.86096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 197.56971875000002,
+      "end": 198.02534375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 199.27409375000002,
+      "end": 200.40471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 203.39159375000003,
+      "end": 204.20159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 206.05784375000002,
+      "end": 208.26846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 209.43284375000002,
+      "end": 214.15784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 215.00159375,
+      "end": 216.53721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 217.31346875000003,
+      "end": 223.13534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 223.13534375,
+      "end": 226.59471875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 227.43846875000003,
+      "end": 228.80534375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 229.24409375000002,
+      "end": 230.34096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 231.01596875,
+      "end": 234.61034375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 235.74096875,
+      "end": 238.00221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 238.59284375000001,
+      "end": 242.92971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 242.92971875,
+      "end": 247.24971875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.24971875000003,
+      "end": 247.26659375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 247.26659375000003,
+      "end": 248.26221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 248.26221875000002,
+      "end": 250.77659375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 251.31659375,
+      "end": 251.62034375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 251.97471875000002,
+      "end": 254.21909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 254.21909375,
+      "end": 254.89409375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 254.89409375000002,
+      "end": 256.41284375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 256.54784375,
+      "end": 256.95284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 257.22284375000004,
+      "end": 267.19596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 267.58409375,
+      "end": 267.75284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 267.75284375,
+      "end": 268.02284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 268.02284375,
+      "end": 268.20846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 268.20846875,
+      "end": 268.29284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 269.37284375,
+      "end": 273.32159375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 274.65471875000003,
+      "end": 274.67159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 274.67159375,
+      "end": 275.63346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 276.49409375,
+      "end": 281.74221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 281.92784375,
+      "end": 287.86784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 288.07034375,
+      "end": 292.42409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 292.42409375,
+      "end": 292.89659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 292.89659375,
+      "end": 293.16659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 293.33534375,
+      "end": 297.87471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 298.66784375000003,
+      "end": 299.62971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 300.38909375000003,
+      "end": 303.17346875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 303.98346875000004,
+      "end": 310.93596875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 311.40846875,
+      "end": 314.44596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 314.44596875,
+      "end": 314.73284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 315.93096875000003,
+      "end": 320.72346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 321.80346875000004,
+      "end": 321.82034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 321.82034375,
+      "end": 321.97221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 321.97221875,
+      "end": 322.36034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 322.36034375,
+      "end": 322.52909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 322.52909375,
+      "end": 322.64721875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 322.88346875,
+      "end": 322.90034375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 322.90034375000005,
+      "end": 323.01846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 323.01846875,
+      "end": 323.60909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 323.60909375,
+      "end": 325.41471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 326.12346875000003,
+      "end": 331.50659375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 332.87346875000003,
+      "end": 336.85596875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 337.34534375000004,
+      "end": 338.72909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 339.25221875,
+      "end": 345.36096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 345.36096875000004,
+      "end": 345.37784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 345.37784375,
+      "end": 345.64784375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 345.64784375000005,
+      "end": 346.01909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 346.01909375,
+      "end": 352.38096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 353.20784375,
+      "end": 354.30471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 354.30471875,
+      "end": 354.96284375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 355.65471875000003,
+      "end": 358.05096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 359.11409375,
+      "end": 360.80159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 361.49346875000003,
+      "end": 376.05659375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 376.36034375,
+      "end": 376.91721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 376.91721875,
+      "end": 379.04346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 379.54971875,
+      "end": 381.43971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 381.43971875,
+      "end": 383.21159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 383.75159375000004,
+      "end": 387.80159375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 387.80159375000005,
+      "end": 388.25721875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 388.25721875000005,
+      "end": 389.77596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 390.38346875,
+      "end": 392.62784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 392.71221875000003,
+      "end": 397.03221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 397.40346875,
+      "end": 402.01034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 402.71909375,
+      "end": 407.64659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 408.32159375000003,
+      "end": 411.08909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 411.32534375,
+      "end": 414.48096875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 414.48096875000005,
+      "end": 415.47659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 415.56096875000003,
+      "end": 421.68659375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 422.36159375000005,
+      "end": 422.73284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 423.01971875000004,
+      "end": 425.66909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 425.71971875,
+      "end": 427.67721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 427.67721875,
+      "end": 427.84596875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 427.84596875000005,
+      "end": 428.26784375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 428.26784375000005,
+      "end": 428.84159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 428.84159375,
+      "end": 431.23784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 431.23784375,
+      "end": 434.35971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 434.57909375,
+      "end": 435.67596875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 436.73909375000005,
+      "end": 437.29596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 438.07221875000005,
+      "end": 440.73846875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 442.05471875,
+      "end": 442.08846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 442.08846875,
+      "end": 442.10534375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 442.10534375000003,
+      "end": 442.25721875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 442.25721875000005,
+      "end": 442.44284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 442.44284375,
+      "end": 443.97846875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 443.97846875000005,
+      "end": 444.19784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 444.19784375,
+      "end": 444.33284375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 444.33284375000005,
+      "end": 444.78846875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 444.78846875000005,
+      "end": 444.97409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 444.97409375,
+      "end": 445.07534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 445.07534375,
+      "end": 447.31971875000005,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 11.94,
+      "end": 16.44,
+      "text": "Hi there, thanks for calling the Campsy pub and Functions. How can I help you today?",
+      "confidence": 0.869,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 16.86,
+      "end": 34.8,
+      "text": "Hiya, I'm calling to ask about the catering services for a 30 birthday party. Okay, and how many people do you think should be there? Well, we're expecting at least 30 guests to turn up. Right, so what are you",
+      "confidence": 0.861,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 34.8,
+      "end": 37.34,
+      "text": "wanting to know the price per head for the catering?",
+      "confidence": 0.958,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 37.48,
+      "end": 40.98,
+      "text": "Information about your packages for catering.",
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 42.94,
+      "end": 45.38,
+      "text": "So, it depends what you're after.",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 48.44,
+      "end": 49.0,
+      "text": "Well,",
+      "confidence": 0.881,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 49.0,
+      "end": 57.52,
+      "text": "I need the pricing where it's going to be a per head. i'm asking about the vegetarian and gluten free options and things like that yeah",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 57.52,
+      "end": 87.14,
+      "text": "so we do do vegetarian and we also do gluten free so that's not a problem at all so we can offer things like sandwiches party snacks like sausage rolls chicken sati squares spring rolls um you know crisps snacks rolls, hot food so we can do a package per person for that it would come in around how many is it? 30?",
+      "confidence": 0.901,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 87.88,
+      "end": 94.32,
+      "text": "At least it should turn up possibly more I really want to know about the pricing is per head",
+      "confidence": 0.822,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 97.82,
+      "end": 102.34,
+      "text": "so it's about £5 per head for that package or",
+      "confidence": 0.905,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 102.34,
+      "end": 105.72,
+      "text": "we do have upgrade a wee bit yeah",
+      "confidence": 0.691,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 105.72,
+      "end": 107.36,
+      "text": "we have a more expensive one where",
+      "confidence": 0.856,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 107.36,
+      "end": 123.86,
+      "text": "you get sorry like kind of meal sort of thing like that yeah yeah I don't mean like a meal like obviously it's a 30th but you know yourself people get a wee bit to drink they'll be looking for something to eat",
+      "confidence": 0.928,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 124.32,
+      "end": 154.42,
+      "text": "Yeah, so we do have a more extensive package where you get like pizzas such as like pepperoni, cheese, spicy chicken, you get like chips, chicken nuggets, you know, hot food, things like that. That package, and it also comes with the sandwiches, the sausage rolls as well, that package is a wee bit more expensive. That one is actually £8 per head, per person, but to be honest, you're getting the pizza and the chips and stuff as well. No,",
+      "confidence": 0.97,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 154.48,
+      "end": 159.84,
+      "text": "it'd just be like pizzas, probably just shoes and maybe sandwiches and things like that. I",
+      "confidence": 0.913,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 159.84,
+      "end": 159.98,
+      "text": "know",
+      "confidence": 0.988,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 159.98,
+      "end": 167.1,
+      "text": "the pizzas would be fine, so if I had the pizzas, like the sandwiches and maybe snacks on the tables and things.",
+      "confidence": 0.97,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 167.66,
+      "end": 168.48,
+      "text": "And the chips?",
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 169.5,
+      "end": 172.82,
+      "text": "I'm not too sure. I don't think I'd really bother with them.",
+      "confidence": 0.97,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 174.7,
+      "end": 176.06,
+      "text": "Okay, so",
+      "confidence": 0.951,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 176.06,
+      "end": 181.48,
+      "text": "if you're not looking... And obviously I'd be giving them like a free drink.",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 182.44,
+      "end": 192.0,
+      "text": "So if you're not looking for the chips then it'd be £7 per person per head. Regarding free drinks would you be putting money behind the bar or?",
+      "confidence": 0.903,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 192.56,
+      "end": 194.2,
+      "text": "Aye but for the first drink.",
+      "confidence": 0.907,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 194.96,
+      "end": 196.8,
+      "text": "Right so one drink per person.",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 197.6,
+      "end": 197.86,
+      "text": "Yeah.",
+      "confidence": 0.927,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 198.88,
+      "end": 200.3,
+      "text": "Let me just check for you.",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 205.2,
+      "end": 214.06,
+      "text": "So if it's 30 people it would be like £90. so we can do the drinks like £3 per head basically.",
+      "confidence": 0.941,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 214.84,
+      "end": 222.88,
+      "text": "That sounds okay. So that's like £3 a head, so roughly how much is that going to cost me for roughly about £30?",
+      "confidence": 0.909,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 223.12,
+      "end": 242.94,
+      "text": "So for 30 people, I'll just check for you now. So £7. I'd need to. So for your food package, it'd be £210. For your drinks, it would be £90. £210, you're looking at £300 for everything. Right,",
+      "confidence": 0.913,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 242.94,
+      "end": 248.26,
+      "text": "so, and what about the vegetarian, gluten-free, there'll be people there for that as well, but I'm not sure.",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 248.32,
+      "end": 251.5,
+      "text": "Yeah, we can include that, but do you know how many people are?",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 251.72,
+      "end": 253.94,
+      "text": "I think it's about 10 of them, maybe.",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 254.2,
+      "end": 254.78,
+      "text": "Right, so. Maybe",
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 254.78,
+      "end": 256.08,
+      "text": "a wee bit less.",
+      "confidence": 0.92,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 256.62,
+      "end": 267.98,
+      "text": "Well, we wouldn't charge any extra for that because that's just like a dietary requirement, so we would just add in the vegetarian and gluten-free option, so we'd have that like on a separate tray for people. Right. For",
+      "confidence": 0.952,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 267.98,
+      "end": 272.98,
+      "text": "a second. And could you tell me about the delivery and the set-up services?",
+      "confidence": 0.85,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 275.76,
+      "end": 287.82,
+      "text": "So, there wouldn't really be any delivery because our chefs would make the food for you here. Set-up service, we only charge like £15 to lay it out for you and set it all up.",
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 288.08,
+      "end": 293.22,
+      "text": "Right, and you'll set the tables out and things like that with like the snacks and things. Yeah,",
+      "confidence": 0.928,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 293.4,
+      "end": 297.88,
+      "text": "so £315 for everything including your set-up because our chef cooks the food.",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 297.88,
+      "end": 302.86,
+      "text": "and like say the banners and things i do all that myself",
+      "confidence": 0.811,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 303.72,
+      "end": 310.9,
+      "text": "um yeah and you would need to do that yourself you can come up and do that or if you want to hire someone separate to come in and do that",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 310.9,
+      "end": 314.28,
+      "text": "and the cake i just put that behind the bar and things",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 314.28,
+      "end": 314.64,
+      "text": "yeah",
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 314.64,
+      "end": 320.52,
+      "text": "right there's any chance i could have like a sample of your menu",
+      "confidence": 0.955,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 322.16,
+      "end": 323.7,
+      "text": "just to review",
+      "confidence": 0.693,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 323.7,
+      "end": 325.4,
+      "text": "before I can book it",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 325.4,
+      "end": 331.3,
+      "text": "yeah yeah I can email you over at a menu can I take your email address",
+      "confidence": 0.857,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 335.52,
+      "end": 338.68,
+      "text": "it's kennybells665 at hotmail.com",
+      "confidence": 0.923,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 338.68,
+      "end": 352.34,
+      "text": "so I'll just confirm that back to you was that Kenny K for kilo E for echo N for November N for November Y for Yankee Bells B for bravo E for echo L for Lima L for Lima S for Sierra 65 at hotmail.com",
+      "confidence": 0.867,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 353.2,
+      "end": 354.32,
+      "text": "yes sorry",
+      "confidence": 0.53,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 355.24,
+      "end": 358.0,
+      "text": "that's okay who am I speaking with today what's your name",
+      "confidence": 0.936,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 359.24,
+      "end": 360.64,
+      "text": "I'm Mrs Miller",
+      "confidence": 0.869,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 361.2,
+      "end": 375.88,
+      "text": "Mrs Miller okay so what I'll do I'll send an email over to you you should get that straight away and that will allow you to look at the menu alright and if you are looking to book we do just require a £30 deposit",
+      "confidence": 0.972,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 376.78,
+      "end": 378.74,
+      "text": "I'd need to give you the date first",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 379.3,
+      "end": 381.32,
+      "text": "yeah yeah when when are you looking for",
+      "confidence": 0.834,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 381.32,
+      "end": 383.9,
+      "text": "it's a february the fourth we",
+      "confidence": 0.74,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 383.9,
+      "end": 387.64,
+      "text": "actually do have a lot availability i should have asked you that at the start but we've got a lot of",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 387.64,
+      "end": 388.18,
+      "text": "availability",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 388.18,
+      "end": 401.88,
+      "text": "the fourth of february um yeah we can do that so if you want to pay your 30 pound deposit two weeks before and then if you pay the remainder at least five days before",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 401.88,
+      "end": 414.44,
+      "text": "right and you're just email me over the menu and i can have a quick view on that and then get back to you on it how long will i have a milky to take a day or so to check over",
+      "confidence": 0.937,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 414.44,
+      "end": 425.52,
+      "text": "them yeah yeah you can you can take a day or so but obviously it's a first come first serve basis as you can imagine with things like this so if someone books it then you know they've got it if they're going to pay a deposit up front",
+      "confidence": 0.951,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 425.52,
+      "end": 427.54,
+      "text": "what time is it open till what",
+      "confidence": 0.835,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 427.54,
+      "end": 427.88,
+      "text": "time",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 427.88,
+      "end": 428.28,
+      "text": "is the",
+      "confidence": 0.718,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 428.28,
+      "end": 428.78,
+      "text": "bar that",
+      "confidence": 0.601,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 428.78,
+      "end": 431.32,
+      "text": "things that are open till what time So",
+      "confidence": 0.695,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 431.32,
+      "end": 435.6,
+      "text": "it's open till 1am. Last orders at the bar will be like 12.30am.",
+      "confidence": 0.907,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 436.54,
+      "end": 440.74,
+      "text": "So, right, that's great. Thank you very much for your help.",
+      "confidence": 0.981,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 441.88,
+      "end": 442.34,
+      "text": "Thank",
+      "confidence": 0.649,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 442.34,
+      "end": 442.48,
+      "text": "you. And I'll",
+      "confidence": 0.858,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 442.48,
+      "end": 444.02,
+      "text": "get back to you soon.",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 444.44,
+      "end": 444.58,
+      "text": "Right,",
+      "confidence": 0.757,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 444.72,
+      "end": 447.12,
+      "text": "thank you. No worries. Have a nice day. Bye-bye.",
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 462.88,
+      "end": 464.72,
+      "text": "Thank you.",
+      "confidence": 0.634,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_00 initiates the call, greets and provides information, typical of an agent, while Speaker_01 asks about services and pricing, typical of a customer."
+}

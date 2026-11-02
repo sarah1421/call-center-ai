@@ -1,0 +1,861 @@
+{
+  "call_id": "call_016",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Good afternoon. Thank you for calling Summit Edge Investments. This is Lisa speaking. How can I help you today? Hi, Lisa. This is Mark Williams. I've been investing for a while, mostly using a regular cash account, but I'm thinking about opening a margin account for stock trading. I want to understand how it works before getting started. Yeah, that's a great step forward, Mark. I'd be happy to help you. Just to confirm, do you already have a trading account here with Summit Edge? Yep, I have one for a couple of years now. Okay, that makes things easier. So a margin account, it's an add-on to your current trading profile and it lets you borrow funds from us to buy more stocks. So can I ask what your main goal is? Is it short-term trading, long-term leverage or more active day trading? Mostly short-term trades. I just want to ask advantage of some price swings, but I'm cautious about the interest rates and collateral requirements before I decide. Yeah, that's understandable. So, our current interest rate for margin loans, it starts at 10.5% annually for balances under $25,000 and it decreases slightly for higher borrowing amounts. So, for example, 8.25% for balances over $100,000. Okay, that's clear. And what about the collateral? How much equity do I need to maintain? You'll need to maintain at least 30% equity in your margin account. So that means if your investment value drops and your equity falls below that threshold, you might get a margin call. So you'll be required to deposit more funds or sell part of your holding. Right. So basically, the stocks I buy are used as collateral for the borrowed money. Exactly. So it's a good way to boost your buying power. But of course, it magnifies both gains and losses. So managing risk is key. It makes sense. I just want to use it strategically, not overextend it myself. While I have you, are there any new IPOs coming up that can participate in through Summit Edge? Yeah, there's a couple of exciting ones open for interest right now. One is NovaCell Biotech, so it focuses on stem cell therapies. The other one is Greenvolt Energy, which is a clean tech company expanding into solar infrastructure. So if you meet the eligibility criteria, like having a minimum account balance, you can submit your interest directly through your account dashboard. Sounds interesting. What's the minimum investment for those IPOs? So typically the minimum is $2,500 and shares are offered in lots of $100. And then the final pricing is announced about a day before the official listing date. Right, all right, all right. I might consider GreenVault. The renewable energy sector is something I've been following a lot. Okay. So, okay. Also, is there a way to set up alerts for when specific stocks hit certain price targets? Yeah, absolutely. So you can set up custom price and performance alerts directly in our trading platform or mobile app. So just select the stock symbol, click on set alert, and then you can choose whether you'd like notifications for price movement, daily percentage change, or trading volume. And then you can receive them via email, SMS, or push notification, whichever you prefer. Perfect. I like getting notification on my phone, especially when I'm not in front of my computer. Yeah, okay, so the mobile app will work great for you then. It updates in real time, so then you'll know the moment when your target price is reached. So far, so good. Okay. So I think I'd like to talk to a financial advisor before opening the margin account, just to make sure it aligns with my goals. Can I schedule a follow-up call? Yeah, of course. So we can arrange a meeting with one of our licensed advisors. They specialize in margin strategies and IPO investments. So would you like a phone consultation or a video meeting? Let's go for a video meeting. I'm available Thursday morning around 9.30. Okay, let me check. Yes, so we have Daniel Grant. That's one of our senior financial advisors. He's available at that time. So I'll book your appointment for Thursday at 9.30 a.m. You'll get an email confirmation with the email link and a summary of what you discussed today. Perfect. Thanks, Lisa. You've been very helpful and clear. Yeah, my pleasure, Mark. So just to recap, you're interested in a margin account. So we went over the current rates and requirements, and you'll be meeting with Daniel Thursday morning to review your investment options. Is there anything else I can help with before we end the call? No, that's perfect. Everything is covered. Thanks again, Lisa. Oh, you're very welcome, Mark. So thanks for choosing Summit Edge Investments, and have a great rest of your day. You too. Have a great day. Thanks again. Okay. Goodbye, Mark.",
+  "diarization": [
+    {
+      "start": 12.73784375,
+      "end": 12.754718750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12.754718750000002,
+      "end": 18.62721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 19.99409375,
+      "end": 20.719718750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21.04034375,
+      "end": 22.10346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 23.09909375,
+      "end": 24.63471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.25909375,
+      "end": 27.68909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.824093750000003,
+      "end": 30.91221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 31.87409375,
+      "end": 35.01284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 36.43034375,
+      "end": 37.47659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 37.56096875,
+      "end": 40.07534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 40.93596875,
+      "end": 44.80034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 45.37409375,
+      "end": 45.525968750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 45.947843750000004,
+      "end": 47.97284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 49.221593750000004,
+      "end": 51.04409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 51.68534375,
+      "end": 58.45221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 59.329718750000005,
+      "end": 66.01221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 67.14284375,
+      "end": 69.80909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 70.82159375,
+      "end": 73.82534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 74.07846875,
+      "end": 74.50034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 74.70284375,
+      "end": 77.08221875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 77.68971875000001,
+      "end": 80.15346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 81.70596875000001,
+      "end": 83.10659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 83.49471875,
+      "end": 86.29596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 88.28721875000001,
+      "end": 102.31034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 103.47471875000001,
+      "end": 104.47034375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 104.82471875,
+      "end": 105.34784375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 105.88784375,
+      "end": 107.98034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 108.41909375,
+      "end": 110.71409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 112.35096875,
+      "end": 116.38409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 116.72159375000001,
+      "end": 122.83034375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 123.57284375,
+      "end": 128.17971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 129.61409375,
+      "end": 130.25534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 130.93034375000002,
+      "end": 136.12784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 137.69721875000002,
+      "end": 140.75159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 140.97096875,
+      "end": 145.66221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 146.64096875,
+      "end": 147.46784375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 148.37909375,
+      "end": 149.49284375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 149.74596875,
+      "end": 151.09596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 151.26471875000001,
+      "end": 152.29409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 152.85096875000002,
+      "end": 155.33159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 158.43659375000001,
+      "end": 159.55034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 160.36034375,
+      "end": 160.69784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 160.83284375000002,
+      "end": 165.23721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 165.60846875000001,
+      "end": 166.13159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 166.26659375,
+      "end": 167.46471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 169.05096875,
+      "end": 171.14346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 171.93659375000001,
+      "end": 175.12596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 175.63221875000002,
+      "end": 179.36159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 180.00284375,
+      "end": 185.90909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 186.66846875000002,
+      "end": 195.25784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 196.89471875,
+      "end": 198.22784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 199.05471875,
+      "end": 203.32409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 205.18034375000002,
+      "end": 210.58034375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 210.95159375,
+      "end": 215.52471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 216.90846875000003,
+      "end": 218.54534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 219.00096875000003,
+      "end": 220.87409375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 221.46471875,
+      "end": 225.76784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 226.22346875000002,
+      "end": 226.61159375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 227.45534375000003,
+      "end": 228.02909375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 230.42534375000002,
+      "end": 230.99909375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 231.13409375,
+      "end": 231.77534375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 232.14659375000002,
+      "end": 233.24346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 233.42909375000002,
+      "end": 236.77034375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 236.95596875,
+      "end": 238.55909375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 239.77409375000002,
+      "end": 257.17221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 257.79659375,
+      "end": 262.33596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 262.53846875,
+      "end": 263.98971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 265.01909375,
+      "end": 266.26784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 267.29721875,
+      "end": 269.37284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 269.72721875,
+      "end": 272.08971875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 273.70971875000004,
+      "end": 279.85221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 280.96596875,
+      "end": 284.59409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 287.51346875,
+      "end": 294.58409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 295.25909375000003,
+      "end": 297.67221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 298.48221875,
+      "end": 300.77721875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 302.11034375,
+      "end": 306.12659375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 306.64971875000003,
+      "end": 310.19346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 310.86846875000003,
+      "end": 313.70346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 314.47971875,
+      "end": 316.43721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 316.67346875000004,
+      "end": 319.57596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 321.29721875,
+      "end": 321.92159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 321.92159375,
+      "end": 322.30971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 322.30971875,
+      "end": 322.32659375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 323.32221875000005,
+      "end": 329.02596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 329.78534375000004,
+      "end": 338.34096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 339.87659375000004,
+      "end": 340.33221875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 340.87221875,
+      "end": 341.54721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 341.93534375,
+      "end": 344.51721875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 345.90096875,
+      "end": 347.97659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 348.87096875000003,
+      "end": 354.42284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 355.04721875,
+      "end": 358.89471875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 359.97471875,
+      "end": 363.04596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 363.43409375000005,
+      "end": 365.67846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 366.37034375,
+      "end": 367.46721875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 368.36159375,
+      "end": 369.67784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 370.09971875,
+      "end": 374.40284375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 374.97659375,
+      "end": 375.51659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 375.85409375,
+      "end": 377.49096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 378.18284375,
+      "end": 378.40221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 378.40221875000003,
+      "end": 378.94221875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 379.21221875000003,
+      "end": 379.92096875000004,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 12.4,
+      "end": 18.46,
+      "text": "Good afternoon. Thank you for calling Summit Edge Investments. This is Lisa speaking. How can I help you today?",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 19.96,
+      "end": 34.94,
+      "text": "Hi, Lisa. This is Mark Williams. I've been investing for a while, mostly using a regular cash account, but I'm thinking about opening a margin account for stock trading. I want to understand how it works before getting started.",
+      "confidence": 0.963,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 36.1,
+      "end": 44.66,
+      "text": "Yeah, that's a great step forward, Mark. I'd be happy to help you. Just to confirm, do you already have a trading account here with Summit Edge?",
+      "confidence": 0.964,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 45.2,
+      "end": 47.86,
+      "text": "Yep, I have one for a couple of years now.",
+      "confidence": 0.958,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 49.02,
+      "end": 65.88,
+      "text": "Okay, that makes things easier. So a margin account, it's an add-on to your current trading profile and it lets you borrow funds from us to buy more stocks. So can I ask what your main goal is? Is it short-term trading, long-term leverage or more active day trading?",
+      "confidence": 0.968,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 67.26,
+      "end": 80.12,
+      "text": "Mostly short-term trades. I just want to ask advantage of some price swings, but I'm cautious about the interest rates and collateral requirements before I decide.",
+      "confidence": 0.936,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 81.22,
+      "end": 101.82,
+      "text": "Yeah, that's understandable. So, our current interest rate for margin loans, it starts at 10.5% annually for balances under $25,000 and it decreases slightly for higher borrowing amounts. So, for example, 8.25% for balances over $100,000.",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 103.0,
+      "end": 110.54,
+      "text": "Okay, that's clear. And what about the collateral? How much equity do I need to maintain?",
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 112.14,
+      "end": 127.94,
+      "text": "You'll need to maintain at least 30% equity in your margin account. So that means if your investment value drops and your equity falls below that threshold, you might get a margin call. So you'll be required to deposit more funds or sell part of your holding.",
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 129.38,
+      "end": 136.04,
+      "text": "Right. So basically, the stocks I buy are used as collateral for the borrowed money.",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 137.56,
+      "end": 145.48,
+      "text": "Exactly. So it's a good way to boost your buying power. But of course, it magnifies both gains and losses. So managing risk is key.",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 146.6,
+      "end": 155.14,
+      "text": "It makes sense. I just want to use it strategically, not overextend it myself.",
+      "confidence": 0.952,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 158.02,
+      "end": 167.38,
+      "text": "While I have you, are there any new IPOs coming up that can participate in through Summit Edge?",
+      "confidence": 0.89,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 168.54,
+      "end": 195.1,
+      "text": "Yeah, there's a couple of exciting ones open for interest right now. One is NovaCell Biotech, so it focuses on stem cell therapies. The other one is Greenvolt Energy, which is a clean tech company expanding into solar infrastructure. So if you meet the eligibility criteria, like having a minimum account balance, you can submit your interest directly through your account dashboard.",
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 196.6,
+      "end": 203.2,
+      "text": "Sounds interesting. What's the minimum investment for those IPOs?",
+      "confidence": 0.983,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 204.6,
+      "end": 215.5,
+      "text": "So typically the minimum is $2,500 and shares are offered in lots of $100. And then the final pricing is announced about a day before the official listing date.",
+      "confidence": 0.938,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 216.82,
+      "end": 226.58,
+      "text": "Right, all right, all right. I might consider GreenVault. The renewable energy sector is something I've been following a lot.",
+      "confidence": 0.932,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 227.46,
+      "end": 227.82,
+      "text": "Okay.",
+      "confidence": 0.891,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 231.1,
+      "end": 238.52,
+      "text": "So, okay. Also, is there a way to set up alerts for when specific stocks hit certain price targets?",
+      "confidence": 0.924,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 239.5,
+      "end": 263.86,
+      "text": "Yeah, absolutely. So you can set up custom price and performance alerts directly in our trading platform or mobile app. So just select the stock symbol, click on set alert, and then you can choose whether you'd like notifications for price movement, daily percentage change, or trading volume. And then you can receive them via email, SMS, or push notification, whichever you prefer.",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 265.24,
+      "end": 271.96,
+      "text": "Perfect. I like getting notification on my phone, especially when I'm not in front of my computer.",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 273.4,
+      "end": 284.64,
+      "text": "Yeah, okay, so the mobile app will work great for you then. It updates in real time, so then you'll know the moment when your target price is reached.",
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 287.12,
+      "end": 300.64,
+      "text": "So far, so good. Okay. So I think I'd like to talk to a financial advisor before opening the margin account, just to make sure it aligns with my goals. Can I schedule a follow-up call?",
+      "confidence": 0.972,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 301.8,
+      "end": 313.58,
+      "text": "Yeah, of course. So we can arrange a meeting with one of our licensed advisors. They specialize in margin strategies and IPO investments. So would you like a phone consultation or a video meeting?",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 314.7,
+      "end": 319.46,
+      "text": "Let's go for a video meeting. I'm available Thursday morning around 9.30.",
+      "confidence": 0.924,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 320.98,
+      "end": 321.92,
+      "text": "Okay, let me",
+      "confidence": 0.983,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 321.92,
+      "end": 322.24,
+      "text": "check.",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 323.12,
+      "end": 338.2,
+      "text": "Yes, so we have Daniel Grant. That's one of our senior financial advisors. He's available at that time. So I'll book your appointment for Thursday at 9.30 a.m. You'll get an email confirmation with the email link and a summary of what you discussed today.",
+      "confidence": 0.988,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 339.58,
+      "end": 344.38,
+      "text": "Perfect. Thanks, Lisa. You've been very helpful and clear.",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 345.46,
+      "end": 362.94,
+      "text": "Yeah, my pleasure, Mark. So just to recap, you're interested in a margin account. So we went over the current rates and requirements, and you'll be meeting with Daniel Thursday morning to review your investment options. Is there anything else I can help with before we end the call?",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 363.38,
+      "end": 367.32,
+      "text": "No, that's perfect. Everything is covered. Thanks again, Lisa.",
+      "confidence": 0.931,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 368.2,
+      "end": 374.28,
+      "text": "Oh, you're very welcome, Mark. So thanks for choosing Summit Edge Investments, and have a great rest of your day.",
+      "confidence": 0.94,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 374.96,
+      "end": 378.46,
+      "text": "You too. Have a great day. Thanks again. Okay.",
+      "confidence": 0.898,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 379.24,
+      "end": 379.84,
+      "text": "Goodbye, Mark.",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): The speaker who greets, introduces a name and company and provides product details is the call‑center agent, while the other speaker asks questions as a client."
+}

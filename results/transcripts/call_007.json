@@ -1,0 +1,1026 @@
+{
+  "call_id": "call_007",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Thank you very much for calling the Bank of Ireland Investment Hotline. This is David speaking. How may I help you? David Sexton Hello, my name is Gareth Sexton. I have an account in Bank of Ireland and I got a new job in Arup recently. which is an engineering company and I wanted to open a retirement investment account for the future. Well hello there Mr. Sexton, congratulations on your new position, very happy you've started in that. Thank you very much. I'd love to help you out with opening a retirement investment account. First of all, let me just pull up your details on our system, could I get your account number please? It's A42. A42. Now it is a few more digits than A42. Oh, sorry. It was just folded over a bit. 368499E. Let me pull up your account there. Lovely. Okay, I'm seeing that you have currently a current account and a credit checking account opened. Now, our retirement. Lovely. So I can go ahead and open you up a new retirement investment account. I can complete the initial steps on the phone right here but you are gonna have to go into one of our branches I believe your local branch is the Cabo branch and so you can go into Cabo branch anytime in the next few weeks from 9 30 a.m. to 5 p.m. the branch is closed from 1 to 1 30 each day and in there just say hello there my name is Garth Sexton I'll speak on the phone with an advisor about opening a retirement investment account and it can be my application and they'll be more than ever to help you uh now just i can copy of the details i have already for your other accounts and put them onto your new account and then you finish the rest in uh the in the branch that's okay okay yeah that's perfect is your address of 14 glen bay road still still correct uh that is correct 14 glen bay road yep wonderful Wonderful. And your name and your full name is Garrett Sexton. It is. And your date of birth is the 13th of the 7th, 1999. That is the one. Yeah. Wonderful. And let me make sure. Sorry. Perfect. And you. Yep. Grant. Sorry. That was. Apologies. Wonderful. That's all good there for you. So I've created that application on your file. Once you go into the shop, sorry, into the branch, please bring photo id and proof of address in the form of a bill letter from employer or educational institute okay that's perfect do you have any other questions for me um well i was wondering about a guidance a bit of guidance on the um portfolio diversification ah yes portfolio diversification yeah i know all about that uh yeah so look portfolio diversification it's a really interesting thing and it's very individual so it just depends really on what you want your portfolio to contain so to be honest and we would have to probably sit down with the financial advisor and discuss about that because each portfolio is so different it they're both for different each portfolio is for a different purpose so ultimately it'll just depend really on the long-term or short-term investments of your money and then how we spread it across different investments so i'd be more than happy to get in touch with a photo of our portfolio diversification specialists who can give you a call back over the next few hours and you can we can discuss about it then uh that sounds brilliant um yeah wonderful um do you have any other questions for me oh of course sorry yes um i was just wondering about um the recent fund performance and is this just how that works oh yeah so um is this performance of recent stocks or of your own account um of my own account i'm a bit confused sorry sir as you've only opened your account in the past three minutes this um is for my bank account is it not or is it for my retirement oh it's about my retirement sorry yes of course that is about my um what was the other option uh the current markets value and trends yes that is the one yeah so look um currently stocks around ai engineering electronics and technology are performing quite well uh trade stocks so stocks uh about farming and agriculture and food they're on the they're on a short decline at the moment and then stocks relating to um sorry stocks relating to uh businesses including airlines large corporations and and banking institutes are following a trajectory a linear trajectory shall we say okay brilliant um thank you very much I know just while I have you here and the is there a way of like how does how do you track the stock market updates and how is it like automatic so once we get your investment account in your portfolio set up and you're gonna be paired to advisor so what they'll do is they'll have a look at your portfolio each day and they'll see what's doing well what isn't doing well and then they'll set so we can set up alerts so that each morning evening afternoon you'll get notified of any changes in your stock so you can see the rise and fall what your investment is currently worth and things like that okay brilliant and so could I just schedule a follow-up with the financial advisor then absolutely let me just have a look and see who's available what day in time were you looking at doing sorry um about how about uh tomorrow morning the 29th of october perfect is there anything for that uh let's see i have one with uh and this is the camera brand sorry just to confirm it is yes i have one with julie uh julie julie will be available at 10 15 um so yeah so i can book you in with her she specializes in portfolio diversification and the stock market okay brilliant i'll um i'll put her into my calendar wonderful so when you get to the branch please say hello there i'm scarys i'm here for an appointment with julie what's her second name? Julie Julie Furlong. Furlong? Yes. Brilliant. Thank you very much. No problem. Is there any other questions today, sir? And no, that is all. Thank you very much. Well, have a lovely day. You too. Bye-bye.",
+  "diarization": [
+    {
+      "start": 12.383468750000002,
+      "end": 17.63159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 18.37409375,
+      "end": 25.91721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.96784375,
+      "end": 26.05221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 26.06909375,
+      "end": 29.089718750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 29.76471875,
+      "end": 32.93721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 33.392843750000004,
+      "end": 36.36284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 37.54409375,
+      "end": 41.05409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 41.05409375,
+      "end": 41.205968750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 41.205968750000004,
+      "end": 44.27721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 44.27721875,
+      "end": 44.344718750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 44.344718750000006,
+      "end": 53.06909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 53.87909375,
+      "end": 54.908468750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 55.195343750000006,
+      "end": 56.798468750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 57.40596875000001,
+      "end": 58.789718750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 58.789718750000006,
+      "end": 61.320968750000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 61.320968750000006,
+      "end": 66.85596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 67.91909375,
+      "end": 68.64471875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 69.43784375,
+      "end": 69.96096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 69.96096875,
+      "end": 71.85096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 72.30659375,
+      "end": 85.28346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 85.89096875,
+      "end": 91.74659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 92.28659375000001,
+      "end": 92.32034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 92.32034375,
+      "end": 93.02909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.02909375,
+      "end": 104.41971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 104.41971875,
+      "end": 104.75721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 104.75721875,
+      "end": 123.70784375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 123.97784375,
+      "end": 129.51284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 129.96846875,
+      "end": 133.51221875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 133.51221875000002,
+      "end": 136.87034375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 136.95471875,
+      "end": 143.02971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 143.18159375000002,
+      "end": 151.83846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 152.15909375,
+      "end": 167.39721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 168.00471875000002,
+      "end": 170.51909375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 171.37971875000002,
+      "end": 179.88471875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 180.44159375,
+      "end": 186.11159375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 186.66846875000002,
+      "end": 191.56221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 191.56221875,
+      "end": 191.68034375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 191.68034375000002,
+      "end": 197.41784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 197.89034375,
+      "end": 220.14846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 220.94159375,
+      "end": 229.09221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 229.66596875000002,
+      "end": 232.56846875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 233.36159375000003,
+      "end": 234.39096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 234.39096875,
+      "end": 234.93096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 234.93096875,
+      "end": 235.23471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 235.45409375000003,
+      "end": 236.73659375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 236.73659375000003,
+      "end": 236.85471875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 236.85471875000002,
+      "end": 245.37659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 246.94596875000002,
+      "end": 247.43534375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 247.92471875,
+      "end": 249.34221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 249.91596875000002,
+      "end": 250.00034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 250.00034375,
+      "end": 250.06784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 250.06784375,
+      "end": 250.20284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 250.20284375000003,
+      "end": 255.65346875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 256.10909375,
+      "end": 257.45909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 258.06659375000004,
+      "end": 262.69034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.07846875,
+      "end": 263.14596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 263.14596875,
+      "end": 263.26409375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.26409375000003,
+      "end": 263.78721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 263.78721875,
+      "end": 263.82096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.82096875,
+      "end": 263.87159375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 263.87159375000005,
+      "end": 263.93909375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.93909375000004,
+      "end": 263.95596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 263.95596875,
+      "end": 264.02346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 264.02346875,
+      "end": 264.61409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 265.72784375000003,
+      "end": 268.74846875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 269.44034375,
+      "end": 276.22409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 277.00034375,
+      "end": 280.22346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 280.22346875,
+      "end": 280.34159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 280.34159375,
+      "end": 280.35846875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 280.35846875000004,
+      "end": 280.54409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 280.54409375,
+      "end": 280.57784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 280.57784375,
+      "end": 281.40471875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 281.40471875000003,
+      "end": 281.42159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 282.06284375,
+      "end": 283.91909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 284.39159375,
+      "end": 287.58096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 288.55971875,
+      "end": 290.24721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 290.68596875000003,
+      "end": 290.82096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 290.82096875,
+      "end": 290.87159375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 290.87159375000005,
+      "end": 308.86034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 310.90221875000003,
+      "end": 322.84971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 323.47409375,
+      "end": 323.49096875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 323.49096875000004,
+      "end": 323.50784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 323.50784375,
+      "end": 328.16534375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 328.95846875,
+      "end": 329.44784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 330.13971875000004,
+      "end": 331.55721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 331.87784375,
+      "end": 338.25659375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 338.59409375,
+      "end": 344.36534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 344.85471875,
+      "end": 370.94346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 371.65221875000003,
+      "end": 372.10784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 372.76596875,
+      "end": 372.98534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 373.76159375000003,
+      "end": 375.44909375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 375.80346875000004,
+      "end": 377.35596875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 378.19971875000005,
+      "end": 379.43159375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 380.10659375,
+      "end": 384.25784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 384.81471875,
+      "end": 389.86034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 390.36659375000005,
+      "end": 391.81784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 392.25659375000004,
+      "end": 398.51721875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 398.98971875,
+      "end": 406.12784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 406.38096875,
+      "end": 406.58346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 406.58346875,
+      "end": 406.95471875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 406.95471875000004,
+      "end": 415.81409375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 416.43846875,
+      "end": 418.12596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 418.49721875,
+      "end": 419.96534375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 419.96534375000005,
+      "end": 425.82096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 426.00659375000004,
+      "end": 426.02346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 426.04034375000003,
+      "end": 430.81596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 431.47409375,
+      "end": 431.96346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 432.75659375000004,
+      "end": 433.19534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 433.19534375,
+      "end": 433.54971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 433.54971875,
+      "end": 433.66784375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 434.83221875000004,
+      "end": 434.88284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 434.88284375,
+      "end": 435.27096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 435.27096875,
+      "end": 435.28784375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 435.28784375000004,
+      "end": 435.30471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 435.30471875,
+      "end": 435.38909375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 435.38909375000003,
+      "end": 435.42284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 435.42284375,
+      "end": 435.55784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 435.55784375,
+      "end": 435.64221875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 436.23284375000003,
+      "end": 437.98784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 438.56159375000004,
+      "end": 441.56534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 442.64534375000005,
+      "end": 443.08409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 443.35409375,
+      "end": 443.86034375,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 12.2,
+      "end": 17.5,
+      "text": "Thank you very much for calling the Bank of Ireland Investment Hotline. This is David speaking. How may I help you?",
+      "confidence": 0.973,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 18.46,
+      "end": 36.28,
+      "text": "David Sexton Hello, my name is Gareth Sexton. I have an account in Bank of Ireland and I got a new job in Arup recently. which is an engineering company and I wanted to open a retirement investment account for the future.",
+      "confidence": 0.878,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 37.16,
+      "end": 52.94,
+      "text": "Well hello there Mr. Sexton, congratulations on your new position, very happy you've started in that. Thank you very much. I'd love to help you out with opening a retirement investment account. First of all, let me just pull up your details on our system, could I get your account number please?",
+      "confidence": 0.955,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 55.12,
+      "end": 58.32,
+      "text": "It's A42. A42.",
+      "confidence": 0.814,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 59.04,
+      "end": 61.2,
+      "text": "Now it is a few more digits than A42. Oh,",
+      "confidence": 0.812,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 61.2,
+      "end": 62.96,
+      "text": "sorry. It was just folded over a bit.",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 69.82,
+      "end": 91.4,
+      "text": "368499E. Let me pull up your account there. Lovely. Okay, I'm seeing that you have currently a current account and a credit checking account opened. Now, our retirement. Lovely. So I can go ahead and open you up a new retirement investment account. I can complete the initial steps on the phone right here but you are gonna have to go into one of our branches I believe your local branch is the Cabo branch",
+      "confidence": 0.918,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 92.3,
+      "end": 93.02,
+      "text": "and so",
+      "confidence": 0.524,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 93.02,
+      "end": 104.44,
+      "text": "you can go into Cabo branch anytime in the next few weeks from 9 30 a.m. to 5 p.m. the branch is closed from 1 to 1 30 each day and in there just",
+      "confidence": 0.876,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 104.44,
+      "end": 104.74,
+      "text": "say hello",
+      "confidence": 0.722,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 104.74,
+      "end": 110.84,
+      "text": "there my name is Garth Sexton I'll speak on the phone with an advisor about opening a retirement investment account and it can be my application and they'll",
+      "confidence": 0.857,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 110.84,
+      "end": 110.84,
+      "text": "be",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 110.84,
+      "end": 129.4,
+      "text": "more than ever to help you uh now just i can copy of the details i have already for your other accounts and put them onto your new account and then you finish the rest in uh the in the branch that's okay okay yeah that's perfect is your address of 14 glen bay road still still correct",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 129.4,
+      "end": 133.72,
+      "text": "uh that is correct 14 glen bay road yep wonderful Wonderful.",
+      "confidence": 0.956,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 134.08,
+      "end": 168.22,
+      "text": "And your name and your full name is Garrett Sexton. It is. And your date of birth is the 13th of the 7th, 1999. That is the one. Yeah. Wonderful. And let me make sure. Sorry. Perfect. And you. Yep. Grant. Sorry. That was. Apologies. Wonderful. That's all good there for you. So I've created that application on your file. Once you go into the shop, sorry, into the branch, please bring photo id and proof of address in the form of a bill letter from employer or educational institute okay",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 168.22,
+      "end": 179.74,
+      "text": "that's perfect do you have any other questions for me um well i was wondering about a guidance a bit of guidance on the um portfolio diversification",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 179.74,
+      "end": 229.0,
+      "text": "ah yes portfolio diversification yeah i know all about that uh yeah so look portfolio diversification it's a really interesting thing and it's very individual so it just depends really on what you want your portfolio to contain so to be honest and we would have to probably sit down with the financial advisor and discuss about that because each portfolio is so different it they're both for different each portfolio is for a different purpose so ultimately it'll just depend really on the long-term or short-term investments of your money and then how we spread it across different investments so i'd be more than happy to get in touch with a photo of our portfolio diversification specialists who can give you a call back over the next few hours and you can we can discuss about it then",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 229.5,
+      "end": 234.48,
+      "text": "uh that sounds brilliant um yeah wonderful",
+      "confidence": 0.869,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 234.48,
+      "end": 235.8,
+      "text": "um",
+      "confidence": 0.368,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 235.8,
+      "end": 236.74,
+      "text": "do you have any other questions for",
+      "confidence": 0.826,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 236.74,
+      "end": 236.82,
+      "text": "me",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 236.82,
+      "end": 250.3,
+      "text": "oh of course sorry yes um i was just wondering about um the recent fund performance and is this just how that works oh yeah",
+      "confidence": 0.91,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 250.3,
+      "end": 262.58,
+      "text": "so um is this performance of recent stocks or of your own account um of my own account i'm a bit confused sorry sir as you've only opened your account in the past three minutes",
+      "confidence": 0.969,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 262.58,
+      "end": 276.14,
+      "text": "this um is for my bank account is it not or is it for my retirement oh it's about my retirement sorry yes of course that is about my um what was the other option",
+      "confidence": 0.939,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 276.14,
+      "end": 280.1,
+      "text": "uh the current markets value and trends",
+      "confidence": 0.902,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 280.1,
+      "end": 281.34,
+      "text": "yes that is the one",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 281.34,
+      "end": 328.08,
+      "text": "yeah so look um currently stocks around ai engineering electronics and technology are performing quite well uh trade stocks so stocks uh about farming and agriculture and food they're on the they're on a short decline at the moment and then stocks relating to um sorry stocks relating to uh businesses including airlines large corporations and and banking institutes are following a trajectory a linear trajectory shall we say",
+      "confidence": 0.906,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 328.08,
+      "end": 344.96,
+      "text": "okay brilliant um thank you very much I know just while I have you here and the is there a way of like how does how do you track the stock market updates and how is it like automatic so",
+      "confidence": 0.889,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 344.96,
+      "end": 370.52,
+      "text": "once we get your investment account in your portfolio set up and you're gonna be paired to advisor so what they'll do is they'll have a look at your portfolio each day and they'll see what's doing well what isn't doing well and then they'll set so we can set up alerts so that each morning evening afternoon you'll get notified of any changes in your stock so you can see the rise and fall what your investment is currently worth and things like that",
+      "confidence": 0.914,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 371.82,
+      "end": 379.38,
+      "text": "okay brilliant and so could I just schedule a follow-up with the financial advisor then",
+      "confidence": 0.891,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 379.38,
+      "end": 384.16,
+      "text": "absolutely let me just have a look and see who's available what day in time were you looking at doing sorry",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 384.16,
+      "end": 391.7,
+      "text": "um about how about uh tomorrow morning the 29th of october perfect is there anything for that",
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 391.7,
+      "end": 405.4,
+      "text": "uh let's see i have one with uh and this is the camera brand sorry just to confirm it is yes i have one with julie uh julie julie will be available at 10 15",
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 408.28,
+      "end": 415.64,
+      "text": "um so yeah so i can book you in with her she specializes in portfolio diversification and the stock market",
+      "confidence": 0.922,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 415.64,
+      "end": 419.92,
+      "text": "okay brilliant i'll um i'll put her into my calendar",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 419.92,
+      "end": 433.08,
+      "text": "wonderful so when you get to the branch please say hello there i'm scarys i'm here for an appointment with julie what's her second name? Julie Julie Furlong. Furlong? Yes.",
+      "confidence": 0.873,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 433.26,
+      "end": 435.32,
+      "text": "Brilliant. Thank you very",
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 435.32,
+      "end": 441.46,
+      "text": "much. No problem. Is there any other questions today, sir? And no, that is all. Thank you very much. Well, have a lovely day.",
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 442.42,
+      "end": 442.94,
+      "text": "You too.",
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 443.4,
+      "end": 443.74,
+      "text": "Bye-bye.",
+      "confidence": 0.824,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_01 greets, introduces themselves as a bank representative and asks for account details, typical of an agent, while Speaker_00 provides personal information and requests, typical of a customer."
+}

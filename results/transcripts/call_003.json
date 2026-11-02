@@ -1,0 +1,1046 @@
+{
+  "call_id": "call_003",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "you hello there I brought a new laptop recently and I need a bit of help for installing some software on it. Sure, what program are you trying to install? It's a design application about four gigabytes in size and I'm just a bit worried whether my system can actually handle it. Alright, could you please tell me your laptop's operating system and memory? Yes, the laptop is from Lenovo and is running Windows 11 with 8 Git bytes offline. That will be fine. Software needs 4 GB minimum so you will get double that. You should be okay. okay that's a relief great and do I need to backup my data before installing just in case something goes wrong yes it's always a good idea you can use our cloud backup service or just plug in an external hard drive for if that's easier for you okay right and I think I just use an external drive is simple for me and if the installation fails for some reasons what should I do? First step, restart your laptop and temporarily disable your antivirus. It can block in there sometime. If you still want to go through, just give us a ring and we will do remote troubleshooting. Okay, perfect. Thanks. And does you suppose cover remote assistance fully or is it just an extra service? It's included. We can connect security to your system with your permission. Oh, that's really interesting to know. And how do I make sure I download the program securely? I've seen a lot of blogging links online. Good question. Only use the official site or our company's software hub never use the third party like this? Okay, understood. So could you maybe send me the official link by email so I won't get it wrong? Absolutely. I will send you the link along with the step-by-step instructions. So can I just take your name and email to confirm? Yeah, sure. It's Rena Brown and my email is Rena Brown at gmail.com. Perfect. Thanks, Mrs. Brown. And how long does the installation take once when I start it, just in roughly? It should be by the ULA, about 10 to 15 minutes, depending on your internet speed. Okay, lovely. That's manageable. And do I need much free space on my hard drive apart from the 4 Giz bytes? Yes, good point. You will get at least 8 GB free for be safe. It needs space to unpack during instill. Okay. Right. I'll check that later. And one more thing. If I run into issues outside your office hours, what will happen? We have got a 24-hour helpline. So even if it's late, you can still get through to someone. Okay, brilliant. That's handy. And does this fall under my warranty if the software somehow crashed the system? If it's a GUNI software fault, yes, you will get covered. If it's third-party downloads, then it's not really. Fair enough, sounds. Okay, so just to be clear, what do I need to do next? Right, step one, back up your data. Step two, download the software from the link I will email you. Step three, run the installer for follow the prompts. and if anything goes wrong, give us a call for remote support. Hello? Oh, yes. Anything else I can do for you? Um, I think that's all enough. So, thanks so much for working me through. I really appreciate for your help. No worries. Have a good day. Cheers. Have a good day. Thank you.",
+  "diarization": [
+    {
+      "start": 20.38221875,
+      "end": 24.398468750000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24.73596875,
+      "end": 29.64659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 31.40159375,
+      "end": 35.95784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 35.95784375,
+      "end": 39.400343750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 39.90659375,
+      "end": 41.74596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 41.96534375,
+      "end": 44.80034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 47.23034375,
+      "end": 53.57534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 55.39784375,
+      "end": 55.81971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.19096875,
+      "end": 63.19409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 63.649718750000005,
+      "end": 65.03346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 68.07096875,
+      "end": 69.80909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 70.26471875,
+      "end": 71.63159375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 72.00284375000001,
+      "end": 75.78284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 76.30596875,
+      "end": 77.01471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 77.28471875000001,
+      "end": 78.44909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 79.29284375,
+      "end": 80.57534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 80.87909375000001,
+      "end": 81.25034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 82.00971875,
+      "end": 87.20721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 87.20721875000001,
+      "end": 89.65409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 90.09284375,
+      "end": 93.60284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 94.15971875000001,
+      "end": 100.20096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 101.97284375000001,
+      "end": 102.78284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 103.08659375,
+      "end": 103.59284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 103.89659375000001,
+      "end": 106.12409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 106.24221875,
+      "end": 107.37284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 107.76096875,
+      "end": 108.16596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.55409375,
+      "end": 109.58346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 110.10659375,
+      "end": 111.10221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 111.55784375,
+      "end": 112.51971875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 115.05096875000001,
+      "end": 117.93659375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 119.20221875000001,
+      "end": 121.73346875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 122.23971875000001,
+      "end": 124.01159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 124.43346875,
+      "end": 127.23471875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 127.89284375000001,
+      "end": 128.95596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 129.47909375,
+      "end": 132.51659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 133.22534375,
+      "end": 135.79034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 136.39784375000002,
+      "end": 141.30846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 142.70909375000002,
+      "end": 143.58659375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 144.05909375000002,
+      "end": 145.05471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 145.40909375,
+      "end": 145.76346875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 146.01659375,
+      "end": 149.15534375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 149.66159375,
+      "end": 151.75409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 155.65221875,
+      "end": 162.46971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 162.46971875,
+      "end": 165.16971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 165.62534375,
+      "end": 169.48971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 169.96221875,
+      "end": 172.96596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 174.83909375000002,
+      "end": 178.36596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 178.95659375000002,
+      "end": 179.56409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 180.12096875,
+      "end": 180.57659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 180.84659375,
+      "end": 182.44971875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 183.02346875,
+      "end": 185.21721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 185.45346875,
+      "end": 186.19596875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 187.59659375,
+      "end": 190.24596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 192.77721875,
+      "end": 198.75096875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 200.40471875,
+      "end": 202.04159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 202.31159375000001,
+      "end": 206.63159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 207.77909375000002,
+      "end": 208.45409375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 208.62284375000002,
+      "end": 209.26409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 209.58471875,
+      "end": 210.41159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 210.71534375000002,
+      "end": 213.12846875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 213.33096875,
+      "end": 213.97221875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 213.97221875000002,
+      "end": 214.69784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 215.30534375000002,
+      "end": 215.60909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 215.76096875000002,
+      "end": 216.72284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 216.92534375000002,
+      "end": 219.16971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 219.72659375,
+      "end": 222.49409375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 225.66659375,
+      "end": 227.33721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 230.18909375,
+      "end": 231.01596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 231.62346875,
+      "end": 235.04909375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 235.20096875000002,
+      "end": 236.43284375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 236.93909375,
+      "end": 237.86721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 238.08659375000002,
+      "end": 238.67721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 238.86284375000002,
+      "end": 241.41096875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 242.23784375000002,
+      "end": 245.89971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 248.80221875,
+      "end": 251.01284375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 251.19846875000002,
+      "end": 257.32409375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 260.36159375,
+      "end": 264.27659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 264.56346875,
+      "end": 265.00221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 265.23846875000004,
+      "end": 267.44909375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 268.02284375,
+      "end": 269.38971875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 269.62596875,
+      "end": 272.88284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 275.05971875,
+      "end": 275.07659375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 275.07659375000003,
+      "end": 275.56596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 275.56596875,
+      "end": 275.97096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 275.97096875,
+      "end": 276.02159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 279.66659375,
+      "end": 280.22346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 280.59471875,
+      "end": 282.43409375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 282.78846875,
+      "end": 285.89346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 286.18034375,
+      "end": 287.66534375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 288.15471875000003,
+      "end": 288.66096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 288.96471875000003,
+      "end": 290.14596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 291.17534375,
+      "end": 293.87534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 294.21284375000005,
+      "end": 294.93846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 295.51221875000005,
+      "end": 296.42346875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 296.54159375,
+      "end": 299.71409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 300.97971875,
+      "end": 302.88659375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 303.29159375,
+      "end": 303.74721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 303.98346875000004,
+      "end": 310.04159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 312.52221875000004,
+      "end": 312.70784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 314.15909375,
+      "end": 314.91846875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 315.22221875,
+      "end": 318.41159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 318.86721875,
+      "end": 320.25096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 320.65596875,
+      "end": 321.33096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 321.49971875,
+      "end": 324.68909375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 325.11096875000004,
+      "end": 326.03909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 326.62971875,
+      "end": 328.60409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 331.75971875000005,
+      "end": 333.34596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 337.00784375,
+      "end": 337.51409375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 337.66596875000005,
+      "end": 340.97346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 341.51346875,
+      "end": 345.10784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 345.58034375,
+      "end": 346.67721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 347.06534375,
+      "end": 349.59659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 349.84971875,
+      "end": 351.18284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 351.82409375000003,
+      "end": 352.83659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 353.24159375000005,
+      "end": 354.52409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 354.92909375000005,
+      "end": 356.78534375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 357.59534375000004,
+      "end": 359.90721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 360.22784375000003,
+      "end": 362.30346875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 379.46534375000005,
+      "end": 379.95471875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 382.75596875,
+      "end": 383.66721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 387.61596875000004,
+      "end": 389.15159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 389.15159375,
+      "end": 389.18534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 391.02471875000003,
+      "end": 395.32784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 399.04034375000003,
+      "end": 401.70659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 402.04409375,
+      "end": 403.51221875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 403.51221875000005,
+      "end": 404.37284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 404.45721875000004,
+      "end": 405.62159375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 407.86596875000004,
+      "end": 409.33409375,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 19.58,
+      "end": 29.58,
+      "text": "you hello there I brought a new laptop recently and I need a bit of help for installing some software on it.",
+      "confidence": 0.842,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 31.14,
+      "end": 35.84,
+      "text": "Sure, what program are you trying to install? It's a design",
+      "confidence": 0.714,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 35.84,
+      "end": 44.76,
+      "text": "application about four gigabytes in size and I'm just a bit worried whether my system can actually handle it.",
+      "confidence": 0.91,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 47.4,
+      "end": 53.36,
+      "text": "Alright, could you please tell me your laptop's operating system and memory?",
+      "confidence": 0.931,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 54.66,
+      "end": 64.84,
+      "text": "Yes, the laptop is from Lenovo and is running Windows 11 with 8 Git bytes offline.",
+      "confidence": 0.835,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 68.19,
+      "end": 78.48,
+      "text": "That will be fine. Software needs 4 GB minimum so you will get double that. You should be okay.",
+      "confidence": 0.742,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 78.48,
+      "end": 87.2,
+      "text": "okay that's a relief great and do I need to backup my data before installing just in case something goes wrong",
+      "confidence": 0.804,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 87.2,
+      "end": 100.14,
+      "text": "yes it's always a good idea you can use our cloud backup service or just plug in an external hard drive for if that's easier for you",
+      "confidence": 0.947,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 100.14,
+      "end": 117.8,
+      "text": "okay right and I think I just use an external drive is simple for me and if the installation fails for some reasons what should I do?",
+      "confidence": 0.89,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 119.8,
+      "end": 141.24,
+      "text": "First step, restart your laptop and temporarily disable your antivirus. It can block in there sometime. If you still want to go through, just give us a ring and we will do remote troubleshooting.",
+      "confidence": 0.877,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 142.22,
+      "end": 151.64,
+      "text": "Okay, perfect. Thanks. And does you suppose cover remote assistance fully or is it just an extra service?",
+      "confidence": 0.845,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 156.0,
+      "end": 162.26,
+      "text": "It's included. We can connect security to your system with your",
+      "confidence": 0.922,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 162.26,
+      "end": 162.74,
+      "text": "permission.",
+      "confidence": 0.947,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 162.88,
+      "end": 162.88,
+      "text": "Oh,",
+      "confidence": 0.256,
+      "low_confidence": true,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 162.96,
+      "end": 172.74,
+      "text": "that's really interesting to know. And how do I make sure I download the program securely? I've seen a lot of blogging links online.",
+      "confidence": 0.911,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 174.24,
+      "end": 186.02,
+      "text": "Good question. Only use the official site or our company's software hub never use the third party like this?",
+      "confidence": 0.805,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 187.34,
+      "end": 198.64,
+      "text": "Okay, understood. So could you maybe send me the official link by email so I won't get it wrong?",
+      "confidence": 0.855,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 200.48,
+      "end": 212.98,
+      "text": "Absolutely. I will send you the link along with the step-by-step instructions. So can I just take your name and email to confirm?",
+      "confidence": 0.955,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 214.12,
+      "end": 222.42,
+      "text": "Yeah, sure. It's Rena Brown and my email is Rena Brown at gmail.com.",
+      "confidence": 0.817,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 225.08,
+      "end": 227.22,
+      "text": "Perfect. Thanks, Mrs. Brown.",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 231.12,
+      "end": 237.68,
+      "text": "And how long does the installation take once when I start it, just in roughly?",
+      "confidence": 0.793,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 238.2,
+      "end": 245.82,
+      "text": "It should be by the ULA, about 10 to 15 minutes, depending on your internet speed.",
+      "confidence": 0.845,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 248.5,
+      "end": 257.24,
+      "text": "Okay, lovely. That's manageable. And do I need much free space on my hard drive apart from the 4 Giz bytes?",
+      "confidence": 0.79,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 260.06,
+      "end": 272.78,
+      "text": "Yes, good point. You will get at least 8 GB free for be safe. It needs space to unpack during instill.",
+      "confidence": 0.824,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 275.14,
+      "end": 275.8,
+      "text": "Okay.",
+      "confidence": 0.151,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 279.32,
+      "end": 289.9,
+      "text": "Right. I'll check that later. And one more thing. If I run into issues outside your office hours, what will happen?",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 291.04,
+      "end": 299.6,
+      "text": "We have got a 24-hour helpline. So even if it's late, you can still get through to someone.",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 299.6,
+      "end": 309.92,
+      "text": "Okay, brilliant. That's handy. And does this fall under my warranty if the software somehow crashed the system?",
+      "confidence": 0.871,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 313.98,
+      "end": 328.48,
+      "text": "If it's a GUNI software fault, yes, you will get covered. If it's third-party downloads, then it's not really.",
+      "confidence": 0.881,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 331.46,
+      "end": 333.18,
+      "text": "Fair enough, sounds.",
+      "confidence": 0.533,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 336.52,
+      "end": 340.96,
+      "text": "Okay, so just to be clear, what do I need to do next?",
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 341.7,
+      "end": 362.4,
+      "text": "Right, step one, back up your data. Step two, download the software from the link I will email you. Step three, run the installer for follow the prompts. and if anything goes wrong, give us a call for remote support.",
+      "confidence": 0.932,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 378.88,
+      "end": 379.74,
+      "text": "Hello?",
+      "confidence": 0.95,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 382.22,
+      "end": 383.52,
+      "text": "Oh, yes.",
+      "confidence": 0.846,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 387.34,
+      "end": 389.12,
+      "text": "Anything else I can do for you?",
+      "confidence": 0.959,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 390.74,
+      "end": 403.54,
+      "text": "Um, I think that's all enough. So, thanks so much for working me through. I really appreciate for your help.",
+      "confidence": 0.889,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 403.54,
+      "end": 405.56,
+      "text": "No worries. Have a good day.",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 407.92,
+      "end": 409.26,
+      "text": "Cheers. Have a good day.",
+      "confidence": 0.967,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 420.38,
+      "end": 423.18,
+      "text": "Thank you.",
+      "confidence": 0.532,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Customer",
+    "Speaker 2": "Agent"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_01 initiates the call with a problem and asks questions, while Speaker_00 provides assistance and information, typical of a call-center agent."
+}

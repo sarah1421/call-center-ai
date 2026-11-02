@@ -1,0 +1,14 @@
+# data (re-downloaded by notebook 01; audio is large)
+data/raw/audio/
+data/raw/hf_download/
+# secrets
+.env
+*.key
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# demo tooling
+cloudflared
+streamlit.log

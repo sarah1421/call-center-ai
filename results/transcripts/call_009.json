@@ -1,0 +1,1046 @@
+{
+  "call_id": "call_009",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hello, good morning. I need to perform a critical internal transfer right now. I need to move a total of $500 from my high interest savings account, the one ending in $78.90, to my primary checking account please. Okay. Well the transfer is quite urgent. I have two important bills, my rent and my utilities being divided today and I need to ensure the funds are clear in my checking account immediately to avoid any overdraft fees please. Okay. Let me try to, may have your account number please yes is the one ending in 78 78 and 90 please my name is Gerardo Rodríguez. is in five five three four ninety eight seventy okay and now what you watch your birthday date it's 20 of March of 1990 okay that's correct all checks now I can make the the transfer you told me that you need 500 right yes please okay and before you proceed that could you please quickly confirm the current daily transfer limit please for a transfer between the daily transfer limit is uh one thousand dollars a day okay well um attending to that please uh can you change the 500 to 1000 please okay let me see if you have the let me check your your account no problem you have enough enough money in order that we can make the transfer it will take only the time that i using my computer okay could you please let me know the moment the transfer is officially complete and finalized on your system please yes of course it will be almost immediately okay as you already give me your all your the information that you have registered and we are sure that you are the correct person so i am not doing it right now let me fill the form okay now i have a transfer you to your account number okay and how quickly are those funds fully available for my debit checking account well i think it it's gonna be almost immediately i i beg you to to check once we finish our conversation to check your in europe in your phone application so that you can check that everything was okay if if there is some something that does doesn't check please call me immediately okay thank you very much now looking ahead i like to prevent this kind of rush is it possible for me to set up an automatic recurring transfer let me say like the first day of every month like for example yes of course you can you can do that uh we can do that for you so let me um put it here i am try of course you need to have the necessary funds in your account if if for some reason you don't have that that amount we will send you an email in order that you can okay uh yes i completely understand um yes okay okay thank you very much and okay well yeah thank you very much for so quick and clear help today you really saved me some trouble with those bills have a good day okay i uh if if you uh please i will send you uh please i need that you give us uh um that you give us the approval of that of this um okay yes there's no problem okay thank you very much thank you for calling us thank you siempre que hablo alba",
+  "diarization": [
+    {
+      "start": 12.974093750000002,
+      "end": 17.20971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 17.344718750000002,
+      "end": 20.01096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21.05721875,
+      "end": 24.78659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.292843750000003,
+      "end": 26.52471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 26.86221875,
+      "end": 28.16159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 28.515968750000003,
+      "end": 30.675968750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 31.92471875,
+      "end": 32.59971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 33.915968750000005,
+      "end": 39.68721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 39.83909375,
+      "end": 40.22721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 40.362218750000004,
+      "end": 41.42534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 41.813468750000006,
+      "end": 48.64784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 49.609718750000006,
+      "end": 50.250968750000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 52.51221875,
+      "end": 53.60909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 53.929718750000006,
+      "end": 54.01409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 54.11534375,
+      "end": 55.110968750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 55.80284375,
+      "end": 59.16096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 60.00471875,
+      "end": 67.15971875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 67.96971875,
+      "end": 69.03284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 69.37034375,
+      "end": 72.00284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 72.69471875,
+      "end": 74.17971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 75.36096875,
+      "end": 77.99346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 78.70221875,
+      "end": 79.17471875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 79.32659375,
+      "end": 81.94221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 84.79409375,
+      "end": 86.66721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 87.47721875,
+      "end": 88.23659375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 88.59096875,
+      "end": 90.68346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 91.10534375,
+      "end": 91.37534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 91.79721875,
+      "end": 95.34096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 96.60659375,
+      "end": 97.28159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.09159375,
+      "end": 99.03659375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 99.66096875000001,
+      "end": 100.33596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 101.29784375000001,
+      "end": 102.02346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 102.47909375,
+      "end": 102.96846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 103.81221875,
+      "end": 104.36909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 104.70659375000001,
+      "end": 106.84971875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 107.25471875000001,
+      "end": 108.03096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.72284375000001,
+      "end": 110.79846875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 111.99659375,
+      "end": 112.60409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 112.95846875000001,
+      "end": 116.06346875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 116.97471875000001,
+      "end": 117.56534375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 118.86471875000001,
+      "end": 119.65784375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 121.02471875,
+      "end": 121.76721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 122.61096875000001,
+      "end": 124.72034375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 126.52596875,
+      "end": 128.38221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 128.90534375000001,
+      "end": 130.39034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 131.35221875000002,
+      "end": 132.17909375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 132.53346875,
+      "end": 133.17471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 135.35159375,
+      "end": 141.44346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 142.00034375,
+      "end": 144.68346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 144.68346875,
+      "end": 147.06284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 147.75471875000002,
+      "end": 148.80096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 148.96971875,
+      "end": 151.61909375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 151.85534375,
+      "end": 152.41221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 152.51346875000002,
+      "end": 155.97284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 156.56346875,
+      "end": 159.55034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 160.74846875,
+      "end": 164.32596875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 165.00096875,
+      "end": 166.28346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 167.44784375,
+      "end": 168.13971875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 168.79784375,
+      "end": 170.48534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 170.92409375,
+      "end": 172.99971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 173.42159375,
+      "end": 175.22721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 176.35784375,
+      "end": 176.40846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 176.40846875,
+      "end": 177.35346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 177.35346875000002,
+      "end": 177.62346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 178.95659375000002,
+      "end": 181.08284375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 182.23034375,
+      "end": 182.65221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 184.64346875,
+      "end": 186.04409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 187.19159375,
+      "end": 194.21159375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 194.65034375000002,
+      "end": 195.57846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 196.43909375,
+      "end": 198.48096875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 199.34159375000002,
+      "end": 199.74659375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 199.93221875,
+      "end": 200.10096875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 200.42159375,
+      "end": 202.81784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 203.17221875,
+      "end": 206.95221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 207.40784375,
+      "end": 208.20096875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 208.58909375000002,
+      "end": 209.16284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 209.68596875,
+      "end": 212.84159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 214.39409375000002,
+      "end": 215.20409375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 216.87471875000003,
+      "end": 217.44846875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 217.93784375,
+      "end": 218.56221875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 221.73471875,
+      "end": 222.34221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 222.91596875000002,
+      "end": 224.82284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 225.34596875000003,
+      "end": 226.24034375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 226.83096875,
+      "end": 228.85596875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 230.45909375000002,
+      "end": 236.21346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 237.17534375000002,
+      "end": 242.96346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 243.46971875000003,
+      "end": 245.14034375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 245.56221875000003,
+      "end": 247.13159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.68846875000003,
+      "end": 250.16909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 250.32096875000002,
+      "end": 251.45159375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 251.97471875000002,
+      "end": 254.16846875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 254.69159375,
+      "end": 256.34534375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 256.91909375,
+      "end": 258.69096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 259.18034375,
+      "end": 259.99034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 260.20971875000004,
+      "end": 262.96034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.65221875000003,
+      "end": 269.13659375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 269.30534375,
+      "end": 278.48534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 279.10971875,
+      "end": 282.70409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 283.22721875,
+      "end": 288.12096875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 289.57221875,
+      "end": 291.64784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 294.01034375,
+      "end": 294.58409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 295.98471875,
+      "end": 298.26284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 298.70159375000003,
+      "end": 299.91659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 300.25409375000004,
+      "end": 301.13159375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 301.55346875000004,
+      "end": 304.25346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 304.86096875000004,
+      "end": 305.58659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 306.10971875,
+      "end": 307.98284375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 308.37096875000003,
+      "end": 309.51846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 309.97409375,
+      "end": 311.49284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 312.04971875,
+      "end": 312.72471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 320.63909375000003,
+      "end": 324.95909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 325.93784375,
+      "end": 326.17409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 326.61284375,
+      "end": 326.89971875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 327.99659375000005,
+      "end": 329.80221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 332.19846875,
+      "end": 335.47221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 337.98659375,
+      "end": 338.03721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 338.12159375000005,
+      "end": 344.50034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 344.80409375000005,
+      "end": 345.47909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 348.22971875,
+      "end": 351.35159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 351.68909375000004,
+      "end": 362.91096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 365.00346875,
+      "end": 366.23534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 367.78784375000004,
+      "end": 368.58096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 369.61034375,
+      "end": 371.26409375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 371.93909375000004,
+      "end": 373.71096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 377.94659375000003,
+      "end": 378.67221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 378.67221875,
+      "end": 379.81971875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 379.81971875000005,
+      "end": 380.05596875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 381.28784375000004,
+      "end": 383.44784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 383.48159375,
+      "end": 383.95409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 399.47909375,
+      "end": 400.96409375,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 12.54,
+      "end": 30.54,
+      "text": "Hello, good morning. I need to perform a critical internal transfer right now. I need to move a total of $500 from my high interest savings account, the one ending in $78.90, to my primary checking account please.",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 31.56,
+      "end": 32.32,
+      "text": "Okay.",
+      "confidence": 0.663,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 33.78,
+      "end": 48.4,
+      "text": "Well the transfer is quite urgent. I have two important bills, my rent and my utilities being divided today and I need to ensure the funds are clear in my checking account immediately to avoid any overdraft fees please.",
+      "confidence": 0.938,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 49.32,
+      "end": 58.94,
+      "text": "Okay. Let me try to, may have your account number please",
+      "confidence": 0.885,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 58.94,
+      "end": 67.1,
+      "text": "yes is the one ending in 78 78 and 90 please my name is Gerardo Rodríguez.",
+      "confidence": 0.867,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 96.12,
+      "end": 102.86,
+      "text": "is in five five three four ninety eight seventy",
+      "confidence": 0.7,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 102.86,
+      "end": 110.74,
+      "text": "okay and now what you watch your birthday date",
+      "confidence": 0.815,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 110.74,
+      "end": 117.32,
+      "text": "it's 20 of March of 1990 okay",
+      "confidence": 0.795,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 117.32,
+      "end": 130.24,
+      "text": "that's correct all checks now I can make the the transfer you told me that you need 500 right",
+      "confidence": 0.928,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 130.24,
+      "end": 131.98,
+      "text": "yes please",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 131.98,
+      "end": 132.94,
+      "text": "okay",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 135.08,
+      "end": 144.8,
+      "text": "and before you proceed that could you please quickly confirm the current daily transfer limit please for a transfer between the",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 144.8,
+      "end": 152.26,
+      "text": "daily transfer limit is uh one thousand dollars a day okay",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 152.26,
+      "end": 159.48,
+      "text": "well um attending to that please uh can you change the 500 to 1000 please",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 159.48,
+      "end": 176.52,
+      "text": "okay let me see if you have the let me check your your account no problem you have enough enough money in order that we can make the transfer it",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 176.52,
+      "end": 179.28,
+      "text": "will take only",
+      "confidence": 0.796,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 179.28,
+      "end": 180.48,
+      "text": "the time that i",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 184.32,
+      "end": 185.88,
+      "text": "using my computer",
+      "confidence": 0.798,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 185.88,
+      "end": 194.06,
+      "text": "okay could you please let me know the moment the transfer is officially complete and finalized on your system please",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 194.06,
+      "end": 198.16,
+      "text": "yes of course it will be almost immediately",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 199.28,
+      "end": 199.96,
+      "text": "okay",
+      "confidence": 0.989,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 199.96,
+      "end": 218.44,
+      "text": "as you already give me your all your the information that you have registered and we are sure that you are the correct person so i am not doing it right now let me fill the form",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 221.7,
+      "end": 228.76,
+      "text": "okay now i have a transfer you to your account number",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 228.76,
+      "end": 236.14,
+      "text": "okay and how quickly are those funds fully available for my debit checking account",
+      "confidence": 0.953,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 236.14,
+      "end": 262.72,
+      "text": "well i think it it's gonna be almost immediately i i beg you to to check once we finish our conversation to check your in europe in your phone application so that you can check that everything was okay if if there is some something that does doesn't check please call me immediately",
+      "confidence": 0.958,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 262.72,
+      "end": 278.32,
+      "text": "okay thank you very much now looking ahead i like to prevent this kind of rush is it possible for me to set up an automatic recurring transfer let me say like the first day of every month like for example",
+      "confidence": 0.978,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 278.32,
+      "end": 291.42,
+      "text": "yes of course you can you can do that uh we can do that for you so let me um put it here",
+      "confidence": 0.943,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 293.46,
+      "end": 312.3,
+      "text": "i am try of course you need to have the necessary funds in your account if if for some reason you don't have that that amount we will send you an email in order that you can",
+      "confidence": 0.958,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 320.48,
+      "end": 324.88,
+      "text": "okay uh yes i completely understand um",
+      "confidence": 0.828,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 331.28,
+      "end": 335.68,
+      "text": "yes okay okay thank you very much and okay",
+      "confidence": 0.846,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 337.8,
+      "end": 345.42,
+      "text": "well yeah thank you very much for so quick and clear help today you really saved me some trouble with those bills have a good day",
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 347.7,
+      "end": 371.26,
+      "text": "okay i uh if if you uh please i will send you uh please i need that you give us uh um that you give us the approval of that of this um",
+      "confidence": 0.92,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 371.26,
+      "end": 373.6,
+      "text": "okay yes there's no problem",
+      "confidence": 0.947,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 377.26,
+      "end": 378.98,
+      "text": "okay thank",
+      "confidence": 0.452,
+      "low_confidence": true,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 378.98,
+      "end": 380.02,
+      "text": "you very much",
+      "confidence": 0.758,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 380.02,
+      "end": 383.34,
+      "text": "thank you for calling us",
+      "confidence": 0.854,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 383.34,
+      "end": 384.15,
+      "text": "thank you",
+      "confidence": 0.969,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 398.94,
+      "end": 400.78,
+      "text": "siempre que hablo alba",
+      "confidence": 0.63,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Customer",
+    "Speaker 2": "Agent"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_00 initiates the request and provides personal details, while Speaker_01 asks for verification and confirms the transaction, typical of an agent role."
+}

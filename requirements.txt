@@ -1,0 +1,12 @@
+# Core (torch / torchaudio come preinstalled on Colab; install them locally from pytorch.org)
+openai-whisper>=20240930     # Whisper "turbo" model
+pyannote.audio>=3.3          # speaker diarization (3.x or 4.x both supported)
+groq>=0.9                    # LLM API (Llama 3)
+huggingface_hub>=0.23        # dataset download
+soundfile>=0.12
+numpy
+pandas>=2.0
+jiwer>=3.0                   # word error rate
+matplotlib
+streamlit>=1.35              # bonus demo
+pytest                       # offline unit tests

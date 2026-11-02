@@ -1,0 +1,1261 @@
+{
+  "call_id": "call_006",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Good evening. Good evening. You're speaking to Jane Favre at Tom's Online Shopping. Hiya. I recently bought a jacket on your website and it was the 3XL, but I've just opened the package and it's two sizes too small. Oh I see right. Have you checked the label inside? Yes yes it's um it should have been a 3xl and it's only uh large. Oh right okay um I need you to uh take some photographs of the item so we can confirm it. Yeah, no problem. Do I upload that onto the website then through the returns process? Yes, if you've got a website, there is a portal there for returns. And you select return item, select the item number and your order number that you ordered with and put your reason for your return. and then it will ask you to upload any photos so we need to see photos of the size that's on the item and a copy if you can do a screenshot of the um order so we can see all the details that to check that you ordered the Excel and that it turned out to be only an L. Yeah, I'll do that for you now. Give me two seconds. There we go. It's just uploaded. did. Let me just have a quick check there now. I'm waiting for the page to load at the moment. Oh, there we are. I see it now. So it was the green check jacket. Yeah, that's the one. Where are the gold coloured buttons down the front? Yeah. Right. Okay, now, have you selected the shipping to return it with? Pardon? We need to get, you need to fill in the shipping form for us. Okay. Before we can then look at processing your return. Let me just quickly do that now. Okay, all submitted. Right, so... Did you want the prepaid or are you going to pay for the shipping? Oh, could I please get the prepaid? Is that okay? Okay, this takes a little bit of extra time. I can organise it for you. That's okay. Is there any deadline on when it needs to be sent off by? We need to receive it within eight working days. Okay, no problem. So you need to send it as soon as you can. The refund will be minus the cost of your prepaid shipping labor. Right. And as soon as we receive the item, we'll then start processing your refunds. Okay. So is that like when you receive it, you'll like process the like over a couple of days? Yeah, it takes up to 48 hours because we need to get our team to check it to make sure everything's all included so we need you to put the return label inside the package yeah alternatively if you wanted an um if you wanted an exchange that sort of pops up. I think I've already bought a different one. So I've already, like I received this one and then I saw the size and then I ordered a different one. So hopefully that should be back soon. I see. So are you saying that you ordered another one via our website? Yes, yes. So obviously I'm assuming that the refund will come from this jacket. yeah because they are they are pretty much the same price right so as soon as we receive the jacket and after our teams have processed checking over making sure it's okay then we'll be able to issue your refund and it should be show up in your bank account uh between three to four days after that depending on your bank okay um will i get a email just to say that it has been like the refund process has been started or um you will get an update you can also check a web portal anytime for any updates um on your refund status so okay um but just check your email and i'll make sure we've got the correct one on our system please yeah so it's uh toby.mcguire at playfish.com Okay, lovely. You can't look at playfish.com. Right, that's correct. I've got that all in our system and I should have that processed. As I said, once we receive it, we'll start the process of a refund. Okay, no problem. Yeah, that's it. Thank you very much. Have a nice day. Bye for now. Thank you. Bye-bye. Thank you.",
+  "diarization": [
+    {
+      "start": 1.11096875,
+      "end": 2.8997187500000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2.9672187500000002,
+      "end": 3.03471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3.10221875,
+      "end": 4.3678437500000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11.77596875,
+      "end": 13.902218750000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14.99909375,
+      "end": 15.387218750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17.83409375,
+      "end": 19.082843750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 21.54659375,
+      "end": 26.96346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.13221875,
+      "end": 33.00471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 33.00471875,
+      "end": 34.25346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 35.04659375,
+      "end": 37.78034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 39.78846875,
+      "end": 46.369718750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 46.52159375,
+      "end": 48.02346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 48.985343750000006,
+      "end": 49.626593750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 51.314093750000005,
+      "end": 55.70159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 57.625343750000006,
+      "end": 63.025343750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 63.29534375,
+      "end": 68.03721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 69.31971875,
+      "end": 69.85971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 69.92721875000001,
+      "end": 70.31534375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 70.95659375000001,
+      "end": 71.41221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 72.69471875,
+      "end": 77.41971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 78.93846875,
+      "end": 80.50784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 80.50784375,
+      "end": 81.01409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 81.01409375,
+      "end": 81.13221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 81.85784375,
+      "end": 84.28784375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 86.05971875,
+      "end": 88.52346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 88.96221875,
+      "end": 91.17284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 92.43846875000001,
+      "end": 95.00346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 96.15096875,
+      "end": 97.02846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 97.38284375,
+      "end": 99.59346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 100.80846875,
+      "end": 103.94721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 104.63909375,
+      "end": 105.22971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 106.03971875,
+      "end": 108.95909375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 110.12346875,
+      "end": 113.24534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 113.54909375000001,
+      "end": 114.98346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 115.74284375,
+      "end": 116.68784375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 119.11784375,
+      "end": 121.80096875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 129.66471875000002,
+      "end": 131.55471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 133.27596875,
+      "end": 137.44409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 140.41409375,
+      "end": 142.99596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 150.25221875,
+      "end": 151.56846875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 154.43721875,
+      "end": 156.14159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 158.80784375000002,
+      "end": 160.25909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 161.81159375000001,
+      "end": 162.87471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 162.87471875,
+      "end": 165.45659375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 167.29596875000001,
+      "end": 168.03846875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 169.05096875,
+      "end": 170.18159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 173.01659375,
+      "end": 174.87284375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 175.41284375,
+      "end": 175.95284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 177.15096875,
+      "end": 178.29846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 181.15034375000002,
+      "end": 181.57221875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 182.14596875,
+      "end": 183.68159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 185.67284375,
+      "end": 189.50346875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 191.19096875000002,
+      "end": 191.68034375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 193.23284375,
+      "end": 194.70096875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 196.33784375000002,
+      "end": 198.37971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 199.83096875,
+      "end": 202.29471875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 225.70034375,
+      "end": 227.77596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 227.77596875,
+      "end": 228.51846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 231.94409375,
+      "end": 235.31909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 237.14159375000003,
+      "end": 239.84159375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 240.01034375,
+      "end": 241.22534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 241.63034375,
+      "end": 245.10659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.62096875,
+      "end": 253.86471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 253.86471875,
+      "end": 255.61971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 256.48034375000003,
+      "end": 257.13846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 258.25221875,
+      "end": 260.34471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 261.67784375,
+      "end": 261.74534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 261.86346875000004,
+      "end": 262.84221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 262.84221875000003,
+      "end": 265.49159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 266.72346875,
+      "end": 268.41096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 269.38971875000004,
+      "end": 271.60034375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 271.93784375,
+      "end": 272.98409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 274.95846875,
+      "end": 275.44784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 276.91596875,
+      "end": 279.05909375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 280.76346875,
+      "end": 283.48034375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 285.60659375,
+      "end": 294.26346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 294.26346875,
+      "end": 295.12409375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 296.18721875,
+      "end": 300.08534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 300.57471875000005,
+      "end": 301.11471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 301.58721875000003,
+      "end": 301.90784375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 301.90784375000004,
+      "end": 301.94159375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 301.94159375000004,
+      "end": 301.97534375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 301.97534375000004,
+      "end": 302.56596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 303.15659375,
+      "end": 304.11846875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 304.21971875,
+      "end": 305.21534375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 306.59909375,
+      "end": 311.54346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 313.31534375,
+      "end": 313.60221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 314.69909375000003,
+      "end": 315.88034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 316.53846875,
+      "end": 318.27659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 318.96846875,
+      "end": 320.53784375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 322.07346875,
+      "end": 323.22096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 325.61721875,
+      "end": 327.49034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 327.94596875,
+      "end": 335.33721875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 335.72534375000004,
+      "end": 338.03721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 338.56034375,
+      "end": 342.66096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 344.53409375,
+      "end": 349.37721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 350.27159375,
+      "end": 350.69346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 351.70596875,
+      "end": 354.03471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 354.03471875,
+      "end": 354.32159375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 354.91221875,
+      "end": 356.38034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 357.15659375,
+      "end": 360.05909375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 360.68346875000003,
+      "end": 363.51846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 364.05846875000003,
+      "end": 364.58159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 365.13846875,
+      "end": 366.84284375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 367.07909375,
+      "end": 369.32346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 370.03221875,
+      "end": 372.05721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 373.05284375,
+      "end": 374.79096875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 374.79096875000005,
+      "end": 375.31409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 376.03971875,
+      "end": 383.78534375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 383.78534375000004,
+      "end": 388.10534375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 388.37534375,
+      "end": 390.07971875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 391.15971875,
+      "end": 393.10034375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 393.91034375000004,
+      "end": 394.33221875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 395.20971875000004,
+      "end": 395.61471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 395.90159375,
+      "end": 400.22159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 401.84159375,
+      "end": 406.24596875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 406.97159375,
+      "end": 409.03034375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 409.03034375000004,
+      "end": 411.25784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 411.64596875,
+      "end": 412.08471875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 412.37159375000005,
+      "end": 414.76784375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 415.32471875000005,
+      "end": 416.97846875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 417.53534375000004,
+      "end": 420.35346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 420.50534375,
+      "end": 421.83846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 422.71596875,
+      "end": 423.13784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 423.74534375,
+      "end": 424.72409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 424.72409375,
+      "end": 424.75784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 426.52971875000003,
+      "end": 427.62659375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 427.62659375000004,
+      "end": 429.55034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 431.25471875000005,
+      "end": 432.23346875000004,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.0,
+      "end": 2.08,
+      "text": "Good evening.",
+      "confidence": 0.833,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 11.22,
+      "end": 19.02,
+      "text": "Good evening. You're speaking to Jane Favre at Tom's Online Shopping.",
+      "confidence": 0.82,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 21.26,
+      "end": 32.76,
+      "text": "Hiya. I recently bought a jacket on your website and it was the 3XL, but I've just opened the package and it's two sizes too small.",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 32.98,
+      "end": 37.36,
+      "text": "Oh I see right. Have you checked the label inside?",
+      "confidence": 0.865,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 39.46,
+      "end": 46.1,
+      "text": "Yes yes it's um it should have been a 3xl and it's only uh large.",
+      "confidence": 0.867,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 46.68,
+      "end": 55.48,
+      "text": "Oh right okay um I need you to uh take some photographs of the item so we can confirm it.",
+      "confidence": 0.888,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 57.28,
+      "end": 62.86,
+      "text": "Yeah, no problem. Do I upload that onto the website then through the returns process?",
+      "confidence": 0.906,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 63.34,
+      "end": 69.64,
+      "text": "Yes, if you've got a website, there is a portal there for returns. And",
+      "confidence": 0.891,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 69.64,
+      "end": 71.1,
+      "text": "you",
+      "confidence": 0.906,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 71.1,
+      "end": 80.24,
+      "text": "select return item, select the item number and your order number that you ordered",
+      "confidence": 0.937,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 80.24,
+      "end": 81.12,
+      "text": "with",
+      "confidence": 0.858,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 81.12,
+      "end": 116.62,
+      "text": "and put your reason for your return. and then it will ask you to upload any photos so we need to see photos of the size that's on the item and a copy if you can do a screenshot of the um order so we can see all the details that to check that you ordered the Excel and that it turned out to be only an L.",
+      "confidence": 0.927,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 118.96,
+      "end": 121.34,
+      "text": "Yeah, I'll do that for you now. Give me two seconds.",
+      "confidence": 0.939,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 129.38,
+      "end": 131.36,
+      "text": "There we go. It's just uploaded. did.",
+      "confidence": 0.865,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 133.0,
+      "end": 137.34,
+      "text": "Let me just have a quick check there now.",
+      "confidence": 0.808,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 140.06,
+      "end": 142.58,
+      "text": "I'm waiting for the page to load at the moment.",
+      "confidence": 0.987,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 149.78,
+      "end": 151.44,
+      "text": "Oh, there we are. I see it now.",
+      "confidence": 0.92,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 154.12,
+      "end": 159.76,
+      "text": "So it was the green check jacket.",
+      "confidence": 0.895,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 161.38,
+      "end": 162.8,
+      "text": "Yeah, that's the one. Where are",
+      "confidence": 0.659,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 162.8,
+      "end": 165.18,
+      "text": "the gold coloured buttons down the front?",
+      "confidence": 0.892,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 166.94,
+      "end": 167.84,
+      "text": "Yeah. Right.",
+      "confidence": 0.62,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 168.8,
+      "end": 178.2,
+      "text": "Okay, now, have you selected the shipping to return it with?",
+      "confidence": 0.898,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 180.72,
+      "end": 181.36,
+      "text": "Pardon?",
+      "confidence": 0.955,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 181.96,
+      "end": 189.38,
+      "text": "We need to get, you need to fill in the shipping form for us.",
+      "confidence": 0.971,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 190.8,
+      "end": 191.46,
+      "text": "Okay.",
+      "confidence": 0.377,
+      "low_confidence": true,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 192.94,
+      "end": 198.18,
+      "text": "Before we can then look at processing your return.",
+      "confidence": 0.943,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 199.88,
+      "end": 202.0,
+      "text": "Let me just quickly do that now.",
+      "confidence": 0.983,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 226.18,
+      "end": 227.66,
+      "text": "Okay, all submitted.",
+      "confidence": 0.748,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 227.86,
+      "end": 228.68,
+      "text": "Right, so...",
+      "confidence": 0.708,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 231.68,
+      "end": 235.08,
+      "text": "Did you want the prepaid or are you going to pay for the shipping?",
+      "confidence": 0.922,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 236.86,
+      "end": 239.64,
+      "text": "Oh, could I please get the prepaid? Is that okay?",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 240.36,
+      "end": 244.96,
+      "text": "Okay, this takes a little bit of extra time. I can organise it for you.",
+      "confidence": 0.898,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 247.38,
+      "end": 253.72,
+      "text": "That's okay. Is there any deadline on when it needs to be sent off by?",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 253.88,
+      "end": 259.88,
+      "text": "We need to receive it within eight working days.",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 261.64,
+      "end": 262.82,
+      "text": "Okay, no problem. So you",
+      "confidence": 0.882,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 262.82,
+      "end": 272.74,
+      "text": "need to send it as soon as you can. The refund will be minus the cost of your prepaid shipping labor.",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 274.56,
+      "end": 275.24,
+      "text": "Right.",
+      "confidence": 0.774,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 276.44,
+      "end": 283.64,
+      "text": "And as soon as we receive the item, we'll then start processing your refunds.",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 285.24,
+      "end": 294.18,
+      "text": "Okay. So is that like when you receive it, you'll like process the like over a couple of days? Yeah,",
+      "confidence": 0.918,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 294.32,
+      "end": 311.36,
+      "text": "it takes up to 48 hours because we need to get our team to check it to make sure everything's all included so we need you to put the return label inside the package",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 311.36,
+      "end": 313.54,
+      "text": "yeah",
+      "confidence": 0.309,
+      "low_confidence": true,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 313.54,
+      "end": 323.18,
+      "text": "alternatively if you wanted an um if you wanted an exchange that sort of pops up.",
+      "confidence": 0.861,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 325.38,
+      "end": 337.92,
+      "text": "I think I've already bought a different one. So I've already, like I received this one and then I saw the size and then I ordered a different one. So hopefully that should be back soon.",
+      "confidence": 0.967,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 338.52,
+      "end": 342.08,
+      "text": "I see. So are you saying that you ordered another one via our website?",
+      "confidence": 0.975,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 344.4,
+      "end": 349.22,
+      "text": "Yes, yes. So obviously I'm assuming that the refund will come from this jacket.",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 350.78,
+      "end": 351.3,
+      "text": "yeah",
+      "confidence": 0.49,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 351.3,
+      "end": 354.04,
+      "text": "because they are they are pretty much the same price right so",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 354.04,
+      "end": 374.96,
+      "text": "as soon as we receive the jacket and after our teams have processed checking over making sure it's okay then we'll be able to issue your refund and it should be show up in your bank account uh between three to four days after that depending on your bank okay",
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 374.96,
+      "end": 383.74,
+      "text": "um will i get a email just to say that it has been like the refund process has been started or um you",
+      "confidence": 0.901,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 383.74,
+      "end": 395.42,
+      "text": "will get an update you can also check a web portal anytime for any updates um on your refund status so okay",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 395.42,
+      "end": 396.06,
+      "text": "um",
+      "confidence": 0.837,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 396.06,
+      "end": 399.98,
+      "text": "but just check your email and i'll make sure we've got the correct one on our system please",
+      "confidence": 0.928,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 399.98,
+      "end": 409.0,
+      "text": "yeah so it's uh toby.mcguire at playfish.com Okay,",
+      "confidence": 0.83,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 409.08,
+      "end": 409.3,
+      "text": "lovely.",
+      "confidence": 0.91,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 409.46,
+      "end": 409.46,
+      "text": "You",
+      "confidence": 0.084,
+      "low_confidence": true,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 409.46,
+      "end": 421.62,
+      "text": "can't look at playfish.com. Right, that's correct. I've got that all in our system and I should have that processed. As I said, once we receive it, we'll start the process of a refund.",
+      "confidence": 0.916,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 423.54,
+      "end": 427.64,
+      "text": "Okay, no problem. Yeah, that's it. Thank you very",
+      "confidence": 0.967,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 427.64,
+      "end": 429.44,
+      "text": "much. Have a nice day. Bye for now.",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 430.92,
+      "end": 432.04,
+      "text": "Thank you. Bye-bye.",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 436.64,
+      "end": 439.44,
+      "text": "Thank you.",
+      "confidence": 0.522,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_01 greets, identifies themselves as a representative and provides return instructions, typical of an agent, while Speaker_00 describes the purchase issue, typical of a customer."
+}

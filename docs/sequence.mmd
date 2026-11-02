@@ -1,0 +1,26 @@
+sequenceDiagram
+    autonumber
+    actor U as User / Notebook
+    participant P as CallCenterPipeline
+    participant W as Whisper
+    participant D as pyannote
+    participant A as Aligner
+    participant G as Groq LLM
+    participant R as results/
+    U->>P: process_call(call_id, audio)
+    P->>W: transcribe(audio)
+    W-->>P: text + word timestamps
+    P->>D: diarize(audio, num_speakers=2)
+    D-->>P: speaker segments (SPEAKER_00/01)
+    P->>A: assign words to speakers, build turns
+    A-->>P: Speaker 1 / Speaker 2 turns (+ confidence)
+    P->>G: opening turns → who is the agent?
+    G-->>P: {agent, reason}
+    P->>R: save transcripts/call_id.json
+    P->>G: transcript → summary prompt
+    G-->>P: {issue, action, outcome, summary}
+    P->>G: customer turns (start / end) → sentiment prompt
+    G-->>P: {labels, justification, evidence}
+    P->>R: append summaries.jsonl, sentiment.jsonl
+    U->>R: build_final_table() + evaluation
+    R-->>U: final_results.csv / .json → Streamlit

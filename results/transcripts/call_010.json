@@ -1,0 +1,1101 @@
+{
+  "call_id": "call_010",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Good afternoon. You have reached Horizon Railway. This is Sarah speaking. How may I help you today? Hi Sarah, my name is Ahmad. I'm currently looking for an apartment to rent and I wanted to check what options you might have available. Of course Ahmad, I'll be happy to help you find something suitable. May I ask which area or neighbourhood you're most interested in? I'm mainly looking around the Tampines or Pasiris area, somewhere quiet but still close to public transport. Got it. That's a great area. Plenty of options near the MRT stations. What's your price range roughly? I'd like to stay under $2,500 per month if possible. Alright that gives us a lot to work with. Are you looking for one bedroom or something bigger? Ideally a two bedroom, so I can use one as a small home office. Perfect. For the budget, we have a few two bedroom units around Tampani Central and Pasiris Grove. Both have good transport links and amenities. Sounds good. Do any of them come furnished? Yes, about half of them do. For example, there's one at Tampani's Trillion. Fully furnished with air conditioning, washer dryer and small balcony. Rent is $2,400 per month. That's right within my range. What about the lease term? Standard lease is one year, renewable. The landlord prefers long term tenants but is open to discussing 6 months if needed. I'm fine with a one year lease. Are utilities included? Not in this one, but we can help you set them up easily. Electricity, water and internet typically cost around $150 to $180 monthly, depending on your usage. Okay, that's fine. And what about pets? I have a small cat. Let me check. The trillion allows small pets with a refundable pet deposit of $300. So yes, that shouldn't be an issue. Excellent. I've had trouble finding pet-friendly places. So that's great. I understand. It's something we always check for our clients. Would you like me to send photos of that unit? Yes, please. That'll help. Sure thing. I'll email you the full listing with pictures and a 360 degrees virtual tour. Do you mind sharing your email address? It's amad.rahman at gmail.com Got it. I'll send the link shortly. Would you like to schedule an in-person viewing as well? Yes, that would be great. When's the earliest I can see it? The units available for viewing this Thursday at 6pm or Saturday morning at 10am. Which works better? Saturday morning works better for me. Perfect. I'll book that slot for you. Our agent on site, Mr Lim, will meet you at the lobby and show you around. Great. What documents do I need if I decide to rent after viewing? You need a copy of your NRAC or passport, proof of income or employment letter and a month's deposit will handle a tenancy agreement for you. That's straightforward. Are there any ongoing promotions or reduced deposits right now? Actually, yes. For some listings, we are running a move in flex promotion where the security deposit is reduced by half for leases starting before the end of the month. Oh, that's nice. Does it apply to the Tampines unit? Let me check. Yes, it does. So instead of $2,400 for the deposit, you only pay $1,200 upfront. Even better. That makes things easier. I thought you liked that. Also, once you sign, we'll help you set up utilities and internet within 48 hours, all part of our relocation service. Wow, that's convenient. I really appreciate the full support. That's what we are here for. Just to confirm, you're looking at a two-bedroom, furnished unit in Tampines, budget around $2,500 and you will view it Saturday at 10am? Yes, that's correct. Perfect. I'll send the viewing confirmation and virtual tour link in the next few minutes. Thanks Sarah, you've been super helpful. My pleasure Ahmad. We'll make sure everything's smooth. After the viewing, I'll give you a call to follow up. No pressure, just hear your thoughts. Sounds good. I'm looking forward to seeing the place. Wonderful. I'll also include a few other listings in your area, just in case you want to compare them. That'd be great. Thanks again. Anytime Ahmad. Good luck with your apartment hunt. I think you'll like this one. I hope so. Take care, Sarah. You too, Ahmad. See you Saturday.",
+  "diarization": [
+    {
+      "start": 16.36596875,
+      "end": 17.12534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 17.59784375,
+      "end": 19.555343750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 20.19659375,
+      "end": 21.715343750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 22.20471875,
+      "end": 23.75721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 26.254718750000002,
+      "end": 34.30409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 36.17721875,
+      "end": 37.22346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 37.493468750000005,
+      "end": 40.024718750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 40.48034375,
+      "end": 44.344718750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 46.43721875,
+      "end": 50.571593750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 51.195968750000006,
+      "end": 53.99721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.34284375,
+      "end": 57.05159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 57.102218750000006,
+      "end": 58.283468750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 58.705343750000004,
+      "end": 61.320968750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 61.844093750000006,
+      "end": 63.71721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 65.86034375,
+      "end": 67.32846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 68.42534375000001,
+      "end": 71.96909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 74.95596875000001,
+      "end": 75.41159375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 76.08659375,
+      "end": 78.02721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 78.17909375,
+      "end": 82.02659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 84.18659375,
+      "end": 85.72221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 86.17784375000001,
+      "end": 89.38409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 92.33721875,
+      "end": 93.02909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.07971875000001,
+      "end": 93.11346875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.13034375000001,
+      "end": 97.95659375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.36159375000001,
+      "end": 99.77909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 100.96034375,
+      "end": 104.26784375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 106.73159375,
+      "end": 107.45721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.16596875,
+      "end": 109.97159375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 112.55346875000001,
+      "end": 114.59534375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 115.20284375000001,
+      "end": 118.30784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 119.21909375000001,
+      "end": 123.04971875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 123.50534375000001,
+      "end": 124.70346875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 125.26034375,
+      "end": 127.96034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 130.94721875000002,
+      "end": 132.61784375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 132.88784375,
+      "end": 134.32221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 137.52846875,
+      "end": 139.18221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 139.82346875000002,
+      "end": 140.80221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 141.20721875,
+      "end": 147.07971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 150.21846875,
+      "end": 153.69471875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 156.44534375,
+      "end": 157.81221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 157.93034375000002,
+      "end": 165.40596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 166.16534375,
+      "end": 167.41409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 167.78534375,
+      "end": 169.97909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 170.36721875,
+      "end": 172.03784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 175.07534375,
+      "end": 175.58159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 175.71659375000002,
+      "end": 176.44221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 177.06659375,
+      "end": 177.91034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 177.97784375,
+      "end": 178.02846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 178.53471875000002,
+      "end": 179.46284375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 182.14596875,
+      "end": 182.90534375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 184.00221875000003,
+      "end": 192.64221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 198.71721875,
+      "end": 199.42596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 199.67909375000002,
+      "end": 203.25659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 205.95659375000002,
+      "end": 206.86784375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 207.32346875000002,
+      "end": 209.60159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 209.90534375000001,
+      "end": 212.60534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 214.96784375000001,
+      "end": 216.63846875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 219.18659375000001,
+      "end": 219.79409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 220.16534375,
+      "end": 222.76409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 223.15221875,
+      "end": 226.27409375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 226.99971875000003,
+      "end": 229.05846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 231.79221875000002,
+      "end": 235.01534375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 238.22159375,
+      "end": 238.76159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 239.09909375,
+      "end": 240.46596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 240.80346875,
+      "end": 244.65096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 247.55346875,
+      "end": 248.92034375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 249.46034375000002,
+      "end": 251.16471875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 253.96596875000003,
+      "end": 258.43784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 258.91034375000004,
+      "end": 260.95221875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 261.71159375,
+      "end": 262.89284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 265.66034375000004,
+      "end": 267.58409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 270.48659375,
+      "end": 272.76471875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 272.93346875000003,
+      "end": 277.21971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 279.41346875,
+      "end": 279.78471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 280.34159375,
+      "end": 283.71659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 286.29846875000004,
+      "end": 289.08284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 289.58909375,
+      "end": 292.25534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 292.69409375000004,
+      "end": 294.21284375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 294.66846875000005,
+      "end": 296.99721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 299.74784375,
+      "end": 301.11471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 301.43534375,
+      "end": 305.14784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 307.40909375,
+      "end": 308.52284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 308.82659375000003,
+      "end": 310.00784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 310.22721875,
+      "end": 312.64034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 313.09596875,
+      "end": 316.79159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 317.71971875,
+      "end": 319.66034375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 322.22534375000004,
+      "end": 323.52471875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 324.08159375,
+      "end": 325.85346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 328.04721875,
+      "end": 328.75596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 330.03846875000005,
+      "end": 334.56096875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 335.18534375,
+      "end": 337.86846875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 340.23096875000005,
+      "end": 340.97346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 341.59784375000004,
+      "end": 342.77909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 345.37784375,
+      "end": 346.40721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.91346875000005,
+      "end": 353.02221875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 353.51159375000003,
+      "end": 356.02596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 358.60784375000003,
+      "end": 360.07596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 360.58221875000004,
+      "end": 362.33721875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 364.86846875000003,
+      "end": 366.21846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 366.50534375,
+      "end": 369.15471875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 369.55971875,
+      "end": 371.65221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 372.02346875,
+      "end": 374.65596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 374.80784375,
+      "end": 378.03096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 380.49471875,
+      "end": 381.69284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 384.51096875,
+      "end": 389.92784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 392.45909375,
+      "end": 394.61909375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 397.15034375000005,
+      "end": 399.85034375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 400.64346875,
+      "end": 403.46159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 403.96784375000004,
+      "end": 404.77784375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 405.14909375,
+      "end": 406.34721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 409.57034375,
+      "end": 410.32971875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 410.92034375000003,
+      "end": 412.74284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 414.88596875,
+      "end": 415.59471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 415.99971875,
+      "end": 419.44221875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 419.83034375000005,
+      "end": 421.93971875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 423.99846875000003,
+      "end": 424.70721875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 424.99409375000005,
+      "end": 425.71971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 428.26784375000005,
+      "end": 429.36471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 429.51659375,
+      "end": 431.35596875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 431.87909375000004,
+      "end": 433.66784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 436.16534375000003,
+      "end": 436.92471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 437.34659375,
+      "end": 438.24096875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 439.99596875000003,
+      "end": 441.93659375000004,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 15.72,
+      "end": 23.6,
+      "text": "Good afternoon. You have reached Horizon Railway. This is Sarah speaking. How may I help you today?",
+      "confidence": 0.893,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 25.74,
+      "end": 34.14,
+      "text": "Hi Sarah, my name is Ahmad. I'm currently looking for an apartment to rent and I wanted to check what options you might have available.",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 35.68,
+      "end": 44.26,
+      "text": "Of course Ahmad, I'll be happy to help you find something suitable. May I ask which area or neighbourhood you're most interested in?",
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 46.0,
+      "end": 53.9,
+      "text": "I'm mainly looking around the Tampines or Pasiris area, somewhere quiet but still close to public transport.",
+      "confidence": 0.942,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 56.2,
+      "end": 63.46,
+      "text": "Got it. That's a great area. Plenty of options near the MRT stations. What's your price range roughly?",
+      "confidence": 0.975,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 65.36,
+      "end": 71.76,
+      "text": "I'd like to stay under $2,500 per month if possible.",
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 74.72,
+      "end": 81.86,
+      "text": "Alright that gives us a lot to work with. Are you looking for one bedroom or something bigger?",
+      "confidence": 0.923,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 83.92,
+      "end": 89.24,
+      "text": "Ideally a two bedroom, so I can use one as a small home office.",
+      "confidence": 0.894,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 91.96,
+      "end": 103.84,
+      "text": "Perfect. For the budget, we have a few two bedroom units around Tampani Central and Pasiris Grove. Both have good transport links and amenities.",
+      "confidence": 0.942,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 106.24,
+      "end": 109.94,
+      "text": "Sounds good. Do any of them come furnished?",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 112.12,
+      "end": 127.82,
+      "text": "Yes, about half of them do. For example, there's one at Tampani's Trillion. Fully furnished with air conditioning, washer dryer and small balcony. Rent is $2,400 per month.",
+      "confidence": 0.951,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 130.86,
+      "end": 134.22,
+      "text": "That's right within my range. What about the lease term?",
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 137.06,
+      "end": 146.98,
+      "text": "Standard lease is one year, renewable. The landlord prefers long term tenants but is open to discussing 6 months if needed.",
+      "confidence": 0.882,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 149.58,
+      "end": 153.52,
+      "text": "I'm fine with a one year lease. Are utilities included?",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 155.94,
+      "end": 171.76,
+      "text": "Not in this one, but we can help you set them up easily. Electricity, water and internet typically cost around $150 to $180 monthly, depending on your usage.",
+      "confidence": 0.966,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 174.62,
+      "end": 179.44,
+      "text": "Okay, that's fine. And what about pets? I have a small cat.",
+      "confidence": 0.987,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 181.62,
+      "end": 192.46,
+      "text": "Let me check. The trillion allows small pets with a refundable pet deposit of $300. So yes, that shouldn't be an issue.",
+      "confidence": 0.969,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 198.4,
+      "end": 203.18,
+      "text": "Excellent. I've had trouble finding pet-friendly places. So that's great.",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 205.38,
+      "end": 212.26,
+      "text": "I understand. It's something we always check for our clients. Would you like me to send photos of that unit?",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 214.38,
+      "end": 216.6,
+      "text": "Yes, please. That'll help.",
+      "confidence": 0.912,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 218.58,
+      "end": 228.74,
+      "text": "Sure thing. I'll email you the full listing with pictures and a 360 degrees virtual tour. Do you mind sharing your email address?",
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 231.32,
+      "end": 235.0,
+      "text": "It's amad.rahman at gmail.com",
+      "confidence": 0.763,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 237.68,
+      "end": 244.56,
+      "text": "Got it. I'll send the link shortly. Would you like to schedule an in-person viewing as well?",
+      "confidence": 0.964,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 247.12,
+      "end": 251.1,
+      "text": "Yes, that would be great. When's the earliest I can see it?",
+      "confidence": 0.909,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 253.4,
+      "end": 262.76,
+      "text": "The units available for viewing this Thursday at 6pm or Saturday morning at 10am. Which works better?",
+      "confidence": 0.942,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 265.48,
+      "end": 267.58,
+      "text": "Saturday morning works better for me.",
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 270.28,
+      "end": 277.1,
+      "text": "Perfect. I'll book that slot for you. Our agent on site, Mr Lim, will meet you at the lobby and show you around.",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 279.16,
+      "end": 283.6,
+      "text": "Great. What documents do I need if I decide to rent after viewing?",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 285.64,
+      "end": 296.92,
+      "text": "You need a copy of your NRAC or passport, proof of income or employment letter and a month's deposit will handle a tenancy agreement for you.",
+      "confidence": 0.928,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 299.2,
+      "end": 305.06,
+      "text": "That's straightforward. Are there any ongoing promotions or reduced deposits right now?",
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 307.14,
+      "end": 319.56,
+      "text": "Actually, yes. For some listings, we are running a move in flex promotion where the security deposit is reduced by half for leases starting before the end of the month.",
+      "confidence": 0.941,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 321.8,
+      "end": 325.78,
+      "text": "Oh, that's nice. Does it apply to the Tampines unit?",
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 327.54,
+      "end": 337.56,
+      "text": "Let me check. Yes, it does. So instead of $2,400 for the deposit, you only pay $1,200 upfront.",
+      "confidence": 0.929,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 339.8,
+      "end": 342.68,
+      "text": "Even better. That makes things easier.",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 344.82,
+      "end": 355.72,
+      "text": "I thought you liked that. Also, once you sign, we'll help you set up utilities and internet within 48 hours, all part of our relocation service.",
+      "confidence": 0.967,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 358.08,
+      "end": 362.28,
+      "text": "Wow, that's convenient. I really appreciate the full support.",
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 364.4,
+      "end": 377.84,
+      "text": "That's what we are here for. Just to confirm, you're looking at a two-bedroom, furnished unit in Tampines, budget around $2,500 and you will view it Saturday at 10am?",
+      "confidence": 0.912,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 380.06,
+      "end": 381.62,
+      "text": "Yes, that's correct.",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 384.22,
+      "end": 389.64,
+      "text": "Perfect. I'll send the viewing confirmation and virtual tour link in the next few minutes.",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 392.04,
+      "end": 394.42,
+      "text": "Thanks Sarah, you've been super helpful.",
+      "confidence": 0.874,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 396.68,
+      "end": 406.18,
+      "text": "My pleasure Ahmad. We'll make sure everything's smooth. After the viewing, I'll give you a call to follow up. No pressure, just hear your thoughts.",
+      "confidence": 0.973,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 409.16,
+      "end": 412.62,
+      "text": "Sounds good. I'm looking forward to seeing the place.",
+      "confidence": 0.986,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 414.58,
+      "end": 421.86,
+      "text": "Wonderful. I'll also include a few other listings in your area, just in case you want to compare them.",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 423.56,
+      "end": 425.58,
+      "text": "That'd be great. Thanks again.",
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 428.04,
+      "end": 433.56,
+      "text": "Anytime Ahmad. Good luck with your apartment hunt. I think you'll like this one.",
+      "confidence": 0.939,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 435.74,
+      "end": 438.08,
+      "text": "I hope so. Take care, Sarah.",
+      "confidence": 0.984,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 439.64,
+      "end": 441.64,
+      "text": "You too, Ahmad. See you Saturday.",
+      "confidence": 0.979,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): The speaker who greets, introduces themselves as a company representative and provides property options is the call‑center agent, while the other speaker asks about needs and pricing."
+}

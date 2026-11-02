@@ -1,0 +1,1686 @@
+{
+  "call_id": "call_002",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hello Canada Post, how may I help you? Hi there. I had a package that was scheduled to arrive, but it has not arrived yet. And I'm just kind of wondering where it's at because I don't have any updates on the package and I need it. And so how do I find it? Okay. One moment, please. I'm going to open our tracking. Okay. Do you have the tracking number on hand? I do. Okay. Please read it out to me, and I'll repeat it back to you. Okay. It is X18T. X18T. B516. B516. B516. MZHN. MZHN? N at the end, like Normand. Okay, got it. Okay, sure. One sec, let me just pull it up. Yeah, I unfortunately really need these like yesterday. So, if we can find it and maybe reroute it, I don't know. But it has my divorce papers in it, and I really need these documents. I understand. Okay. I see that it's in the sorting center in Mississauga and that it's meant to be going to Ottawa. Okay. It's scheduled to be loaded onto the truck today. Is there a reason that it's been delayed? Like it was supposed to, it's Monday now and it was supposed to arrive at its destination on Friday. And so it's probably not even going to get there today if it's still in the sorting center. Yeah, I would assume it would arrive tomorrow probably afternoon. As you know, there's been some rolling strikes with our staff. and unfortunately that has caused some delays. I do apologize for that. Unfortunately it's impacting everyone negatively and I apologize that we're not meeting your needs. Are there any options to make it arrive today from Mississauga? Does it have to go in the trucks? Can we fly it? Unfortunately once it's already in that pipeline, we can't remove it. It's kind of like it would have to be done when the package was dropped off in the first place at a service center. So unfortunately we can't change the system that it's in, it's already in that pipeline. I can't change it from like ground travel to air travel so it gets to Ottawa this afternoon. I wish we could do that for you but unfortunately our system isn't set up to change the service after after the package has been accepted but what I can do is I can send you a link that shows more detailed information about the tracking would that be something you would be interested in yeah I need to know like exactly when it arrives or if it's gonna be late I need to give the office a heads up because no one's going to be there to receive it if it gets there after 4 p.m. Right. Okay. Let me get that prepared for you. Just give me one moment here. Okay. And I'm going to need your email address so that I can send this to you if you don't mind. Sure. It's lawoffice911 at gmail.com. At gmail.com. Okay, I've got it. And so, quick question. With this new tracking link, is it still through the same regular Canada Post portal or like what what is it going to show me that's different? It's just going to show you more detail than you would normally see in the Canada Post when you go to track a package. It's still through Canada Post it's just a more detailed look like you'll see you'll be able to track the location of the last mile truck as it's headed to your office and that way you know what we can also set up alerts so that it will send you a text when it's you know say ten stops away and then the office staff would be able to you'd be able to alert them that it's coming okay I mean yeah that's that's something that's better. Yeah, again I do apologize for the delay, but hopefully at least knowing exactly where the package is will be helpful to you. For sure, and is there a direct contact number I can call if it seems to be delayed again? Like I know with the rolling strikes, you can't no one can really confirm anything but I need to not lose this package and I need it to get there as soon as possible. Definitely. Yes let me give you the service center I have a direct contact that's in the Ottawa dispatch center normally we don't give out test numbers but since your case is exceptional I think it's okay for me to do so all right so do you have a paper handy to take down the number I do go ahead okay it's four zero three six 695-7892. Okay, perfect. And make sure you ask for Barbara. Okay, even better. She's wonderful. So, yeah, is there anything else I can help you with today? No, that's all. We'll just hopefully get this package going and if not, I will call Barbara. So, yeah, okay again, I apologize for the delay and I hope you have a good rest of your day. Great. Thanks.",
+  "diarization": [
+    {
+      "start": 15.640343750000003,
+      "end": 17.395343750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17.58096875,
+      "end": 18.711593750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18.94784375,
+      "end": 27.55409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.79034375,
+      "end": 27.824093750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.824093750000003,
+      "end": 27.840968750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 27.840968750000002,
+      "end": 27.97596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.97596875,
+      "end": 28.02659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 28.02659375,
+      "end": 28.81971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 29.42721875,
+      "end": 29.69721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 29.69721875,
+      "end": 29.81534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 29.81534375,
+      "end": 29.84909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 29.84909375,
+      "end": 29.86596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 30.74346875,
+      "end": 30.92909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 30.92909375,
+      "end": 30.96284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 30.96284375,
+      "end": 31.03034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 31.03034375,
+      "end": 31.50284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 32.16096875,
+      "end": 34.034093750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 35.704718750000005,
+      "end": 38.37096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 38.50596875,
+      "end": 40.10909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 42.40409375,
+      "end": 46.470968750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 47.314718750000004,
+      "end": 51.16221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 51.66846875,
+      "end": 52.02284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 52.259093750000005,
+      "end": 53.845343750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 53.845343750000005,
+      "end": 53.862218750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 54.92534375,
+      "end": 54.992843750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 54.992843750000006,
+      "end": 55.26284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 55.26284375,
+      "end": 55.70159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 55.70159375,
+      "end": 55.98846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.157218750000006,
+      "end": 56.174093750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.174093750000004,
+      "end": 56.52846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 56.52846875,
+      "end": 56.54534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.54534375,
+      "end": 56.56221875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 56.899718750000005,
+      "end": 56.916593750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 56.916593750000004,
+      "end": 56.93346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.93346875,
+      "end": 58.604093750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 59.51534375000001,
+      "end": 61.25346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 61.60784375,
+      "end": 62.89034375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 64.25721875,
+      "end": 64.27409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 64.27409375,
+      "end": 65.87721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 65.87721875,
+      "end": 65.89409375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 66.01221875,
+      "end": 67.80096875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 68.56034375,
+      "end": 68.57721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 68.57721875,
+      "end": 70.02846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 70.11284375000001,
+      "end": 72.82971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 72.82971875,
+      "end": 72.84659375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 75.95159375,
+      "end": 78.39846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 78.56721875000001,
+      "end": 80.00159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 80.30534375,
+      "end": 83.69721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 84.18659375,
+      "end": 85.50284375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 85.87409375,
+      "end": 87.30846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 88.54034375,
+      "end": 88.57409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 88.57409375,
+      "end": 89.50221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 90.85221875,
+      "end": 90.88596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 90.88596875,
+      "end": 91.47659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 91.84784375000001,
+      "end": 96.04971875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 96.42096875,
+      "end": 99.66096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 101.51721875000001,
+      "end": 102.05721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 105.51659375000001,
+      "end": 106.15784375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.16596875,
+      "end": 110.39346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 110.93346875,
+      "end": 111.57471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 113.41409375,
+      "end": 113.43096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 114.89909375,
+      "end": 121.49721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 121.76721875000001,
+      "end": 121.80096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 121.80096875000001,
+      "end": 121.81784375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 121.81784375000001,
+      "end": 122.25659375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 122.25659375000001,
+      "end": 122.52659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 122.52659375,
+      "end": 122.89784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 123.38721875,
+      "end": 126.12096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 126.94784375,
+      "end": 129.25971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 130.25534375,
+      "end": 132.14534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 132.53346875,
+      "end": 133.25909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 133.79909375,
+      "end": 136.65096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 137.39346875,
+      "end": 138.52409375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 139.73909375,
+      "end": 143.63721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 144.10971875,
+      "end": 144.63284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 145.15596875,
+      "end": 146.15159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 148.58159375,
+      "end": 149.05409375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 149.89784375000002,
+      "end": 150.97784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 150.97784375,
+      "end": 151.02846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 151.02846875,
+      "end": 151.92284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 151.92284375,
+      "end": 152.59784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 153.79596875000001,
+      "end": 156.51284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 158.41971875000002,
+      "end": 164.17409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 165.33846875,
+      "end": 168.52784375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 169.00034375,
+      "end": 169.75971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 170.02971875,
+      "end": 171.70034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 171.93659375000001,
+      "end": 172.66221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 173.59034375000002,
+      "end": 177.62346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 178.39971875,
+      "end": 179.74971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 180.03659375,
+      "end": 180.61034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 180.93096875,
+      "end": 182.31471875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 184.17096875000001,
+      "end": 184.25534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 184.25534375,
+      "end": 185.97659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 185.97659375,
+      "end": 186.24659375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 187.46159375000002,
+      "end": 188.06909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 189.89159375,
+      "end": 194.38034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 194.38034375,
+      "end": 194.39721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 195.78096875,
+      "end": 196.64159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 198.43034375000002,
+      "end": 198.54846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 198.54846875,
+      "end": 198.68346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 198.68346875,
+      "end": 198.83534375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 198.83534375000002,
+      "end": 198.97034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 198.97034375,
+      "end": 203.08784375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 203.89784375000002,
+      "end": 207.05346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 207.05346875,
+      "end": 207.71159375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 207.96471875,
+      "end": 210.42846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 210.49596875,
+      "end": 211.39034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 212.50409375,
+      "end": 213.28034375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 213.28034375000001,
+      "end": 213.33096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 213.33096875,
+      "end": 213.44909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 213.44909375,
+      "end": 214.15784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 215.06909375,
+      "end": 217.34721875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 218.35971875,
+      "end": 219.03471875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 219.22034375,
+      "end": 219.72659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 221.16096875000002,
+      "end": 222.94971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 223.20284375000003,
+      "end": 223.82721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 224.75534375,
+      "end": 230.88096875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 231.15096875,
+      "end": 233.64846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 233.64846875,
+      "end": 240.01034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 240.41534375,
+      "end": 243.30096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 244.73534375000003,
+      "end": 245.17409375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 246.43971875000003,
+      "end": 246.60846875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.78971875000002,
+      "end": 249.56159375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 249.64596875,
+      "end": 253.39221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 261.23909375,
+      "end": 266.57159375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 267.44909375000003,
+      "end": 268.02284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 269.06909375000004,
+      "end": 269.49096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 270.50346875,
+      "end": 271.81971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 272.81534375,
+      "end": 274.16534375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 274.62096875000003,
+      "end": 277.65846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 278.29971875,
+      "end": 279.80159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 280.81409375000004,
+      "end": 282.26534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 283.14284375,
+      "end": 283.86846875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 283.86846875000003,
+      "end": 285.30284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 286.18034375,
+      "end": 287.15909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 287.91846875000005,
+      "end": 287.93534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 287.93534375,
+      "end": 287.98596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 287.98596875000004,
+      "end": 288.00284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 288.00284375,
+      "end": 289.42034375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 289.42034375000003,
+      "end": 292.30596875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 293.40284375000005,
+      "end": 296.59221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 297.11534375,
+      "end": 297.45284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 297.80721875,
+      "end": 299.44409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 300.87846875,
+      "end": 300.96284375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 300.96284375000005,
+      "end": 304.69221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 304.72596875,
+      "end": 305.65409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 306.07596875,
+      "end": 308.50596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 309.11346875000004,
+      "end": 309.83909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 310.24409375000005,
+      "end": 316.92659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 317.36534375,
+      "end": 319.01909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 319.40721875,
+      "end": 319.67721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 320.65596875,
+      "end": 321.43221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 321.80346875000004,
+      "end": 323.81159375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 324.35159375,
+      "end": 325.04346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 325.46534375000005,
+      "end": 327.33846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 327.87846875,
+      "end": 329.34659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 330.25784375,
+      "end": 331.77659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 333.58221875000004,
+      "end": 335.05034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 335.30346875000004,
+      "end": 335.65784375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 336.48471875,
+      "end": 336.53534375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 336.53534375000004,
+      "end": 336.67034375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 336.67034375000003,
+      "end": 340.33221875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 341.61471875,
+      "end": 342.27284375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 342.86346875000004,
+      "end": 343.90971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 344.21346875,
+      "end": 345.85034375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.74471875,
+      "end": 346.76159375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.76159375000003,
+      "end": 346.79534375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 346.79534375000003,
+      "end": 346.96409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.96409375,
+      "end": 347.06534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 347.06534375,
+      "end": 347.08221875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 347.08221875000004,
+      "end": 347.11596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 347.11596875000004,
+      "end": 347.14971875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 347.14971875000003,
+      "end": 347.25096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 347.25096875,
+      "end": 347.31846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 347.31846875,
+      "end": 349.36034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 349.41096875,
+      "end": 350.30534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 350.60909375,
+      "end": 351.23346875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 352.46534375000005,
+      "end": 353.39346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 355.40159375,
+      "end": 356.29596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 356.29596875000004,
+      "end": 356.36346875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 356.36346875000004,
+      "end": 356.54909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 356.54909375,
+      "end": 356.63346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 356.63346875,
+      "end": 357.78096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 357.94971875000005,
+      "end": 359.89034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 360.14346875,
+      "end": 362.69159375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 363.09659375,
+      "end": 364.58159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 364.90221875000003,
+      "end": 364.93596875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 364.93596875000003,
+      "end": 365.15534375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 366.26909375,
+      "end": 368.12534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 368.41221875,
+      "end": 369.64409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 369.82971875000004,
+      "end": 370.13346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 370.58909375,
+      "end": 372.41159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 373.13721875000005,
+      "end": 377.47409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 378.28409375,
+      "end": 378.30096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 378.30096875000004,
+      "end": 378.35159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 378.35159375,
+      "end": 378.38534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 378.38534375,
+      "end": 381.77721875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 382.40159375,
+      "end": 383.04284375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 388.05471875,
+      "end": 391.73346875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 394.41659375,
+      "end": 395.78346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 395.96909375,
+      "end": 397.94346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 398.77034375000005,
+      "end": 401.80784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 402.14534375000005,
+      "end": 402.98909375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 403.07346875,
+      "end": 404.52471875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 405.65534375000004,
+      "end": 407.00534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 408.86159375000005,
+      "end": 408.87846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 408.87846875,
+      "end": 409.03034375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 409.03034375000004,
+      "end": 409.24971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 409.24971875,
+      "end": 411.93284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 411.93284375,
+      "end": 413.09721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 413.99159375000005,
+      "end": 417.38346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 419.08784375000005,
+      "end": 419.54346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 419.79659375,
+      "end": 421.83846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 423.20534375000005,
+      "end": 425.07846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 425.16284375000004,
+      "end": 425.63534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 426.31034375,
+      "end": 426.93471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 427.59284375000004,
+      "end": 429.53346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 429.58409375,
+      "end": 431.01846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 431.74409375000005,
+      "end": 433.61721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 434.08971875000003,
+      "end": 434.83221875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 435.45659375,
+      "end": 437.90346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 437.98784375,
+      "end": 439.84409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 440.70471875000004,
+      "end": 442.66221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 442.89846875,
+      "end": 444.60284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 445.00784375,
+      "end": 445.02471875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 445.02471875000003,
+      "end": 445.21034375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 445.44659375000003,
+      "end": 450.79596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 450.89721875000004,
+      "end": 451.48784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 452.80409375000005,
+      "end": 453.31034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 453.31034375,
+      "end": 453.42846875000004,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 15.38,
+      "end": 17.18,
+      "text": "Hello Canada Post, how may I help you?",
+      "confidence": 0.886,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 17.5,
+      "end": 28.82,
+      "text": "Hi there. I had a package that was scheduled to arrive, but it has not arrived yet. And I'm just kind of wondering where it's at because I don't have any updates on the package and I need it.",
+      "confidence": 0.972,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 30.38,
+      "end": 30.9,
+      "text": "And",
+      "confidence": 0.43,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 30.9,
+      "end": 34.08,
+      "text": "so how do I find it?",
+      "confidence": 0.865,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 35.42,
+      "end": 39.84,
+      "text": "Okay. One moment, please. I'm going to open our tracking.",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 42.18,
+      "end": 53.74,
+      "text": "Okay. Do you have the tracking number on hand? I do. Okay. Please read it out to me, and I'll repeat it back to you. Okay. It is X18T.",
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 55.86,
+      "end": 58.4,
+      "text": "X18T. B516.",
+      "confidence": 0.995,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 60.52,
+      "end": 62.74,
+      "text": "B516. B516. MZHN.",
+      "confidence": 0.649,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 65.0,
+      "end": 65.44,
+      "text": "MZHN?",
+      "confidence": 0.892,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 66.16,
+      "end": 67.72,
+      "text": "N at the end, like Normand.",
+      "confidence": 0.801,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 68.66,
+      "end": 72.66,
+      "text": "Okay, got it. Okay, sure. One sec, let me just pull it up.",
+      "confidence": 0.953,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 75.78,
+      "end": 87.2,
+      "text": "Yeah, I unfortunately really need these like yesterday. So, if we can find it and maybe reroute it, I don't know. But it has my divorce papers in it, and I really need these documents.",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 87.94,
+      "end": 99.26,
+      "text": "I understand. Okay. I see that it's in the sorting center in Mississauga and that it's meant to be going to Ottawa.",
+      "confidence": 0.918,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 105.18,
+      "end": 111.24,
+      "text": "Okay. It's scheduled to be loaded onto the truck today.",
+      "confidence": 0.939,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 114.54,
+      "end": 121.06,
+      "text": "Is there a reason that it's been delayed? Like it was supposed to, it's Monday now and it was supposed to arrive at its destination on Friday.",
+      "confidence": 0.906,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 121.42,
+      "end": 123.04,
+      "text": "And so it's",
+      "confidence": 0.947,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 123.04,
+      "end": 125.92,
+      "text": "probably not even going to get there today if it's still in the sorting center.",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 126.68,
+      "end": 146.19,
+      "text": "Yeah, I would assume it would arrive tomorrow probably afternoon. As you know, there's been some rolling strikes with our staff. and unfortunately that has caused some delays. I do apologize for that. Unfortunately it's",
+      "confidence": 0.942,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 149.9,
+      "end": 152.12,
+      "text": "impacting everyone negatively and",
+      "confidence": 0.82,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 152.12,
+      "end": 156.56,
+      "text": "I apologize that we're not meeting your needs.",
+      "confidence": 0.989,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 157.96,
+      "end": 164.2,
+      "text": "Are there any options to make it arrive today from Mississauga? Does it have to go in the trucks? Can we fly it?",
+      "confidence": 0.904,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 165.6,
+      "end": 184.3,
+      "text": "Unfortunately once it's already in that pipeline, we can't remove it. It's kind of like it would have to be done when the package was dropped off in the first place at a service center. So",
+      "confidence": 0.937,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 184.3,
+      "end": 186.16,
+      "text": "unfortunately we can't change",
+      "confidence": 0.942,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 189.32,
+      "end": 194.2,
+      "text": "the system that it's in, it's already in that pipeline.",
+      "confidence": 0.903,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 198.06,
+      "end": 198.7,
+      "text": "I",
+      "confidence": 0.202,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 198.7,
+      "end": 202.88,
+      "text": "can't change it from like ground travel to air travel so it gets to Ottawa this afternoon.",
+      "confidence": 0.95,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 203.48,
+      "end": 213.4,
+      "text": "I wish we could do that for you but unfortunately our system isn't set up to change the service",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 213.4,
+      "end": 217.12,
+      "text": "after after the package has been accepted",
+      "confidence": 0.921,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 217.12,
+      "end": 233.38,
+      "text": "but what I can do is I can send you a link that shows more detailed information about the tracking would that be something you would be interested in",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 233.38,
+      "end": 243.18,
+      "text": "yeah I need to know like exactly when it arrives or if it's gonna be late I need to give the office a heads up because no one's going to be there to receive it if it gets there after 4 p.m.",
+      "confidence": 0.934,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 244.52,
+      "end": 253.18,
+      "text": "Right. Okay. Let me get that prepared for you. Just give me one moment here.",
+      "confidence": 0.984,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 260.6,
+      "end": 266.32,
+      "text": "Okay. And I'm going to need your email address so that I can send this to you if you don't mind.",
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 268.76,
+      "end": 282.06,
+      "text": "Sure. It's lawoffice911",
+      "confidence": 0.72,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 282.06,
+      "end": 284.08,
+      "text": "at",
+      "confidence": 0.23,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 284.08,
+      "end": 286.92,
+      "text": "gmail.com. At gmail",
+      "confidence": 0.881,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 286.92,
+      "end": 289.72,
+      "text": ".com. Okay, I've got it. And",
+      "confidence": 0.875,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 289.72,
+      "end": 299.3,
+      "text": "so, quick question. With this new tracking link, is it still through the same regular Canada Post portal or like what what is it going to show me that's different?",
+      "confidence": 0.939,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 300.56,
+      "end": 334.9,
+      "text": "It's just going to show you more detail than you would normally see in the Canada Post when you go to track a package. It's still through Canada Post it's just a more detailed look like you'll see you'll be able to track the location of the last mile truck as it's headed to your office and that way you know what we can also set up alerts so that it will send you a text when it's you know say ten stops away",
+      "confidence": 0.952,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 334.9,
+      "end": 336.6,
+      "text": "and",
+      "confidence": 0.691,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 336.6,
+      "end": 342.08,
+      "text": "then the office staff would be able to you'd be able to alert them that it's coming",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 342.08,
+      "end": 346.98,
+      "text": "okay I mean yeah that's that's something that's better. Yeah,",
+      "confidence": 0.885,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 347.46,
+      "end": 359.82,
+      "text": "again I do apologize for the delay, but hopefully at least knowing exactly where the package is will be helpful to you.",
+      "confidence": 0.911,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 360.06,
+      "end": 377.38,
+      "text": "For sure, and is there a direct contact number I can call if it seems to be delayed again? Like I know with the rolling strikes, you can't no one can really confirm anything but I need to not lose this package and I need it to get there as soon as possible.",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 378.58,
+      "end": 409.0,
+      "text": "Definitely. Yes let me give you the service center I have a direct contact that's in the Ottawa dispatch center normally we don't give out test numbers but since your case is exceptional I think it's okay for me to do so all",
+      "confidence": 0.892,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 409.0,
+      "end": 409.16,
+      "text": "right",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 409.16,
+      "end": 412.08,
+      "text": "so do you have a paper handy to take down the number I",
+      "confidence": 0.962,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 412.08,
+      "end": 412.98,
+      "text": "do go ahead",
+      "confidence": 0.987,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 412.98,
+      "end": 419.24,
+      "text": "okay it's four zero three six",
+      "confidence": 0.902,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 424.56,
+      "end": 437.66,
+      "text": "695-7892. Okay, perfect. And make sure you ask for Barbara. Okay, even better. She's wonderful. So, yeah, is there anything else I can help you with today?",
+      "confidence": 0.932,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 438.32,
+      "end": 444.48,
+      "text": "No, that's all. We'll just hopefully get this package going and if not, I will call Barbara. So,",
+      "confidence": 0.914,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 444.54,
+      "end": 450.64,
+      "text": "yeah, okay again, I apologize for the delay and I hope you have a good rest of your day.",
+      "confidence": 0.906,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 450.86,
+      "end": 451.48,
+      "text": "Great. Thanks.",
+      "confidence": 0.845,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): The speaker who greets with a service greeting and asks how to help is the call‑center agent, while the other speaker describes the problem and provides tracking info."
+}

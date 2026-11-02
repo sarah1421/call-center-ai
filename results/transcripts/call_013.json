@@ -1,0 +1,896 @@
+{
+  "call_id": "call_013",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "AIDO, Mexico. This is Sandy. How can I help you? Hi. I'm needing to get a special mail for a long-haul flight. okay um i can do that for you sir uh what's your name and first and last name so i can search your flight number my first name is david and my last name's aguilar and the flight number should be 861 861 okay okay yes sir i show you here for tuesday november 11th at 7 p.m flight to uh colombia is that right that's right okay Is seat selection possible in advance? Let me see if I have any availability for seat selections at this moment. Yes, I do have seat selection available right now, actually. We have a few seats left. um are you looking for first class or economy sir um i'm wanting a first class right now for first class okay and for special meal long haul request uh we unfortunately do not have that available any longer. We do provide first class beverages and purchased meals on the flight only through credit card. Okay, that'd be great. Okay. And then for first class, I show that you're flying alone, sir. Is that correct? Yes. Yes, it's correct. Okay. So we have first class November 11th, 7 p.m. Colombia. Would you like an aisle seat, sir, or a window seat? Either one. Preferably window seat if available. Window seat. Okay. Yeah. And also, can you tell me about priority boarding for frequent flyers? Okay. Okay, yes, sir. So we do have priority boarding with Idle Mexico because you are seating in first class. You will be group one. So you'll be able to be sat down first. there is an upgrade to first class seating. It's an additional $60 for upgrading your seat and picking your seat in first class. Okay. That'll be fine with you? Yeah, that'll be fine. Okay. Okay. Okay. I'm just entering that right now. for window seat. And then once you're done with that, can you tell me about my baggage allowances? Okay, yes. So baggage we do have for flying out from Aero, Mexico, from Dallas to Colombia. We do have where you can have a personal item In addition to, you can also have onboarding a luggage, but it does have to be a backpack or a small suitcase. That is an additional to your personal item as well. That can be for onboard flights. However, if you do decide you would like to have an additional bag that's up to 50 pounds or more, that's an additional $80. Will you be needing to purchase baggage claims to put it onto the plane? Would you like to purchase that in addition, or is it just a personal item and onboarding as well? I've got one carry-on and one check-in bag. Okay, so one carry-on and one check-in bag. Okay, so that will be $80 plus the $60 for upgrading to first class. Okay, sir. So I have you down for November 11th at 7 o'clock p.m. to Colombia. One purchase ticket for an upgrade for first class window seat at $60 plus a check-in bag and then a personal item and an onboarding, which you would only be paying for the check-in bag. So that would be an additional $80. Okay. And what seat number is that again? So your seat number is going to be three at the D seat, 3D. Perfect. Okay. And like I said, there will also be beverages and snacks once you're there for purchase. Okay. Perfect. so it would be a total of 140 dollars sir uh would you like to pay that today or would you like to pay that um at the ticket counter when you arrive i'd like to pay it at the ticket counter that'd be great okay okay well we have you down here sir and we'll see you then if you have any further questions please feel free to reach out to us and a survey will be played if you would like to wait for 10 seconds to take that survey for this call. Okay. Thank you. Have a nice evening. Bye-bye, sir. You too. Bye.",
+  "diarization": [
+    {
+      "start": 11.978468750000001,
+      "end": 15.353468750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18.64409375,
+      "end": 24.28034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 25.039718750000002,
+      "end": 34.42221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 36.565343750000004,
+      "end": 38.033468750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 38.37096875,
+      "end": 40.42971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 41.408468750000004,
+      "end": 41.64471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 41.931593750000005,
+      "end": 42.555968750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 42.94409375,
+      "end": 44.884718750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 45.205343750000004,
+      "end": 46.572218750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 46.791593750000004,
+      "end": 48.479093750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 52.275968750000004,
+      "end": 56.76471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 57.13596875,
+      "end": 61.99596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 62.43471875,
+      "end": 66.18096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 67.66596875,
+      "end": 68.22284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 68.22284375000001,
+      "end": 69.42096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 71.26034375,
+      "end": 72.12096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 73.36971875,
+      "end": 75.88409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 76.57596875,
+      "end": 82.98846875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 90.17721875000001,
+      "end": 96.70784375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 97.33221875000001,
+      "end": 98.31096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.53034375,
+      "end": 102.36096875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 104.67284375000001,
+      "end": 105.29721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 106.24221875,
+      "end": 109.68471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 109.68471875,
+      "end": 111.67596875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 113.65034375,
+      "end": 125.90159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 126.22221875000001,
+      "end": 128.46659375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 129.05721875,
+      "end": 134.45721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 136.66784375,
+      "end": 137.44409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 137.44409375,
+      "end": 138.22034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 139.26659375,
+      "end": 145.93221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 148.24409375000002,
+      "end": 152.29409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 152.29409375,
+      "end": 152.74971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 153.32346875000002,
+      "end": 157.55909375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 158.01471875000001,
+      "end": 164.89971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 166.68846875,
+      "end": 167.98784375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 168.27471875,
+      "end": 171.17721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 171.17721875,
+      "end": 171.46409375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 171.46409375000002,
+      "end": 172.89846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 173.96159375000002,
+      "end": 174.50159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 175.48034375,
+      "end": 176.74596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 178.04534375,
+      "end": 181.45409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 181.60596875000002,
+      "end": 182.26409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 183.39471875,
+      "end": 203.05409375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 203.40846875000003,
+      "end": 212.57159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 214.98471875,
+      "end": 215.99721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 216.62159375000002,
+      "end": 217.98846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 218.34284375000001,
+      "end": 219.13596875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 219.13596875000002,
+      "end": 219.60846875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 223.74284375000002,
+      "end": 229.04159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 233.54721875,
+      "end": 233.59784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 233.59784375,
+      "end": 233.86784375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 233.86784375000002,
+      "end": 233.90159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 234.18846875000003,
+      "end": 238.82909375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 240.14534375000002,
+      "end": 244.60034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 245.00534375,
+      "end": 256.90221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 258.48846875000004,
+      "end": 261.54284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 261.67784375,
+      "end": 262.40346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 263.28096875,
+      "end": 269.76096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 270.04784375,
+      "end": 274.30034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 274.55346875000004,
+      "end": 277.30409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 277.55721875,
+      "end": 283.85159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 284.32409375000003,
+      "end": 288.20534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 290.23034375000003,
+      "end": 292.39034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 292.62659375000004,
+      "end": 298.38096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 299.78159375,
+      "end": 307.03784375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 308.57346875,
+      "end": 310.83471875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 310.83471875000004,
+      "end": 314.10846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 316.01534375,
+      "end": 318.29346875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 318.79971875,
+      "end": 325.07721875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 328.50284375,
+      "end": 331.70909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 332.35034375000004,
+      "end": 344.51721875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 344.77034375,
+      "end": 345.76596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.60971875,
+      "end": 357.13971875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 357.73034375000003,
+      "end": 358.94534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 360.49784375,
+      "end": 362.82659375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 362.82659375000003,
+      "end": 367.16346875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 367.63596875,
+      "end": 371.06159375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 372.29346875000005,
+      "end": 372.83346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 373.32284375,
+      "end": 374.08221875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 376.63034375,
+      "end": 384.30846875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 385.74284375,
+      "end": 386.41784375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 386.55284375,
+      "end": 398.31471875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 399.93471875,
+      "end": 402.28034375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 402.28034375000004,
+      "end": 402.63471875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 403.42784375,
+      "end": 418.86846875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 420.35346875000005,
+      "end": 420.97784375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 420.97784375000003,
+      "end": 423.30659375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 424.16721875,
+      "end": 424.77471875000003,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 11.62,
+      "end": 15.2,
+      "text": "AIDO, Mexico. This is Sandy. How can I help you?",
+      "confidence": 0.871,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 18.2,
+      "end": 24.16,
+      "text": "Hi. I'm needing to get a special mail for a long-haul flight.",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 25.4,
+      "end": 36.7,
+      "text": "okay um i can do that for you sir uh what's your name and first and last name so i can search your flight number my",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 36.7,
+      "end": 40.32,
+      "text": "first name is david and my last name's aguilar",
+      "confidence": 0.787,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 40.32,
+      "end": 42.16,
+      "text": "and",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 42.16,
+      "end": 44.84,
+      "text": "the flight number should be 861",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 46.14,
+      "end": 47.38,
+      "text": "861 okay",
+      "confidence": 0.831,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 51.5,
+      "end": 66.02,
+      "text": "okay yes sir i show you here for tuesday november 11th at 7 p.m flight to uh colombia is that right",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 67.3,
+      "end": 68.08,
+      "text": "that's right",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 68.08,
+      "end": 68.76,
+      "text": "okay",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 72.1,
+      "end": 75.58,
+      "text": "Is seat selection possible in advance?",
+      "confidence": 0.944,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 77.32,
+      "end": 82.82,
+      "text": "Let me see if I have any availability for seat selections at this moment.",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 90.22,
+      "end": 102.2,
+      "text": "Yes, I do have seat selection available right now, actually. We have a few seats left. um are you looking for first class or economy sir",
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 105.12,
+      "end": 109.64,
+      "text": "um i'm wanting a first class right now",
+      "confidence": 0.88,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 109.64,
+      "end": 134.26,
+      "text": "for first class okay and for special meal long haul request uh we unfortunately do not have that available any longer. We do provide first class beverages and purchased meals on the flight only through credit card.",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 136.0,
+      "end": 137.38,
+      "text": "Okay, that'd be",
+      "confidence": 0.959,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 137.38,
+      "end": 145.58,
+      "text": "great. Okay. And then for first class, I show that you're flying alone, sir. Is that correct?",
+      "confidence": 0.981,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 149.32,
+      "end": 151.96,
+      "text": "Yes. Yes, it's correct.",
+      "confidence": 0.943,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 152.3,
+      "end": 164.52,
+      "text": "Okay. So we have first class November 11th, 7 p.m. Colombia. Would you like an aisle seat, sir, or a window seat?",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 166.6,
+      "end": 181.24,
+      "text": "Either one. Preferably window seat if available. Window seat. Okay. Yeah. And also, can you tell me about priority boarding for frequent flyers?",
+      "confidence": 0.963,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 181.24,
+      "end": 212.3,
+      "text": "Okay. Okay, yes, sir. So we do have priority boarding with Idle Mexico because you are seating in first class. You will be group one. So you'll be able to be sat down first. there is an upgrade to first class seating. It's an additional $60 for upgrading your seat and picking your seat in first class.",
+      "confidence": 0.952,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 214.6,
+      "end": 215.32,
+      "text": "Okay.",
+      "confidence": 0.888,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 216.14,
+      "end": 217.84,
+      "text": "That'll be fine with you?",
+      "confidence": 0.95,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 218.12,
+      "end": 219.14,
+      "text": "Yeah, that'll be fine.",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 219.28,
+      "end": 219.54,
+      "text": "Okay.",
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 223.5,
+      "end": 228.76,
+      "text": "Okay. Okay. I'm just entering that right now. for window seat.",
+      "confidence": 0.873,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 233.6,
+      "end": 234.32,
+      "text": "And",
+      "confidence": 0.828,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 234.32,
+      "end": 238.5,
+      "text": "then once you're done with that, can you tell me about my baggage allowances?",
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 239.8,
+      "end": 287.34,
+      "text": "Okay, yes. So baggage we do have for flying out from Aero, Mexico, from Dallas to Colombia. We do have where you can have a personal item In addition to, you can also have onboarding a luggage, but it does have to be a backpack or a small suitcase. That is an additional to your personal item as well. That can be for onboard flights. However, if you do decide you would like to have an additional bag that's up to 50 pounds or more, that's an additional $80.",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 289.96,
+      "end": 306.96,
+      "text": "Will you be needing to purchase baggage claims to put it onto the plane? Would you like to purchase that in addition, or is it just a personal item and onboarding as well?",
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 308.18,
+      "end": 310.76,
+      "text": "I've got one carry-on and one check-in bag.",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 311.0,
+      "end": 313.86,
+      "text": "Okay, so one carry-on and one check-in bag.",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 315.94,
+      "end": 324.66,
+      "text": "Okay, so that will be $80 plus the $60 for upgrading to first class.",
+      "confidence": 0.987,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 328.28,
+      "end": 358.2,
+      "text": "Okay, sir. So I have you down for November 11th at 7 o'clock p.m. to Colombia. One purchase ticket for an upgrade for first class window seat at $60 plus a check-in bag and then a personal item and an onboarding, which you would only be paying for the check-in bag. So that would be an additional $80.",
+      "confidence": 0.968,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 360.1,
+      "end": 362.6,
+      "text": "Okay. And what seat number is that again?",
+      "confidence": 0.934,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 362.74,
+      "end": 370.76,
+      "text": "So your seat number is going to be three at the D seat, 3D.",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 371.94,
+      "end": 372.62,
+      "text": "Perfect.",
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 373.26,
+      "end": 373.74,
+      "text": "Okay.",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 376.18,
+      "end": 400.14,
+      "text": "And like I said, there will also be beverages and snacks once you're there for purchase. Okay. Perfect. so it would be a total of 140 dollars sir uh would you like to pay that today or would you like to pay that um at the ticket counter when you arrive i'd",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 400.14,
+      "end": 402.24,
+      "text": "like to pay it at the ticket counter that'd be great",
+      "confidence": 0.984,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 402.24,
+      "end": 418.78,
+      "text": "okay okay well we have you down here sir and we'll see you then if you have any further questions please feel free to reach out to us and a survey will be played if you would like to wait for 10 seconds to take that survey for this call.",
+      "confidence": 0.993,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 420.14,
+      "end": 420.62,
+      "text": "Okay.",
+      "confidence": 0.856,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 420.94,
+      "end": 423.2,
+      "text": "Thank you. Have a nice evening. Bye-bye, sir.",
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 424.14,
+      "end": 424.66,
+      "text": "You too. Bye.",
+      "confidence": 0.934,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_00 greets, asks for personal details, provides flight info, typical agent behavior; Speaker_01 asks for service and provides personal info, typical customer behavior."
+}

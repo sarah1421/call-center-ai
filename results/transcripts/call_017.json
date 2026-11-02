@@ -1,0 +1,936 @@
+{
+  "call_id": "call_017",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hi, this is CodeEware Online Store. This is Brian. How can I help you with your order today? Hi, Brian. I just bought a jacket from your store last week, but it doesn't fit. I need to return it or maybe exchange if it's possible. Oh, I'm sorry the jacket doesn't fit. Let's fix this. First, can you tell me your order number and the email you used to buy it? That way I can pull up your order details fast. Yeah, my order number is CW56789 and my email is linda.jong at email.com. The jacket was black, the winter warm style. I ordered a medium size that is too tight around the shoulders. Let me check that. You bought the black winter warm jacket in medium on the 10th of this month. It arrived at your place on the 14th, right? Our return policy lets you send items back within 30 days of delivery. So you are totally eligible. No worries there. Oh good. I was scared I missed the deadline. Now what's the return process? Do I need to pack it a certain way or just send it back? Oh, it's super easy. First, make sure the jacket is in the same condition as when you got it. No text removed, no stains on wear. Then put it back in the original box. or any study box. Next, you need a shipping label to send it to us. And I can send you a prepaid one so you don't have to pay for shipping. Oh, that's perfect. Can you send the prepaid label to my email? I can print it out at home tonight and drop the package of the post office tomorrow. Yeah, send the prepaid label to lindajang at email.com. The email is correct, right? I just want to make sure. Oh, yeah. The email will also have our return address. Just take the label on the box and write your order number on the outside too, so we know it's yours. The post office usually takes three to four days, I think, to send it to our warehouse. No hurry. Okay, I will do that. Now if I go with a return, how long will it take to get my money back? Because I use my debit card to pay and I need to know when to expand the refund. Oh, I see. Once our warehouse gets the jacket and checks it, that probably takes one to two days after delivery. We process the refund right away. Refunds to debit cards usually take 3-5 business days to show up in your bank account. So, if the warehouse gets the jacket next Wednesday, you'll probably have the money by next Monday at the latest. Oh, that's good. Can you send me a confirmation email once the refund is issued? I just want to make sure it's actually being processed just in case. Yeah, yeah, for sure. As soon as we hit process refund, you will get an email to lindajangemail.com. You will see the refund amount and the date we send it to your bank. You can also check this data at any time by logging to your CodeAware account. There's a return and refunds tab that updates in real time. Oh, thank you. Now, I was also wondering, can I exchange the medium jacket for a larger size instead of getting a refund? I really like the style and I just need a bigger size. Yeah, we can definitely do an exchange. Let me check if we have the black winter warm jacket in large in stock. One moment please. Oh yeah, okay. Good news, we have 15 left. If you want to exchange, just write exchange for size large on the outside of the box, along with your order number please. When our warehouse gets it, they will send the large jacket to you for free, no extra cost. Oh, that's even better. I don't have to wait for the refund and the rewarder. How long will the exchange take? I need the jacket for a trip next month. So the exchange is faster than a refund, I believe. Once the warehouse gets your medium jacket, it probably takes 3-4 days from where you send it. They will ship the large one the same day shipping takes around three to four days so we'll have the large jacket in about ten days total probably way before a trip you will have plenty of time I think perfect I will do the exchange then let me just make sure I have all the stuff right okay just moment so first of all print the prepaid label from your email. Second, pack the medium jacket and then write it down exchange for size large on it, right? And order number on the box. Then drop it at the post office tomorrow. Okay, then you will send the large one once you get the medium, right? And I will get a confirmation when it ships, right? yeah yeah that's probably that is we will send another email with the large jacket ships with the tracking number so you can see where it is if you have any issues like the label won't print or you can drop it off tomorrow just call me back we will fix it okay brian thank you so much i was so stressed about the jacket not fitting but it's uh it was easy right now you made it easy way thank you yeah you're welcome linda we want you to love your jacket so exchanges are no trouble at all if you have questions before the warehouse gets the jacket just reach out to us okay i will do it thank you have a great day you too enjoy your new large jacket stay warm okay take care Thank you.",
+  "diarization": [
+    {
+      "start": 13.919093750000002,
+      "end": 18.711593750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 19.605968750000002,
+      "end": 20.63534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21.00659375,
+      "end": 24.17909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24.68534375,
+      "end": 27.402218750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.773468750000003,
+      "end": 30.49034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 32.39721875,
+      "end": 35.502218750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 36.19409375,
+      "end": 40.17659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 40.564718750000004,
+      "end": 43.079093750000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 44.64846875,
+      "end": 46.60596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 47.55096875,
+      "end": 48.141593750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.377843750000004,
+      "end": 51.735968750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 52.12409375,
+      "end": 54.97596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 55.34721875,
+      "end": 57.102218750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 57.844718750000006,
+      "end": 59.46471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 59.98784375,
+      "end": 61.47284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 62.01284375,
+      "end": 67.76721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 69.69096875000001,
+      "end": 70.90596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 71.32784375,
+      "end": 75.59721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 76.55909375,
+      "end": 79.69784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 80.15346875,
+      "end": 80.40659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 80.40659375,
+      "end": 80.44034375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 80.44034375000001,
+      "end": 83.44409375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 83.47784375,
+      "end": 85.60409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 85.99221875,
+      "end": 88.81034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 89.75534375000001,
+      "end": 90.54846875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 90.98721875000001,
+      "end": 92.84346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.46784375,
+      "end": 95.50971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 95.99909375,
+      "end": 99.99846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 101.61846875,
+      "end": 102.85034375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 103.18784375000001,
+      "end": 107.52471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.14909375,
+      "end": 113.31284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 113.93721875000001,
+      "end": 115.65846875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 116.38409375,
+      "end": 123.87659375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 124.61909375,
+      "end": 125.66534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 126.40784375000001,
+      "end": 129.02346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 129.51284375,
+      "end": 133.03971875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 133.41096875,
+      "end": 139.70534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 141.37596875,
+      "end": 141.40971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 141.40971875,
+      "end": 141.76409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 142.20284375,
+      "end": 144.54846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 145.05471875,
+      "end": 146.35409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 146.45534375,
+      "end": 148.36221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 148.86846875,
+      "end": 149.88096875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 150.38721875000002,
+      "end": 154.16721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 154.52159375000002,
+      "end": 159.82034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 159.95534375,
+      "end": 161.20409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 161.96346875,
+      "end": 167.07659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 167.88659375,
+      "end": 168.42659375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 169.25346875000002,
+      "end": 169.70909375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 170.14784375000002,
+      "end": 171.17721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 171.53159375,
+      "end": 172.29096875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 172.52721875,
+      "end": 174.61971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 175.27784375000002,
+      "end": 178.16346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 178.73721875,
+      "end": 184.03596875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 184.10346875000002,
+      "end": 185.35221875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 186.49971875,
+      "end": 191.24159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 191.91659375,
+      "end": 203.03721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 203.03721875000002,
+      "end": 203.84721875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 203.84721875000002,
+      "end": 203.86409375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 204.80909375000002,
+      "end": 212.26784375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 213.61784375000002,
+      "end": 220.18221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 220.67159375000003,
+      "end": 225.02534375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 226.30784375000002,
+      "end": 239.52096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 240.49971875000003,
+      "end": 244.78596875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 245.22471875000002,
+      "end": 246.38909375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.18221875,
+      "end": 251.46846875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 252.54846875,
+      "end": 253.81409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 254.28659375,
+      "end": 255.85596875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 256.10909375,
+      "end": 257.22284375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 257.79659375,
+      "end": 263.77034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 264.41159375,
+      "end": 267.33096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 268.88346875,
+      "end": 271.11096875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 271.65096875,
+      "end": 275.98784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 277.28721875,
+      "end": 277.32096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 277.32096875,
+      "end": 278.92409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 279.88596875,
+      "end": 280.24034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 280.78034375000004,
+      "end": 289.31909375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 289.94346875,
+      "end": 291.96846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 292.81221875,
+      "end": 298.75221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 300.03471875,
+      "end": 301.80659375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 302.19471875,
+      "end": 305.94096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 306.49784375,
+      "end": 311.67846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 313.21409375,
+      "end": 317.85471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 317.97284375000004,
+      "end": 321.04409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 321.12846875,
+      "end": 329.02596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 329.46471875000003,
+      "end": 335.94471875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 336.87284375,
+      "end": 337.39596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 337.76721875000004,
+      "end": 340.97346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 341.56409375000004,
+      "end": 342.13784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 343.04909375,
+      "end": 345.29346875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.08659375,
+      "end": 351.30096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 352.22909375,
+      "end": 357.17346875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 357.94971875000005,
+      "end": 358.05096875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 358.05096875000004,
+      "end": 361.49346875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 362.28659375,
+      "end": 366.28596875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 366.75846875,
+      "end": 366.77534375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 366.77534375000005,
+      "end": 366.79221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 366.79221875,
+      "end": 366.97784375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 366.97784375000003,
+      "end": 367.68659375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 368.41221875,
+      "end": 371.17971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 371.95596875,
+      "end": 375.12846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 375.85409375,
+      "end": 376.27596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 377.03534375000004,
+      "end": 384.49409375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 385.11846875000003,
+      "end": 390.43409375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 390.92346875000004,
+      "end": 393.85971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 394.46721875000003,
+      "end": 394.48409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 394.48409375,
+      "end": 394.75409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 394.75409375000004,
+      "end": 394.77096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 394.77096875,
+      "end": 394.87221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 394.87221875,
+      "end": 394.92284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 394.92284375,
+      "end": 395.02409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 395.02409375,
+      "end": 400.52534375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 400.96409375,
+      "end": 401.74034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 402.07784375,
+      "end": 403.03971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 403.86659375000005,
+      "end": 405.41909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 406.16159375,
+      "end": 409.04721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 409.45221875000004,
+      "end": 413.14784375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 414.02534375000005,
+      "end": 424.55534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 424.97721875,
+      "end": 426.24284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 426.95159375000003,
+      "end": 429.71909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 430.56284375,
+      "end": 434.20784375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 435.15284375000005,
+      "end": 436.04721875,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 13.6,
+      "end": 18.6,
+      "text": "Hi, this is CodeEware Online Store. This is Brian. How can I help you with your order today?",
+      "confidence": 0.902,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 19.62,
+      "end": 30.36,
+      "text": "Hi, Brian. I just bought a jacket from your store last week, but it doesn't fit. I need to return it or maybe exchange if it's possible.",
+      "confidence": 0.968,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 31.94,
+      "end": 43.08,
+      "text": "Oh, I'm sorry the jacket doesn't fit. Let's fix this. First, can you tell me your order number and the email you used to buy it? That way I can pull up your order details fast.",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 44.28,
+      "end": 67.58,
+      "text": "Yeah, my order number is CW56789 and my email is linda.jong at email.com. The jacket was black, the winter warm style. I ordered a medium size that is too tight around the shoulders.",
+      "confidence": 0.888,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 69.28,
+      "end": 88.76,
+      "text": "Let me check that. You bought the black winter warm jacket in medium on the 10th of this month. It arrived at your place on the 14th, right? Our return policy lets you send items back within 30 days of delivery. So you are totally eligible. No worries there.",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 89.5,
+      "end": 99.94,
+      "text": "Oh good. I was scared I missed the deadline. Now what's the return process? Do I need to pack it a certain way or just send it back?",
+      "confidence": 0.939,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 101.14,
+      "end": 123.8,
+      "text": "Oh, it's super easy. First, make sure the jacket is in the same condition as when you got it. No text removed, no stains on wear. Then put it back in the original box. or any study box. Next, you need a shipping label to send it to us. And I can send you a prepaid one so you don't have to pay for shipping.",
+      "confidence": 0.936,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 124.28,
+      "end": 139.5,
+      "text": "Oh, that's perfect. Can you send the prepaid label to my email? I can print it out at home tonight and drop the package of the post office tomorrow.",
+      "confidence": 0.952,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 140.96,
+      "end": 168.36,
+      "text": "Yeah, send the prepaid label to lindajang at email.com. The email is correct, right? I just want to make sure. Oh, yeah. The email will also have our return address. Just take the label on the box and write your order number on the outside too, so we know it's yours. The post office usually takes three to four days, I think, to send it to our warehouse. No hurry.",
+      "confidence": 0.906,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 168.36,
+      "end": 185.26,
+      "text": "Okay, I will do that. Now if I go with a return, how long will it take to get my money back? Because I use my debit card to pay and I need to know when to expand the refund.",
+      "confidence": 0.915,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 186.12,
+      "end": 203.02,
+      "text": "Oh, I see. Once our warehouse gets the jacket and checks it, that probably takes one to two days after delivery. We process the refund right away. Refunds to debit cards usually take 3-5 business days to show up in",
+      "confidence": 0.902,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 203.02,
+      "end": 203.88,
+      "text": "your bank account.",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 204.42,
+      "end": 212.22,
+      "text": "So, if the warehouse gets the jacket next Wednesday, you'll probably have the money by next Monday at the latest.",
+      "confidence": 0.915,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 213.28,
+      "end": 225.06,
+      "text": "Oh, that's good. Can you send me a confirmation email once the refund is issued? I just want to make sure it's actually being processed just in case.",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 225.96,
+      "end": 251.42,
+      "text": "Yeah, yeah, for sure. As soon as we hit process refund, you will get an email to lindajangemail.com. You will see the refund amount and the date we send it to your bank. You can also check this data at any time by logging to your CodeAware account. There's a return and refunds tab that updates in real time.",
+      "confidence": 0.898,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 252.12,
+      "end": 267.42,
+      "text": "Oh, thank you. Now, I was also wondering, can I exchange the medium jacket for a larger size instead of getting a refund? I really like the style and I just need a bigger size.",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 268.46,
+      "end": 298.76,
+      "text": "Yeah, we can definitely do an exchange. Let me check if we have the black winter warm jacket in large in stock. One moment please. Oh yeah, okay. Good news, we have 15 left. If you want to exchange, just write exchange for size large on the outside of the box, along with your order number please. When our warehouse gets it, they will send the large jacket to you for free, no extra cost.",
+      "confidence": 0.92,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 299.68,
+      "end": 311.64,
+      "text": "Oh, that's even better. I don't have to wait for the refund and the rewarder. How long will the exchange take? I need the jacket for a trip next month.",
+      "confidence": 0.897,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 313.84,
+      "end": 335.7,
+      "text": "So the exchange is faster than a refund, I believe. Once the warehouse gets your medium jacket, it probably takes 3-4 days from where you send it. They will ship the large one the same day shipping takes around three to four days so we'll have the large jacket in about ten days total probably",
+      "confidence": 0.856,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 335.7,
+      "end": 337.92,
+      "text": "way",
+      "confidence": 0.239,
+      "low_confidence": true,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 337.92,
+      "end": 340.98,
+      "text": "before a trip you will have plenty of time I think",
+      "confidence": 0.902,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 340.98,
+      "end": 384.42,
+      "text": "perfect I will do the exchange then let me just make sure I have all the stuff right okay just moment so first of all print the prepaid label from your email. Second, pack the medium jacket and then write it down exchange for size large on it, right? And order number on the box. Then drop it at the post office tomorrow. Okay, then you will send the large one once you get the medium, right? And I will get a confirmation when it ships, right?",
+      "confidence": 0.914,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 384.42,
+      "end": 393.92,
+      "text": "yeah yeah that's probably that is we will send another email with the large jacket ships with the tracking number so you can see where it is",
+      "confidence": 0.882,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 393.92,
+      "end": 394.98,
+      "text": "if you",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 394.98,
+      "end": 403.0,
+      "text": "have any issues like the label won't print or you can drop it off tomorrow just call me back we will fix it",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 403.0,
+      "end": 413.02,
+      "text": "okay brian thank you so much i was so stressed about the jacket not fitting but it's uh it was easy right now you made it easy way thank you",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 413.02,
+      "end": 426.26,
+      "text": "yeah you're welcome linda we want you to love your jacket so exchanges are no trouble at all if you have questions before the warehouse gets the jacket just reach out to us",
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 426.26,
+      "end": 429.58,
+      "text": "okay i will do it thank you have a great day",
+      "confidence": 0.968,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 429.58,
+      "end": 434.04,
+      "text": "you too enjoy your new large jacket stay warm",
+      "confidence": 0.925,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 434.04,
+      "end": 435.96,
+      "text": "okay take care",
+      "confidence": 0.995,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 443.04,
+      "end": 445.52,
+      "text": "Thank you.",
+      "confidence": 0.618,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_01 greets as a representative and asks for order details, while Speaker_00 describes the purchase issue and asks questions, indicating the customer role."
+}

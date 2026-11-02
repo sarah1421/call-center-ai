@@ -1,0 +1,996 @@
+{
+  "call_id": "call_008",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hello, good evening. Thank you for calling Event Ease Customer Care India. This is Hrithika speaking. How may I help you today? Yes, actually I wanted to check about that big music concert happening this Sunday in Pangalore. My friends are pestering me like anything saying, come, come. But I said, let me confirm details before jumping in. So can you tell me timings, sittings, all those small things? Of course, ma'am. I could be happy to give you all the details. Could you tell which concert you are referring to exactly? There are few lined up this month. Oh, right. Yes. It is the Rhythm Beats Live concert at Palace Grounds. I saw ads online, flashy posters. but honestly, I wasn't sure what's the real and what's the hype. So, I thought better to call you directly? Yes, yes, ma'am. Rhythm Bates Live is scheduled for this Sunday, starting at 7pm at Palace Ground, Bangalore. Gates open from 5.30pm so people can enter early and settle down. Okay, 5.30pm entry, right? Yeah, yeah. That's good. That's really good to know. And Sips? Are there reserves or it like chows, like first come first serve because I hate running with crowd. I understand ma'am. There are categories. Silver tickets are open sitting, first come first serve. Gold tickets have reserved seating closer to the stage. And VIP tickets offer lounge style seating with complimentary snacks and beverages. Ma'am, what do you like? What you like, please tell me. there are categories right yeah yeah yeah and price different must be there yeah yes of course ma'am so how are they ma'am silver is about 1500 rupees per ticket gold is 3000 and VIP is 6000 per person is expected yeah my friends will say VIP but my wallet will say silver okay okay maybe it's also good it's also good yeah but i think maybe gold is yeah will be there is a balance for gold i must say anyways let's see about that but what about food stalls parkings because i have had terrible experience before standing in a line for water bottles can you imagine like for water bottles. I completely understand ma'am. There is there will be a multiple food stalls inside venue itself and they will be serving Indian snacks, fast food and continental options are also available. For parking there is designated lots right next to the palace ground. Charges around 100 rupees for cars and 50 for two wheelers. all right not bad and what about security like crowds sometimes get rowdy and i don't want that unnecessary tensions and stuff um yes ma'am you are right uh security is a strict bags will be checked at entry and no outside food or bottles are allowed and also there will be uh metal detectors plus a medical team and ambulance on standby inside venue. So you will not have any problem. Surely, that's reassuring, right? Yeah, yeah, yeah. Sounds like good to know. And how long does concert usually run? I mean, is it two hours or a full night affair? The schedule is for around three hours, ma'am. And opening at X start at 7. main performance runs from 8 till about 10.30pm so mainly you can say 3 to 4 hours alright alright that's fine it means like I'll have to manage Monday blues somehow and but what about tickets I can buy it online or physical counters is also available both you can book online or on our website and once booked e-tickets will be emailed and sent by sms or qr code and you just need to show it at entry gate or you may be physical have physical control also oh that's really convenient but suppose i am giving you a just hypothetical situation like sometimes what happens something comes late up last night or at the last time or at the last minute yeah you can say that there It will be an office work or maybe any family emergency. So, can I cancel my ticket or get refund or not? I'm very sorry, ma'am. For live concert, tickets are non-refundable. However, you can transfer tickets to another person. They can show their QR codes and enter. But it is non-refundable. Yeah. Okay, getting it. There will be no refund for the price I paid. but you can transfer tickets to another person you can give if you are one of your friend wants to come here so you can give these tickets to him or her and they will show the qr code and they can enter the live concert this always be a tricky part in any concert yeah okay i'll take the risk then and rithika thank you so much you explained clearly i was a bit confused but now i feel really sorted. I am very happy to hear that ma'am. Before I end the call, may I check is there anything else I can help you with today? Maybe details about upcoming stand-up shows or theatre events? No, no, no. That's all for now. I am really satisfied with your help today. You answered everything I had in mind and with really, really clear it in the way. That's wonderful ma'am. Thank you for calling Event Ease Customer Care India. We look forward to see you at Rhythm Beats Live. Have a lovely evening, ma'am. Thank you so much, Ritika. Goodbye. Goodbye.",
+  "diarization": [
+    {
+      "start": 2.73096875,
+      "end": 3.25409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4.16534375,
+      "end": 4.840343750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6.22409375,
+      "end": 9.09284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9.750968750000002,
+      "end": 11.05034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11.84346875,
+      "end": 13.09221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.34909375,
+      "end": 21.95159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 22.52534375,
+      "end": 26.47409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26.76096875,
+      "end": 34.034093750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 34.034093750000004,
+      "end": 34.16909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 35.06346875,
+      "end": 38.556593750000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 39.02909375,
+      "end": 41.69534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 42.43784375,
+      "end": 44.09159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 46.18409375,
+      "end": 60.40971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 60.696593750000005,
+      "end": 62.02971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 62.02971875,
+      "end": 62.924093750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 63.649718750000005,
+      "end": 64.56096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 64.96596875,
+      "end": 67.41284375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 67.53096875,
+      "end": 70.70346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 71.09159375,
+      "end": 76.20471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 78.19596875,
+      "end": 82.71846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 83.39346875000001,
+      "end": 92.16846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 93.18096875,
+      "end": 93.19784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.19784375,
+      "end": 93.21471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 93.21471875,
+      "end": 94.29471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 94.63221875,
+      "end": 95.96534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 97.38284375,
+      "end": 111.03471875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 111.64221875000001,
+      "end": 115.28721875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 117.41346875,
+      "end": 117.97034375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 117.97034375000001,
+      "end": 120.36659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 121.37909375000001,
+      "end": 123.04971875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 123.53909375,
+      "end": 124.95659375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 126.34034375,
+      "end": 127.15034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 127.15034375,
+      "end": 127.21784375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 128.06159375000001,
+      "end": 136.63409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 138.50721875000002,
+      "end": 140.29596875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 140.31284375,
+      "end": 146.28659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 146.28659375,
+      "end": 146.30346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 146.30346875,
+      "end": 146.42159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 146.42159375,
+      "end": 146.52284375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 146.52284375000002,
+      "end": 147.16409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 147.40034375000002,
+      "end": 147.92346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 147.92346875,
+      "end": 148.73346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 148.73346875000001,
+      "end": 149.77971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 151.34909375,
+      "end": 159.55034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 159.97221875,
+      "end": 169.96221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 169.96221875,
+      "end": 169.97909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 170.63721875000002,
+      "end": 170.67096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 170.67096875000001,
+      "end": 176.05409375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 176.30721875,
+      "end": 183.51284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 183.98534375,
+      "end": 193.87409375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 195.93284375000002,
+      "end": 204.53909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 205.19721875000002,
+      "end": 210.04034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 210.37784375,
+      "end": 214.78221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 215.28846875000002,
+      "end": 225.29534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 227.40471875,
+      "end": 230.64471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 230.64471875,
+      "end": 231.43784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 232.63596875000002,
+      "end": 239.03159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 239.03159375,
+      "end": 240.26346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 241.25909375,
+      "end": 243.89159375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 244.29659375000003,
+      "end": 254.67471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 255.43409375000002,
+      "end": 256.59846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 258.91034375000004,
+      "end": 264.52971875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 264.81659375000004,
+      "end": 264.96846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 264.96846875,
+      "end": 265.35659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 265.35659375,
+      "end": 271.02659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 271.02659375,
+      "end": 271.12784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 271.12784375,
+      "end": 271.43159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 271.43159375,
+      "end": 287.74971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 289.40346875,
+      "end": 295.24221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 295.59659375,
+      "end": 299.59596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 299.96721875000003,
+      "end": 300.50721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 300.50721875,
+      "end": 302.76846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 303.15659375,
+      "end": 303.20721875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 303.20721875000004,
+      "end": 303.61221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 303.61221875,
+      "end": 307.66221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 307.78034375000004,
+      "end": 311.17221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 312.11721875,
+      "end": 316.82534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 317.31471875,
+      "end": 323.05221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 324.13221875,
+      "end": 325.51596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 325.51596875,
+      "end": 325.92096875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 326.29221875,
+      "end": 326.79846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 326.88284375,
+      "end": 332.72159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 332.72159375,
+      "end": 332.73846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 332.73846875000004,
+      "end": 332.75534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 332.75534375,
+      "end": 332.92409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 332.92409375,
+      "end": 332.97471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 332.97471875,
+      "end": 341.81721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 342.20534375,
+      "end": 345.95159375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.22159375,
+      "end": 347.23409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 348.53346875,
+      "end": 351.21659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 351.57096875,
+      "end": 352.07721875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 352.33034375,
+      "end": 353.10659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 353.32596875,
+      "end": 361.61159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 361.61159375,
+      "end": 361.62846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 362.43846875,
+      "end": 364.04159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 364.58159375,
+      "end": 373.89659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 375.49971875,
+      "end": 380.22471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 380.44409375000004,
+      "end": 384.89909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 385.92846875000004,
+      "end": 389.79284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 390.29909375,
+      "end": 394.14659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 395.95221875000004,
+      "end": 396.96471875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 396.96471875000003,
+      "end": 397.13346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 397.13346875,
+      "end": 397.23471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 397.23471875,
+      "end": 397.50471875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 397.50471875000005,
+      "end": 397.53846875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 397.53846875000005,
+      "end": 397.55534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 397.55534375,
+      "end": 397.85909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 397.85909375,
+      "end": 397.99409375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 397.99409375000005,
+      "end": 398.01096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 398.01096875,
+      "end": 398.60159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 398.60159375,
+      "end": 398.65221875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 398.65221875000003,
+      "end": 398.71971875,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.32,
+      "end": 12.94,
+      "text": "Hello, good evening. Thank you for calling Event Ease Customer Care India. This is Hrithika speaking. How may I help you today?",
+      "confidence": 0.934,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 15.96,
+      "end": 33.96,
+      "text": "Yes, actually I wanted to check about that big music concert happening this Sunday in Pangalore. My friends are pestering me like anything saying, come, come. But I said, let me confirm details before jumping in. So can you tell me timings, sittings, all those small things?",
+      "confidence": 0.956,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 34.66,
+      "end": 44.02,
+      "text": "Of course, ma'am. I could be happy to give you all the details. Could you tell which concert you are referring to exactly? There are few lined up this month.",
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 45.78,
+      "end": 62.1,
+      "text": "Oh, right. Yes. It is the Rhythm Beats Live concert at Palace Grounds. I saw ads online, flashy posters. but honestly, I wasn't sure what's the real and what's the hype. So, I thought better to",
+      "confidence": 0.952,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 62.1,
+      "end": 76.08,
+      "text": "call you directly? Yes, yes, ma'am. Rhythm Bates Live is scheduled for this Sunday, starting at 7pm at Palace Ground, Bangalore. Gates open from 5.30pm so people can enter early and settle down.",
+      "confidence": 0.942,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 78.08,
+      "end": 91.96,
+      "text": "Okay, 5.30pm entry, right? Yeah, yeah. That's good. That's really good to know. And Sips? Are there reserves or it like chows, like first come first serve because I hate running with crowd.",
+      "confidence": 0.861,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 92.7,
+      "end": 95.64,
+      "text": "I understand ma'am. There are categories.",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 98.4,
+      "end": 117.96,
+      "text": "Silver tickets are open sitting, first come first serve. Gold tickets have reserved seating closer to the stage. And VIP tickets offer lounge style seating with complimentary snacks and beverages. Ma'am, what do you like? What you like, please tell me. there are",
+      "confidence": 0.927,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 117.96,
+      "end": 122.9,
+      "text": "categories right yeah yeah yeah and price different must be there",
+      "confidence": 0.755,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 122.9,
+      "end": 124.9,
+      "text": "yeah yes of course ma'am",
+      "confidence": 0.938,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 125.72,
+      "end": 127.12,
+      "text": "so how are they",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 127.94,
+      "end": 136.5,
+      "text": "ma'am silver is about 1500 rupees per ticket gold is 3000 and VIP is 6000 per person",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 138.46,
+      "end": 146.8,
+      "text": "is expected yeah my friends will say VIP but my wallet will say silver okay okay maybe",
+      "confidence": 0.879,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 146.8,
+      "end": 147.86,
+      "text": "it's",
+      "confidence": 0.906,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 147.86,
+      "end": 148.42,
+      "text": "also good",
+      "confidence": 0.953,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 148.42,
+      "end": 149.72,
+      "text": "it's also good",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 149.72,
+      "end": 169.72,
+      "text": "yeah but i think maybe gold is yeah will be there is a balance for gold i must say anyways let's see about that but what about food stalls parkings because i have had terrible experience before standing in a line for water bottles can you imagine like for water bottles.",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 170.82,
+      "end": 193.74,
+      "text": "I completely understand ma'am. There is there will be a multiple food stalls inside venue itself and they will be serving Indian snacks, fast food and continental options are also available. For parking there is designated lots right next to the palace ground. Charges around 100 rupees for cars and 50 for two wheelers.",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 195.42,
+      "end": 204.26,
+      "text": "all right not bad and what about security like crowds sometimes get rowdy and i don't want that unnecessary tensions and stuff",
+      "confidence": 0.903,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 204.26,
+      "end": 225.1,
+      "text": "um yes ma'am you are right uh security is a strict bags will be checked at entry and no outside food or bottles are allowed and also there will be uh metal detectors plus a medical team and ambulance on standby inside venue. So you will not have any problem.",
+      "confidence": 0.941,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 228.1,
+      "end": 230.24,
+      "text": "Surely, that's reassuring, right?",
+      "confidence": 0.907,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 230.7,
+      "end": 231.38,
+      "text": "Yeah, yeah, yeah.",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 232.54,
+      "end": 239.08,
+      "text": "Sounds like good to know. And how long does concert usually run? I mean, is it two hours or a",
+      "confidence": 0.923,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 239.08,
+      "end": 256.44,
+      "text": "full night affair? The schedule is for around three hours, ma'am. And opening at X start at 7. main performance runs from 8 till about 10.30pm so mainly you can say 3 to 4 hours",
+      "confidence": 0.913,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 258.44,
+      "end": 264.32,
+      "text": "alright alright that's fine it means like I'll have to manage Monday blues somehow",
+      "confidence": 0.914,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 264.32,
+      "end": 265.42,
+      "text": "and",
+      "confidence": 0.1,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 265.42,
+      "end": 270.88,
+      "text": "but what about tickets I can buy it online or physical counters is also available",
+      "confidence": 0.988,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 270.88,
+      "end": 289.54,
+      "text": "both you can book online or on our website and once booked e-tickets will be emailed and sent by sms or qr code and you just need to show it at entry gate or you may be physical have physical control also oh",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 289.54,
+      "end": 299.44,
+      "text": "that's really convenient but suppose i am giving you a just hypothetical situation like sometimes what happens something comes late up last night",
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 299.44,
+      "end": 300.42,
+      "text": "or",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 300.42,
+      "end": 302.58,
+      "text": "at the last time or at the last minute",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 302.58,
+      "end": 303.44,
+      "text": "yeah",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 303.44,
+      "end": 311.1,
+      "text": "you can say that there It will be an office work or maybe any family emergency. So, can I cancel my ticket or get refund or not?",
+      "confidence": 0.919,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 312.22,
+      "end": 326.52,
+      "text": "I'm very sorry, ma'am. For live concert, tickets are non-refundable. However, you can transfer tickets to another person. They can show their QR codes and enter. But it is non-refundable. Yeah.",
+      "confidence": 0.97,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 327.02,
+      "end": 333.08,
+      "text": "Okay, getting it. There will be no refund for the price I paid. but",
+      "confidence": 0.917,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 333.08,
+      "end": 347.0,
+      "text": "you can transfer tickets to another person you can give if you are one of your friend wants to come here so you can give these tickets to him or her and they will show the qr code and they can enter the live concert",
+      "confidence": 0.955,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 347.0,
+      "end": 361.46,
+      "text": "this always be a tricky part in any concert yeah okay i'll take the risk then and rithika thank you so much you explained clearly i was a bit confused but now i feel really sorted.",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 362.02,
+      "end": 373.68,
+      "text": "I am very happy to hear that ma'am. Before I end the call, may I check is there anything else I can help you with today? Maybe details about upcoming stand-up shows or theatre events?",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 375.44,
+      "end": 384.84,
+      "text": "No, no, no. That's all for now. I am really satisfied with your help today. You answered everything I had in mind and with really, really clear it in the way.",
+      "confidence": 0.886,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 385.68,
+      "end": 394.06,
+      "text": "That's wonderful ma'am. Thank you for calling Event Ease Customer Care India. We look forward to see you at Rhythm Beats Live. Have a lovely evening, ma'am.",
+      "confidence": 0.951,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 395.64,
+      "end": 396.98,
+      "text": "Thank you so much, Ritika.",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 397.3,
+      "end": 398.34,
+      "text": "Goodbye. Goodbye.",
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_00 initiates the call, greets, and provides detailed concert information, typical of a call-center agent, while Speaker_01 asks questions and responds as a customer."
+}

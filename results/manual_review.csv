@@ -1,0 +1,7 @@
+call_id,model_start,human_start,model_end,human_end,model_overall,human_overall,summary_ok,roles_ok,comment
+call_001,Negative,Negative,Positive,Positive,Negative,Positive,Y,Y,Starts frustrated ('I really need this package'); ends satisfied after expedited delivery was arranged; voice sounded relieved.
+call_004,Negative,Negative,Positive,Positive,Positive,Positive,Y,N,"Starts distressed ('kicked out of my house'); ends 'That's brilliant'. Roles: some short customer replies (e.g. 'yeah', 'okay') are merged into the agent's turns, so part of the customer's speech is shown as Agent."
+call_005,Negative,Neutral,Positive,Positive,Positive,Positive,Y,Y,"Mild concern ('a wee bit concerning'), calm tone; ends with clear thanks for the help."
+call_017,Negative,Negative,Positive,Positive,Positive,Positive,Y,Y,Borderline start: Neutral/Negative. Chose Negative because the customer says 'I was scared I missed the deadline'; ends relieved ('you made it easy').
+call_018,Negative,Neutral,Positive,Positive,Neutral,Positive,Y,Y,"Says 'a bit worried' but tone is calm, so start = Neutral; ends 'thank you so much' after blood test was booked."
+call_020,Negative,Negative,Positive,Positive,Negative,Positive,Y,Y,"Clearly frustrated ('that's ridiculous, I can't wait that long'); ends relieved after urgent solution."

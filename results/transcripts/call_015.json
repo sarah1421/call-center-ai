@@ -1,0 +1,811 @@
+{
+  "call_id": "call_015",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hi, how can I help you? Hi, I'm just calling out the new government subsidies for the drip irrigation. Yeah, sure. Look, thank you for contacting us. This is the correct information line and I can definitely help you with your questions. Is there a particular question that you need to check? It's just our water rates have been rising and I'm looking at switching to flood irrigation. Wondering if that's a right move for me. look yes the the program is designed to help farmers move from flood irrigations to more efficient systems like drip or sprinkler irrigation it provides a subsidy to cover part of the cost of equipment and installations is that what you're after it is what i'm after yes Sure. So look, I can take you through some of the steps and your eligibility and application process. Before I continue, can I have your postcode, please? Yeah, it's 7952. 7952. Sure. And what was your name again? Jenny O'Brien. Perfect. Thank you so much. Look, so in terms of the eligibility to apply, you will need to be the owner or the leaseholder for a commercial farm and be able to show that the upgrade will save water. There is a deadline for the process and the application for this round will close at the end of November. But we recommend you submitting your application as soon as possible since the funding for this program is limited. In terms of the paperwork, you will need a proof of property ownership or lease, a code or irrigation plan from a licensed supplier, and some recent water usage details like your latest water bill or allocation statements. Okay, yeah. And for the application process, you can apply online through our website. There is a portal link. Can I ask how you heard about this program? Through a government website. Was that through the Department of Environment? Yeah. Yeah. So you would have seen the link to our portal. You can submit your application through the portal or if you prefer, you can visit your local government offices and submit the documents in person too. So that's also an option. I'm not sure whether you have access to one of the offices or do you prefer the online application? It would have to be online because we're quite far away from town. It's about a 60 minute drive into town and back. Yeah, sure. And that is actually our preferred option because we can process your applications faster and there is a better chance of you actually receiving the funding from the government. I was just wondering, do you have loans available to cover equipment costs? So if you actually need help with upfront costs, low interest loans are available through one of our institutes to help cover any remaining expenses. But for that and for you to be eligible for that, we will need complete details about what you are actually seeking for. so the type of equipment and all the details warranty details the costs and everything about it so there if you are doing this online there will be a section where you can actually provide all these additional information but what i will suggest is gather all the information up front and then start your application process you can always go back and submit amendments to the application but I would suggest doing it in all so when the officers start looking at your application they have all the information in front of them. Okay yeah that sounds doable. Yeah so is there any other particular information that you will need? Just wondering how long would it be until a decision has been made? So the applications will close at the end of November, but we will basically start reviewing as soon as applications are complete. So I would say there is between four to six weeks wait. Okay. And then you'll let me know by email? Yes. So all the information then again, as part of the portal, when you start, initially you will need to provide your contact information and the email that you provide will be the one that will receive all the notifications in terms of the receipt of your application and how the approval process is progressing. If there are any additional information like major information that are missing from your application I would say it's very helpful to have a contact number on the application form so one of our agents can actually reach out if there is something that needs to be received immediately. Okay, yeah, sounds straightforward. Would you like me to also give you a phone number where you can actually start your application and then if you needed any particular information or check-in points? Yes, please. So the phone number is 1-800-366-592. Okay, cool. We'll let that ring down. Yeah, so you can contact this number if there were any specific help needed in terms of the application, but they won't be able to provide you information about the whole process. You need to contact us for that. Yeah, no, that's cool. Fantastic. if there is no there are no other questions would you mind staying on the line for a short survey after the call no that's fine perfect thank you so much for calling thanks",
+  "diarization": [
+    {
+      "start": 20.669093750000002,
+      "end": 21.85034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 23.80784375,
+      "end": 28.85346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 29.730968750000002,
+      "end": 43.45034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 45.17159375,
+      "end": 47.66909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.563468750000006,
+      "end": 51.46596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 51.854093750000004,
+      "end": 54.486593750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 55.515968750000006,
+      "end": 67.36221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 67.81784375000001,
+      "end": 73.23471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 73.52159375000001,
+      "end": 74.78721875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 75.79971875000001,
+      "end": 76.98096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 77.50409375000001,
+      "end": 89.63721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 90.59909375000001,
+      "end": 92.82659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.68721875,
+      "end": 93.99096875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 94.44659375,
+      "end": 98.76659375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 100.36971875,
+      "end": 100.70721875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 101.56784375000001,
+      "end": 102.58034375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 103.25534375000001,
+      "end": 119.52284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 121.02471875,
+      "end": 129.12471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 130.23846875,
+      "end": 135.31784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 135.80721875,
+      "end": 139.28346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 140.76846875,
+      "end": 161.17034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 162.89159375,
+      "end": 163.61721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 164.25846875000002,
+      "end": 176.12159375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 177.40409375000002,
+      "end": 178.97346875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 180.07034375,
+      "end": 182.58471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 183.41159375,
+      "end": 183.74909375000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 183.85034375,
+      "end": 187.88346875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 188.33909375000002,
+      "end": 192.92909375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 193.40159375000002,
+      "end": 194.43096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 194.58284375000002,
+      "end": 200.06721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 200.30346875,
+      "end": 204.37034375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 204.74159375000002,
+      "end": 208.67346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 209.41596875000002,
+      "end": 215.62596875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 215.74409375000002,
+      "end": 219.38909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 219.84471875000003,
+      "end": 228.04596875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 230.12159375000002,
+      "end": 234.94784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 235.53846875000002,
+      "end": 242.57534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 242.82846875,
+      "end": 249.98346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 250.57409375,
+      "end": 258.30284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 258.79221875,
+      "end": 266.03159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 266.31846875,
+      "end": 269.18721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 269.23784375,
+      "end": 278.11409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 278.62034375,
+      "end": 282.40034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 283.04159375,
+      "end": 288.00284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 288.22221875,
+      "end": 295.12409375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 296.74409375000005,
+      "end": 298.43159375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 298.63409375000003,
+      "end": 303.27471875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 304.43909375000004,
+      "end": 308.62409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 309.29909375,
+      "end": 313.95659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 314.22659375,
+      "end": 321.33096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 321.83721875000003,
+      "end": 326.17409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 327.40596875,
+      "end": 327.99659375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 328.21596875,
+      "end": 329.83596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 330.34221875000003,
+      "end": 344.41596875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 345.00659375000004,
+      "end": 352.90409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 353.30909375000005,
+      "end": 356.93721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 357.03846875000005,
+      "end": 361.72971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 362.08409375,
+      "end": 367.16346875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 368.10846875000004,
+      "end": 368.17596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 368.17596875000004,
+      "end": 368.20971875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 368.20971875000004,
+      "end": 368.32784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 368.32784375,
+      "end": 369.23909375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 369.23909375000005,
+      "end": 369.52596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 369.52596875,
+      "end": 370.04909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 370.36971875,
+      "end": 370.99409375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 371.16284375000004,
+      "end": 371.17971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 371.17971875,
+      "end": 377.74409375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 378.04784375,
+      "end": 382.31721875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 383.00909375000003,
+      "end": 383.85284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 384.34221875000003,
+      "end": 387.36284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 389.15159375,
+      "end": 389.23596875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 389.23596875000004,
+      "end": 390.83909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 392.17221875,
+      "end": 392.54346875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 393.11721875,
+      "end": 394.23096875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 395.69909375000003,
+      "end": 397.25159375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 397.42034375000003,
+      "end": 406.92096875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 407.27534375000005,
+      "end": 410.07659375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 411.44346875,
+      "end": 412.35471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 412.48971875,
+      "end": 413.33346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 413.80596875000003,
+      "end": 420.18471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 421.07909375,
+      "end": 421.93971875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 422.69909375000003,
+      "end": 424.75784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 425.50034375,
+      "end": 426.15846875000005,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 20.34,
+      "end": 21.76,
+      "text": "Hi, how can I help you?",
+      "confidence": 0.941,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 23.58,
+      "end": 28.56,
+      "text": "Hi, I'm just calling out the new government subsidies for the drip irrigation.",
+      "confidence": 0.815,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 29.36,
+      "end": 43.34,
+      "text": "Yeah, sure. Look, thank you for contacting us. This is the correct information line and I can definitely help you with your questions. Is there a particular question that you need to check?",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 45.18,
+      "end": 54.36,
+      "text": "It's just our water rates have been rising and I'm looking at switching to flood irrigation. Wondering if that's a right move for me.",
+      "confidence": 0.967,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 55.14,
+      "end": 74.64,
+      "text": "look yes the the program is designed to help farmers move from flood irrigations to more efficient systems like drip or sprinkler irrigation it provides a subsidy to cover part of the cost of equipment and installations is that what you're after",
+      "confidence": 0.964,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 74.64,
+      "end": 76.96,
+      "text": "it is what i'm after yes",
+      "confidence": 0.971,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 76.96,
+      "end": 89.48,
+      "text": "Sure. So look, I can take you through some of the steps and your eligibility and application process. Before I continue, can I have your postcode, please?",
+      "confidence": 0.975,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 90.58,
+      "end": 93.82,
+      "text": "Yeah, it's 7952.",
+      "confidence": 0.983,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 95.34,
+      "end": 98.7,
+      "text": "7952. Sure. And what was your name again?",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 101.3,
+      "end": 102.4,
+      "text": "Jenny O'Brien.",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 102.4,
+      "end": 160.98,
+      "text": "Perfect. Thank you so much. Look, so in terms of the eligibility to apply, you will need to be the owner or the leaseholder for a commercial farm and be able to show that the upgrade will save water. There is a deadline for the process and the application for this round will close at the end of November. But we recommend you submitting your application as soon as possible since the funding for this program is limited. In terms of the paperwork, you will need a proof of property ownership or lease, a code or irrigation plan from a licensed supplier, and some recent water usage details like your latest water bill or allocation statements.",
+      "confidence": 0.973,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 162.77,
+      "end": 163.52,
+      "text": "Okay, yeah.",
+      "confidence": 0.63,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 164.14,
+      "end": 175.9,
+      "text": "And for the application process, you can apply online through our website. There is a portal link. Can I ask how you heard about this program?",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 177.39,
+      "end": 178.8,
+      "text": "Through a government website.",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 179.93,
+      "end": 182.3,
+      "text": "Was that through the Department of Environment?",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 182.78,
+      "end": 183.62,
+      "text": "Yeah.",
+      "confidence": 0.591,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 184.04,
+      "end": 208.34,
+      "text": "Yeah. So you would have seen the link to our portal. You can submit your application through the portal or if you prefer, you can visit your local government offices and submit the documents in person too. So that's also an option. I'm not sure whether you have access to one of the offices or do you prefer the online application?",
+      "confidence": 0.971,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 209.24,
+      "end": 215.56,
+      "text": "It would have to be online because we're quite far away from town. It's about a 60 minute drive into town and back.",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 215.84,
+      "end": 227.82,
+      "text": "Yeah, sure. And that is actually our preferred option because we can process your applications faster and there is a better chance of you actually receiving the funding from the government.",
+      "confidence": 0.983,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 229.9,
+      "end": 234.92,
+      "text": "I was just wondering, do you have loans available to cover equipment costs?",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 234.92,
+      "end": 295.1,
+      "text": "So if you actually need help with upfront costs, low interest loans are available through one of our institutes to help cover any remaining expenses. But for that and for you to be eligible for that, we will need complete details about what you are actually seeking for. so the type of equipment and all the details warranty details the costs and everything about it so there if you are doing this online there will be a section where you can actually provide all these additional information but what i will suggest is gather all the information up front and then start your application process you can always go back and submit amendments to the application but I would suggest doing it in all so when the officers start looking at your application they have all the information in front of them.",
+      "confidence": 0.956,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 296.38,
+      "end": 298.18,
+      "text": "Okay yeah that sounds doable.",
+      "confidence": 0.739,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 298.76,
+      "end": 303.14,
+      "text": "Yeah so is there any other particular information that you will need?",
+      "confidence": 0.96,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 304.84,
+      "end": 308.54,
+      "text": "Just wondering how long would it be until a decision has been made?",
+      "confidence": 0.882,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 308.98,
+      "end": 325.88,
+      "text": "So the applications will close at the end of November, but we will basically start reviewing as soon as applications are complete. So I would say there is between four to six weeks wait.",
+      "confidence": 0.974,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 327.12,
+      "end": 329.62,
+      "text": "Okay. And then you'll let me know by email?",
+      "confidence": 0.973,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 330.1,
+      "end": 368.42,
+      "text": "Yes. So all the information then again, as part of the portal, when you start, initially you will need to provide your contact information and the email that you provide will be the one that will receive all the notifications in terms of the receipt of your application and how the approval process is progressing. If there are any additional information like major information that are missing from your application I would say it's very helpful to have a contact number on the application form so one of our agents can actually reach out if there is something that needs to be received immediately.",
+      "confidence": 0.955,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 368.78,
+      "end": 370.84,
+      "text": "Okay, yeah, sounds straightforward.",
+      "confidence": 0.849,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 371.24,
+      "end": 382.16,
+      "text": "Would you like me to also give you a phone number where you can actually start your application and then if you needed any particular information or check-in points?",
+      "confidence": 0.987,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 382.76,
+      "end": 383.62,
+      "text": "Yes, please.",
+      "confidence": 0.964,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 384.0,
+      "end": 394.14,
+      "text": "So the phone number is 1-800-366-592.",
+      "confidence": 0.905,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 395.48,
+      "end": 397.08,
+      "text": "Okay, cool. We'll let that ring down.",
+      "confidence": 0.819,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 397.52,
+      "end": 410.02,
+      "text": "Yeah, so you can contact this number if there were any specific help needed in terms of the application, but they won't be able to provide you information about the whole process. You need to contact us for that.",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 411.14,
+      "end": 412.24,
+      "text": "Yeah, no, that's cool.",
+      "confidence": 0.863,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 412.52,
+      "end": 420.14,
+      "text": "Fantastic. if there is no there are no other questions would you mind staying on the line for a short survey after the call",
+      "confidence": 0.907,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 420.14,
+      "end": 421.86,
+      "text": "no that's fine",
+      "confidence": 0.97,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 421.86,
+      "end": 424.62,
+      "text": "perfect thank you so much for calling",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 424.62,
+      "end": 425.92,
+      "text": "thanks",
+      "confidence": 0.996,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_01 initiates the call, provides information, asks for personal details, typical of an agent, while Speaker_00 asks questions and provides personal info, typical of a customer."
+}

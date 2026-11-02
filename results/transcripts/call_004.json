@@ -1,0 +1,1591 @@
+{
+  "call_id": "call_004",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hello, you're through to Tracy my love, how can I help? Hiya, I'm wondering if you could help, I've just been kicked out of my house because I've been told I need to get a real job by my parents and I'm just looking for short-term rental options could you tell me if you've got anything available at all right let's have a look oh just to just to make it clear we we when you say short term how short term what you know are you are you thinking um so we're thinking sort of anywhere between the three to six months okay no that's fine let's have a lot for you so we can certainly they help you with that is there any particular area that you're looking for uh i'm just looking sort of around the loughborough area right okay and is there any preferences on anything just any details about any types of properties is it flats apartments um it's looking at furnished apartments if possible uh because i've been told uh um i'm only being provided my bed my belongings and ideally I need everything because I've got no idea where to start and Ikea is quite far away for me to be able to just purchase everything and bring it back in one go. No that's all right my love right let's have a look for you okay so just to make you aware that they are all quite limited okay in terms of the furnished apartments we don't see very many of thumb and but we can certainly we have got one that's just come up and it's fairly nice is there any preference on rooms or is it just you know one bedroom two bedroom ideally well this minimum it's got to be one bedroom no that's fine I thought it was but I just thought I'd just double check with you so let's have a quick look yep so we have got one that's in the prime location of Loughborough in which it's about a five minute walk from the Tesco and near the Tesco there's also an M&S, there's the clothes shops, it's in the heart of the city. How's that sounding? Oh no that's sounding brilliant so far. My job's based right in the centre of Loughborough. Right. So it'd be good to start there really. No, of course. So the rental on that at the moment is £900 a month with a deposit of £980, okay, which it does sound a little steep, I know, but that is the going rate right now. It's an area that's really focused on having students, so it's quite in demand. It's a lovely building, lovely apartment, but you know, just to make you aware of that. How's that sound? no that's sounding good okay lovely um can i just ask is uh is parking available um okay is it just parking that you're after or anything else yeah it's just it parking and if um if it's sort of uh um not uh like a closed uh private car park does it have any sort of security features in flames. Do you have sort of like a car park warden that sort of goes around sort of overseeing vehicles? Right okay. Just I've had a previous incident before when I was parts at work that my tyres got slashed. Oh dear my goodness. So yeah so it's paramount. Sorry about that. No, no, it's fine. Some tear away youth these days. Absolutely. To make sure my vehicle is fine because it came as quite a shock to me. I can imagine, my love. Oh, I am sorry. When I was trying to get to work the following day. Gosh. Okay, so it does have a car park facilities. It does say here from the details we've got that there are cameras, okay, but we don't have a warden. Would that be okay? Yeah is that someone that oversees the cameras 24-7? Well it doesn't really say so on the details we've got but it does point out that we've got the you know there are cameras there to put your mind slightly at ease. No that's lovely. Is that something you could then possibly check with the landlord? Yeah if you were interested in the property it'd be something that perhaps you could have a chat with if you were to go and view it or anything and take that up with them. No that's brilliant and then could I please check if I sort of needed to leave before the lease ends because I'm currently applying for a new job that might take me to the centre of London, is there sort of any penalty charges or is there an early termination fee if I need to leave before the lease ends at all um it would really depend on your contract and what you then agree with the landlord um usually there's likely to be a termination charge okay um but the landlord may depend on you know the tenants that he's got he may be a bit more flexible um he is quite a nice guy in that respect oh no that's uh that's brilliant news and uh is there any sort of early termination fees with yourselves being as sort of the third party in it all I guess? Yes there would likely be a termination fee with us and obviously it would really depend on how long you'd initially rented it out for whether it was three months six months and then we do charge a percentage we charge around five percent for the lost income. Okay no that's brilliant information can i um if possible could i arrange a time to see the property in person of course yes when are you thinking um it just as soon as if possible because i'm currently sleeping in my car in the meantime right okay right we can get you tomorrow if that's okay for you yeah no that would be brilliant 10 a.m yeah no that's perfect and would it be you that's showing me around the property no i'm afraid it wouldn't it'd be a mr sin uh he'll be with you um he he has got a few appointments in the morning um and you know so he may be slightly later to apologize in advance he is he is renowned with our customers to be known as a bit of a legend uh with his time take you time skills no that's uh that's good is his attention to detail um any good like so does he know the area well my love he i don't want to put you off i better not say anything really but um you know i mean let's put it at least i've took it i'll be sending you the correct details of where to attend he's a lovely friend a lovely person but he may actually get you sent to the wrong place. So it's a good job I've answered your call today. No, that's perfect. Thank you. So that's tomorrow at 10am then. Yes, and I'll send you a text to the number you've called from with all the confirmation of booking on. Alright? That's brilliant. Thank you so much. Well, you take care now. Thank you. Goodbye. I couldn't help.",
+  "diarization": [
+    {
+      "start": 12.83909375,
+      "end": 16.72034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17.73284375,
+      "end": 25.64721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.64721875,
+      "end": 26.035343750000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26.035343750000003,
+      "end": 32.127218750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 32.127218750000004,
+      "end": 33.44346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 33.44346875,
+      "end": 33.46034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 33.46034375,
+      "end": 33.52784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 33.52784375,
+      "end": 34.30409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 34.81034375,
+      "end": 40.767218750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 41.12159375,
+      "end": 42.235343750000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 43.34909375,
+      "end": 48.02346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.02346875,
+      "end": 48.057218750000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 48.057218750000004,
+      "end": 48.664718750000006,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.664718750000006,
+      "end": 53.17034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 53.35596875,
+      "end": 56.51159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 57.338468750000004,
+      "end": 64.96596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 64.96596875,
+      "end": 70.88909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 70.88909375,
+      "end": 85.46909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 85.65471875,
+      "end": 93.87284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.87284375,
+      "end": 108.08159375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.08159375000001,
+      "end": 108.57096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 108.57096875,
+      "end": 117.02534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 117.02534375,
+      "end": 125.51346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 125.51346875,
+      "end": 146.23596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 146.72534375,
+      "end": 153.91409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 154.33596875,
+      "end": 156.25971875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 156.56346875,
+      "end": 158.01471875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 158.01471875000001,
+      "end": 180.28971875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 180.71159375000002,
+      "end": 183.02346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 183.24284375000002,
+      "end": 185.03159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 185.03159375,
+      "end": 185.45346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 185.45346875,
+      "end": 186.02721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 186.02721875,
+      "end": 186.55034375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 186.98909375000002,
+      "end": 187.02284375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 187.02284375000002,
+      "end": 196.75971875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 196.75971875000002,
+      "end": 196.86096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 196.86096875,
+      "end": 196.96221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 196.96221875,
+      "end": 197.01284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 197.01284375,
+      "end": 197.08034375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 197.08034375000003,
+      "end": 197.40096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 197.40096875,
+      "end": 197.46846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 197.90721875,
+      "end": 200.69159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 201.01221875000002,
+      "end": 206.41221875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 206.88471875000002,
+      "end": 213.61784375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 213.61784375000002,
+      "end": 213.71909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 214.19159375,
+      "end": 220.58721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 220.58721875,
+      "end": 220.63784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 220.63784375,
+      "end": 220.75596875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 220.75596875000002,
+      "end": 220.82346875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 220.82346875000002,
+      "end": 221.97096875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 222.49409375000002,
+      "end": 233.69909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 233.69909375,
+      "end": 233.71596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 233.71596875,
+      "end": 233.81721875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 234.03659375,
+      "end": 236.46659375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 236.68596875000003,
+      "end": 238.45784375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 238.55909375000002,
+      "end": 239.62221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 239.62221875,
+      "end": 239.63909375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 239.63909375000003,
+      "end": 239.70659375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 239.70659375000002,
+      "end": 239.75721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 239.75721875000002,
+      "end": 246.32159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 246.32159375,
+      "end": 246.33846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 246.33846875,
+      "end": 246.62534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 246.62534375,
+      "end": 246.67596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 246.67596875,
+      "end": 246.74346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 246.74346875,
+      "end": 247.03034375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.03034375000001,
+      "end": 247.04721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 247.04721875,
+      "end": 247.06409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.06409375,
+      "end": 247.41846875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 247.41846875000002,
+      "end": 247.45221875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.45221875000001,
+      "end": 247.46909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 247.46909375,
+      "end": 247.48596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 247.48596875,
+      "end": 247.97534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 247.97534375,
+      "end": 248.02596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 248.02596875,
+      "end": 249.03846875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 249.03846875000002,
+      "end": 249.17346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 249.17346875,
+      "end": 249.19034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 249.19034375,
+      "end": 249.25784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 249.25784375,
+      "end": 250.28721875000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 250.28721875000002,
+      "end": 250.35471875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 250.35471875000002,
+      "end": 250.37159375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 250.37159375000002,
+      "end": 250.43909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 250.43909375,
+      "end": 251.02971875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 251.02971875000003,
+      "end": 251.40096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 251.40096875,
+      "end": 251.50221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 251.50221875000003,
+      "end": 263.02784375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.02784375000005,
+      "end": 263.39909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 263.39909375,
+      "end": 263.43284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.85471875,
+      "end": 263.93909375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 263.93909375000004,
+      "end": 267.80346875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 267.80346875000004,
+      "end": 267.83721875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 267.83721875000003,
+      "end": 268.02284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 268.02284375,
+      "end": 268.07346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 268.07346875,
+      "end": 270.97596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 270.97596875,
+      "end": 281.03346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 281.03346875,
+      "end": 281.26971875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 281.26971875000004,
+      "end": 281.52284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 281.52284375,
+      "end": 286.12971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 286.12971875,
+      "end": 286.68659375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 286.68659375000004,
+      "end": 286.97346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 286.97346875,
+      "end": 294.33096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 294.93846875,
+      "end": 295.02284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 295.02284375,
+      "end": 308.60721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 308.60721875,
+      "end": 308.94471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 308.94471875,
+      "end": 318.59721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 318.73221875,
+      "end": 323.65971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 323.94659375000003,
+      "end": 339.06659375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 339.74159375000005,
+      "end": 346.17096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.39034375,
+      "end": 348.48284375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 348.85409375,
+      "end": 351.01409375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 351.01409375000003,
+      "end": 367.73721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 368.53034375000004,
+      "end": 378.77346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 379.53284375000004,
+      "end": 385.38846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 385.38846875,
+      "end": 385.64159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 385.64159375,
+      "end": 385.96221875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 385.96221875000003,
+      "end": 386.02971875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 386.02971875000003,
+      "end": 386.97471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 386.97471875,
+      "end": 387.53159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 387.53159375,
+      "end": 390.77159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 391.17659375000005,
+      "end": 391.85159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 391.85159375,
+      "end": 391.96971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 391.96971875,
+      "end": 393.30284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 393.30284375,
+      "end": 393.52221875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 393.52221875000004,
+      "end": 393.55596875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 393.55596875000003,
+      "end": 393.57284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 393.57284375,
+      "end": 393.58971875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 393.58971875000003,
+      "end": 393.62346875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 394.38284375,
+      "end": 398.97284375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 398.97284375000004,
+      "end": 399.20909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 399.20909375,
+      "end": 399.36096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 399.36096875000004,
+      "end": 399.52971875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 399.52971875000003,
+      "end": 399.58034375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 399.58034375000005,
+      "end": 399.59721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 399.59721875,
+      "end": 399.61409375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 399.61409375000005,
+      "end": 399.64784375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 399.64784375000005,
+      "end": 401.23409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 401.92596875000004,
+      "end": 401.95971875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 401.95971875000004,
+      "end": 402.92159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 402.92159375,
+      "end": 411.94971875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 412.30409375000005,
+      "end": 412.32096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 412.32096875,
+      "end": 413.02971875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 413.02971875000003,
+      "end": 415.08846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 415.32471875000005,
+      "end": 416.05034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 416.05034375,
+      "end": 416.28659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 416.28659375,
+      "end": 416.37096875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 416.37096875000003,
+      "end": 416.50596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 416.50596875,
+      "end": 416.97846875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 416.97846875000005,
+      "end": 417.02909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 417.02909375,
+      "end": 417.24846875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 417.24846875000003,
+      "end": 417.26534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 417.26534375,
+      "end": 417.97409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 417.97409375,
+      "end": 418.02471875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 418.02471875000003,
+      "end": 418.19346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 418.19346875,
+      "end": 418.69971875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 418.69971875000005,
+      "end": 418.80096875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 418.80096875000004,
+      "end": 420.55596875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 420.55596875000003,
+      "end": 420.62346875000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 420.62346875000003,
+      "end": 420.64034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 420.64034375,
+      "end": 420.69096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 420.69096875,
+      "end": 420.82596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 421.68659375000004,
+      "end": 428.11596875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 428.11596875000004,
+      "end": 428.18346875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 428.18346875000003,
+      "end": 428.85846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 428.85846875000004,
+      "end": 429.12846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 429.12846875,
+      "end": 429.63471875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 429.63471875000005,
+      "end": 429.70221875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 429.70221875000004,
+      "end": 430.61346875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 430.61346875000004,
+      "end": 430.63034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 432.08159375,
+      "end": 441.26159375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 441.76784375000005,
+      "end": 443.97846875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 444.34971875,
+      "end": 445.64909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 445.64909375,
+      "end": 449.46284375000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 450.07034375,
+      "end": 458.96346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 458.96346875,
+      "end": 459.03096875000006,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 459.03096875000006,
+      "end": 459.53721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 459.53721875,
+      "end": 459.84096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 459.84096875,
+      "end": 459.97596875000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 459.97596875000005,
+      "end": 460.02659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 460.02659375,
+      "end": 460.97159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 460.97159375,
+      "end": 461.03909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 461.03909375,
+      "end": 461.44409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 461.44409375000004,
+      "end": 461.46096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 461.46096875,
+      "end": 462.84471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 462.84471875,
+      "end": 463.84034375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 463.84034375000005,
+      "end": 463.87409375000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 464.43096875000003,
+      "end": 465.71346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 465.71346875,
+      "end": 465.76409375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 476.51346875,
+      "end": 477.35721875,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 12.74,
+      "end": 16.72,
+      "text": "Hello, you're through to Tracy my love, how can I help?",
+      "confidence": 0.882,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 18.12,
+      "end": 25.38,
+      "text": "Hiya, I'm wondering if you could help, I've just been kicked out of my house because I've been told I need to get a real job by my parents",
+      "confidence": 0.969,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 25.38,
+      "end": 26.3,
+      "text": "and",
+      "confidence": 0.506,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 26.3,
+      "end": 31.96,
+      "text": "I'm just looking for short-term rental options could you tell me if you've got anything available at all",
+      "confidence": 0.949,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 31.96,
+      "end": 33.64,
+      "text": "right let's",
+      "confidence": 0.716,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 33.64,
+      "end": 34.34,
+      "text": "have a look",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 34.34,
+      "end": 43.54,
+      "text": "oh just to just to make it clear we we when you say short term how short term what you know are you are you thinking um",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 43.54,
+      "end": 48.78,
+      "text": "so we're thinking sort of anywhere between the three to six months okay no that's",
+      "confidence": 0.959,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 48.78,
+      "end": 53.58,
+      "text": "fine let's have a lot for you so we can certainly they help you with that is",
+      "confidence": 0.927,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 53.58,
+      "end": 64.7,
+      "text": "there any particular area that you're looking for uh i'm just looking sort of around the loughborough area right okay and is there any preferences on anything",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 64.7,
+      "end": 71.04,
+      "text": "just any details about any types of properties is it flats apartments um",
+      "confidence": 0.981,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 71.04,
+      "end": 93.54,
+      "text": "it's looking at furnished apartments if possible uh because i've been told uh um i'm only being provided my bed my belongings and ideally I need everything because I've got no idea where to start and Ikea is quite far away for me to be able to just purchase everything and bring it back in one go.",
+      "confidence": 0.932,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 93.8,
+      "end": 108.18,
+      "text": "No that's all right my love right let's have a look for you okay so just to make you aware that they are all quite limited okay in terms of the furnished apartments we don't see very many of thumb and",
+      "confidence": 0.867,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 108.18,
+      "end": 108.64,
+      "text": "but we",
+      "confidence": 0.865,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 108.64,
+      "end": 116.92,
+      "text": "can certainly we have got one that's just come up and it's fairly nice is there any preference on rooms or is it",
+      "confidence": 0.909,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 116.92,
+      "end": 125.78,
+      "text": "just you know one bedroom two bedroom ideally well this minimum it's got to be one bedroom no",
+      "confidence": 0.874,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 125.78,
+      "end": 145.98,
+      "text": "that's fine I thought it was but I just thought I'd just double check with you so let's have a quick look yep so we have got one that's in the prime location of Loughborough in which it's about a five minute walk from the Tesco and near the Tesco there's also an M&S, there's the clothes shops, it's in the heart of the city. How's that sounding?",
+      "confidence": 0.941,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 146.54,
+      "end": 158.02,
+      "text": "Oh no that's sounding brilliant so far. My job's based right in the centre of Loughborough. Right. So it'd be good to start there really. No,",
+      "confidence": 0.882,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 158.26,
+      "end": 185.08,
+      "text": "of course. So the rental on that at the moment is £900 a month with a deposit of £980, okay, which it does sound a little steep, I know, but that is the going rate right now. It's an area that's really focused on having students, so it's quite in demand. It's a lovely building, lovely apartment, but you know, just to make you aware of",
+      "confidence": 0.947,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 185.08,
+      "end": 185.3,
+      "text": "that.",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 185.44,
+      "end": 185.86,
+      "text": "How's that",
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 185.86,
+      "end": 196.8,
+      "text": "sound? no that's sounding good okay lovely um can i just ask is uh is parking available um okay",
+      "confidence": 0.9,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 196.8,
+      "end": 198.14,
+      "text": "is",
+      "confidence": 0.985,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 198.14,
+      "end": 246.26,
+      "text": "it just parking that you're after or anything else yeah it's just it parking and if um if it's sort of uh um not uh like a closed uh private car park does it have any sort of security features in flames. Do you have sort of like a car park warden that sort of goes around sort of overseeing vehicles? Right okay. Just I've had a previous incident before when I was parts at work that my tyres got slashed. Oh dear my goodness. So yeah so it's paramount. Sorry about that. No, no, it's fine. Some tear away youth these days. Absolutely. To make sure my vehicle is fine because it came as quite a shock to me.",
+      "confidence": 0.912,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 246.44,
+      "end": 246.44,
+      "text": "I",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 246.44,
+      "end": 248.92,
+      "text": "can imagine, my love. Oh, I am sorry. When I was",
+      "confidence": 0.98,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 248.92,
+      "end": 249.26,
+      "text": "trying",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 249.26,
+      "end": 251.08,
+      "text": "to get to work the following day.",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 251.3,
+      "end": 262.98,
+      "text": "Gosh. Okay, so it does have a car park facilities. It does say here from the details we've got that there are cameras, okay, but we don't have a warden. Would that be okay?",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 263.6,
+      "end": 270.84,
+      "text": "Yeah is that someone that oversees the cameras 24-7? Well it doesn't really say",
+      "confidence": 0.813,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 270.84,
+      "end": 281.0,
+      "text": "so on the details we've got but it does point out that we've got the you know there are cameras there to put your mind slightly at ease.",
+      "confidence": 0.924,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 281.52,
+      "end": 285.68,
+      "text": "No that's lovely. Is that something you could then possibly check with the landlord?",
+      "confidence": 0.991,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 286.12,
+      "end": 286.58,
+      "text": "Yeah",
+      "confidence": 0.989,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 286.58,
+      "end": 286.94,
+      "text": "if you",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 286.94,
+      "end": 294.24,
+      "text": "were interested in the property it'd be something that perhaps you could have a chat with if you were to go and view it or anything and take that up with them.",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 295.08,
+      "end": 318.94,
+      "text": "No that's brilliant and then could I please check if I sort of needed to leave before the lease ends because I'm currently applying for a new job that might take me to the centre of London, is there sort of any penalty charges or is there an early termination fee if I need to leave before the lease ends at all um",
+      "confidence": 0.937,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 318.94,
+      "end": 339.9,
+      "text": "it would really depend on your contract and what you then agree with the landlord um usually there's likely to be a termination charge okay um but the landlord may depend on you know the tenants that he's got he may be a bit more flexible um he is quite a nice guy in that respect oh",
+      "confidence": 0.99,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 339.9,
+      "end": 350.36,
+      "text": "no that's uh that's brilliant news and uh is there any sort of early termination fees with yourselves being as sort of the third party in it all I guess?",
+      "confidence": 0.935,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 351.1,
+      "end": 367.6,
+      "text": "Yes there would likely be a termination fee with us and obviously it would really depend on how long you'd initially rented it out for whether it was three months six months and then we do charge a percentage we charge around five percent for the lost income.",
+      "confidence": 0.917,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 368.28,
+      "end": 391.8,
+      "text": "Okay no that's brilliant information can i um if possible could i arrange a time to see the property in person of course yes when are you thinking um it just as soon as if possible because i'm currently sleeping in my car in the meantime right okay right we can get you tomorrow if that's okay for you yeah no",
+      "confidence": 0.931,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 391.8,
+      "end": 392.04,
+      "text": "that",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 392.04,
+      "end": 393.34,
+      "text": "would be brilliant 10 a",
+      "confidence": 0.681,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 393.34,
+      "end": 393.58,
+      "text": ".m",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 393.58,
+      "end": 399.4,
+      "text": "yeah no that's perfect and would it be you that's showing me around the property no i'm afraid",
+      "confidence": 0.917,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 399.4,
+      "end": 399.6,
+      "text": "it",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 399.6,
+      "end": 402.86,
+      "text": "wouldn't it'd be a mr sin uh he'll be with",
+      "confidence": 0.93,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 402.86,
+      "end": 411.32,
+      "text": "you um he he has got a few appointments in the morning um and you know so he may be slightly later to apologize in advance",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 412.0,
+      "end": 413.16,
+      "text": "he is he",
+      "confidence": 0.984,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 413.16,
+      "end": 415.52,
+      "text": "is renowned with our customers to be",
+      "confidence": 0.976,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 415.52,
+      "end": 416.04,
+      "text": "known as",
+      "confidence": 1.0,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 416.04,
+      "end": 416.22,
+      "text": "a bit",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 416.22,
+      "end": 416.36,
+      "text": "of",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 416.36,
+      "end": 416.5,
+      "text": "a",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 416.5,
+      "end": 418.2,
+      "text": "legend uh with his",
+      "confidence": 0.965,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 418.2,
+      "end": 420.38,
+      "text": "time take you time skills",
+      "confidence": 0.731,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 420.38,
+      "end": 428.74,
+      "text": "no that's uh that's good is his attention to detail um any good like so does he know the",
+      "confidence": 0.918,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 428.74,
+      "end": 429.02,
+      "text": "area",
+      "confidence": 0.998,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 429.02,
+      "end": 432.14,
+      "text": "well my love he i",
+      "confidence": 0.83,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 432.14,
+      "end": 445.76,
+      "text": "don't want to put you off i better not say anything really but um you know i mean let's put it at least i've took it i'll be sending you the correct details of where to attend he's a lovely friend a lovely person but he may actually",
+      "confidence": 0.964,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 445.76,
+      "end": 459.5,
+      "text": "get you sent to the wrong place. So it's a good job I've answered your call today. No, that's perfect. Thank you. So that's tomorrow at 10am then. Yes, and I'll send you a text to the number you've called from with all the confirmation of booking on.",
+      "confidence": 0.986,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 459.58,
+      "end": 459.9,
+      "text": "Alright?",
+      "confidence": 0.284,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 460.5,
+      "end": 462.8,
+      "text": "That's brilliant. Thank you so much. Well, you",
+      "confidence": 0.982,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 462.8,
+      "end": 465.18,
+      "text": "take care now. Thank you. Goodbye.",
+      "confidence": 0.994,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 476.32,
+      "end": 477.22,
+      "text": "I couldn't help.",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Agent",
+    "Speaker 2": "Customer"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): The speaker who greets with a name and offers help is the call‑center agent, while the other speaker asks about rental options."
+}

@@ -1,0 +1,956 @@
+{
+  "call_id": "call_020",
+  "asr_model": "whisper-turbo",
+  "diarization_model": "pyannote/speaker-diarization-community-1",
+  "full_text": "Hello. Good afternoon, School of Medical Centre, may I help you? Tracy speaking. Hi, I'm looking to request a follow-up appointment with the doctor. right okay um when were you looking to get an appointment um hopefully i was hoping to get it um monday or tuesday if that's possible okay uh don't have anything on monday or tuesday at least i've got will be Friday the 13th No, that's ridiculous I can't wait that long Well, the best thing you can do is Let me check again Hang on I'm just going to ask I'm going to put something in the system and see if a doctor has got any other he's able to reschedule. Just one moment. The thing is, I would really love it if Dr Geraint was available. Dr Geraint. Gosh, he's very busy. His books are full, is he? Right up until Thursday. I've just two seconds I just put you on hold and I'll give a quick message I'll just ask you just a moment oh yes Dr Geraint I have a patient doctor phone request to you I can see your books are full, Dr Geraint, but this patient really needs an appointment as soon as possible. Could you... Oh, right, I see. Okay. Just a moment. Dr Geraint has an appointment first thing on Wednesday morning. Would that suit you? Yes, that would be great, please. Okay, can you give me details of what the appointment is needed for, please? Yes, so my name is Tom Nibbler. Yep. And I have a prescription that needs to be refilled, and I've only got a few doses left. Basically, it's my ADHD medicine, and I can't go without it. Okay, the doctor will need to see you for a review on that and will need a list of all your food and beverage intake in the last three months. Yes, that's fine. I've been recording that. And I will also need a list of any other medication that you take in. Yeah, yeah. Right. So Wednesday at 8 o'clock with Dr Geraint. Tom Neslend. Right. Okay, I put that appointment in for you now. can you assure me that that appointment is not going to be cancelled because there's been a couple of instances now where I've had to or the appointment has been cancelled without my without my say and basically I've got enough medication now to last me till Wednesday that's like the last that's the last day I can take the medication because I haven't done left right but we have a system whereby if it's really urgent and you have none left you can get enough to last until the next day you have to go to the emergency chemist or you can't it's not a regular chemist right is there any um any way of that being closer to me because the My closest emergency pharmacy is over an hour away. What you have to do is you have to call through, put a call, you have to ring the emergency chemist and ask them if they can transfer the medicine. they will need 48 hours notice to transfer the medicine to your local chemist just as an emergency, just the emergency dosage for one day until your appointment. So, and you can't request that before the day before you run out of medicine. Right, okay. Hopefully then it doesn't get cancelled just so I know if I can get the prescription or not. That's okay. If it comes to, can you ask Dr Geraint to give me a call? Yes, I shall put a message for him to call you. However, if you should be any severe difficulty, we do advise patients if any severe difficulty arises with any symptoms then they should visit the nearest A&E. Right okay no problem. Of your local Bridge Ends hub. Yes yes. Is that understood? Yes that's perfectly fine thank you. Is there anything else? No that should be everything thank you very much no problem take care now you too bye",
+  "diarization": [
+    {
+      "start": 13.193468750000001,
+      "end": 13.699718750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13.699718750000002,
+      "end": 17.10846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17.58096875,
+      "end": 23.16659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24.938468750000002,
+      "end": 26.305343750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 29.258468750000002,
+      "end": 31.75596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 33.22409375,
+      "end": 38.94471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 41.307218750000004,
+      "end": 43.12971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 44.59784375,
+      "end": 45.99846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 46.133468750000006,
+      "end": 49.45784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 50.75721875,
+      "end": 51.837218750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 53.085968750000006,
+      "end": 54.43596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 56.61284375,
+      "end": 61.135343750000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 61.91159375,
+      "end": 64.30784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 66.02909375,
+      "end": 66.50159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 68.71221875,
+      "end": 70.31534375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 70.82159375,
+      "end": 72.12096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 72.69471875,
+      "end": 74.87159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 75.91784375,
+      "end": 78.12846875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 79.41096875000001,
+      "end": 81.50346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 82.51596875,
+      "end": 83.32596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 87.88221875,
+      "end": 91.91534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 92.37096875,
+      "end": 93.02909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 93.02909375,
+      "end": 94.07534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 95.05409375,
+      "end": 95.66159375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 97.39971875,
+      "end": 100.20096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 101.14596875000001,
+      "end": 103.47471875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 104.40284375,
+      "end": 105.21284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 107.44034375000001,
+      "end": 107.99721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 109.63409375,
+      "end": 111.69284375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 112.14846875,
+      "end": 112.89096875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 114.40971875000001,
+      "end": 115.91159375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 117.26159375,
+      "end": 119.15159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 119.99534375,
+      "end": 120.60284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 121.34534375000001,
+      "end": 121.69971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 122.27346875,
+      "end": 123.26909375000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 123.40409375,
+      "end": 126.34034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 126.59346875000001,
+      "end": 128.23034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 129.44534375,
+      "end": 129.96846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 129.96846875,
+      "end": 131.35221875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 132.58409375000002,
+      "end": 133.64721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 133.84971875000002,
+      "end": 136.19534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 136.73534375,
+      "end": 137.42721875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 139.11471875,
+      "end": 140.34659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 142.11846875,
+      "end": 142.72596875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 144.12659375,
+      "end": 144.64971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 145.29096875000002,
+      "end": 145.56096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 146.26971875,
+      "end": 148.42971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 149.12159375000002,
+      "end": 152.32784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 154.15034375000002,
+      "end": 157.45784375000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 159.51659375,
+      "end": 164.14034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 165.50721875000002,
+      "end": 169.00034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 170.28284375,
+      "end": 180.98159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 181.35284375,
+      "end": 184.27221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 185.79096875000002,
+      "end": 187.66409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 188.08596875,
+      "end": 189.03096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 190.49909375000001,
+      "end": 193.85721875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 195.49409375000002,
+      "end": 198.95346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 199.69596875000002,
+      "end": 200.87721875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 202.02471875,
+      "end": 204.15096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 204.15096875,
+      "end": 205.70346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 208.03221875000003,
+      "end": 210.58034375000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 211.94721875000002,
+      "end": 212.85846875000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 214.09034375000002,
+      "end": 214.86659375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 216.75659375,
+      "end": 220.65471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 222.46034375000002,
+      "end": 222.98346875000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 224.01284375,
+      "end": 224.77221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 225.07596875000002,
+      "end": 225.54846875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 228.01221875000002,
+      "end": 230.86409375000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 231.91034375,
+      "end": 232.53471875000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 232.87221875,
+      "end": 245.35971875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 246.50721875000002,
+      "end": 258.65721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 259.23096875000005,
+      "end": 261.55971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 262.31909375000004,
+      "end": 264.66471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 264.85034375000004,
+      "end": 265.64346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 266.25096875,
+      "end": 268.90034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 270.60471875,
+      "end": 273.72659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 274.53659375,
+      "end": 276.44346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 277.47284375000004,
+      "end": 279.76784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 280.64534375,
+      "end": 290.41596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 292.17096875000004,
+      "end": 295.34346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 296.91284375000004,
+      "end": 301.01346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 302.93721875,
+      "end": 304.75971875000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 305.45159375000003,
+      "end": 308.28659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 308.70846875,
+      "end": 310.00784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 310.58159375,
+      "end": 312.08346875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 312.48846875000004,
+      "end": 315.79596875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 316.36971875,
+      "end": 317.02784375000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 317.07846875,
+      "end": 319.12034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 319.76159375000003,
+      "end": 321.88784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 322.86659375,
+      "end": 324.75659375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 325.41471875,
+      "end": 326.91659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 328.24971875,
+      "end": 335.48909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 336.33284375,
+      "end": 340.97346875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 341.31096875000003,
+      "end": 345.42846875000004,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 346.03596875,
+      "end": 349.64721875000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 350.32221875000005,
+      "end": 353.88284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 354.72659375,
+      "end": 358.74284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 359.16471875,
+      "end": 361.78034375000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 363.16409375,
+      "end": 364.88534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 364.88534375,
+      "end": 366.72471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 368.12534375,
+      "end": 369.03659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 370.18409375000005,
+      "end": 371.29784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 372.39471875000004,
+      "end": 374.58846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 374.58846875,
+      "end": 375.65159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 377.23784375,
+      "end": 379.70159375000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 379.70159375000003,
+      "end": 381.77721875000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 383.17784375,
+      "end": 384.19034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 396.30659375000005,
+      "end": 397.13346875,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 12.78,
+      "end": 13.78,
+      "text": "Hello. Good",
+      "confidence": 0.472,
+      "low_confidence": true,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 13.78,
+      "end": 16.92,
+      "text": "afternoon, School of Medical Centre, may I help you? Tracy speaking.",
+      "confidence": 0.695,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 17.62,
+      "end": 23.0,
+      "text": "Hi, I'm looking to request a follow-up appointment with the doctor.",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 24.44,
+      "end": 26.26,
+      "text": "right okay um",
+      "confidence": 0.596,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 28.72,
+      "end": 31.54,
+      "text": "when were you looking to get an appointment",
+      "confidence": 0.931,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 31.54,
+      "end": 41.52,
+      "text": "um hopefully i was hoping to get it um monday or tuesday if that's possible okay",
+      "confidence": 0.969,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 41.52,
+      "end": 54.38,
+      "text": "uh don't have anything on monday or tuesday at least i've got will be Friday the 13th",
+      "confidence": 0.94,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 56.38,
+      "end": 60.86,
+      "text": "No, that's ridiculous I can't wait that long",
+      "confidence": 0.808,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 61.68,
+      "end": 83.26,
+      "text": "Well, the best thing you can do is Let me check again Hang on I'm just going to ask I'm going to put something in the system and see if a doctor has got any other he's able to reschedule. Just one moment.",
+      "confidence": 0.918,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 87.34,
+      "end": 93.2,
+      "text": "The thing is, I would really love it if Dr Geraint was available. Dr",
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 93.2,
+      "end": 93.92,
+      "text": "Geraint.",
+      "confidence": 0.999,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 96.8,
+      "end": 102.9,
+      "text": "Gosh, he's very busy. His books are full, is he? Right up until Thursday.",
+      "confidence": 0.933,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 107.06,
+      "end": 128.02,
+      "text": "I've just two seconds I just put you on hold and I'll give a quick message I'll just ask you just a moment oh yes Dr Geraint I have a patient doctor phone request to you I can see your",
+      "confidence": 0.776,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 128.02,
+      "end": 130.16,
+      "text": "books",
+      "confidence": 0.73,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 130.16,
+      "end": 152.24,
+      "text": "are full, Dr Geraint, but this patient really needs an appointment as soon as possible. Could you... Oh, right, I see. Okay. Just a moment. Dr Geraint has an appointment first thing on Wednesday morning. Would that suit you?",
+      "confidence": 0.959,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 153.98,
+      "end": 157.24,
+      "text": "Yes, that would be great, please.",
+      "confidence": 0.948,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 159.12,
+      "end": 163.96,
+      "text": "Okay, can you give me details of what the appointment is needed for, please?",
+      "confidence": 0.961,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 165.1,
+      "end": 180.7,
+      "text": "Yes, so my name is Tom Nibbler. Yep. And I have a prescription that needs to be refilled, and I've only got a few doses left. Basically, it's my ADHD medicine, and I can't go without it.",
+      "confidence": 0.977,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 180.7,
+      "end": 200.52,
+      "text": "Okay, the doctor will need to see you for a review on that and will need a list of all your food and beverage intake in the last three months.",
+      "confidence": 0.917,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 201.62,
+      "end": 204.06,
+      "text": "Yes, that's fine. I've been recording that.",
+      "confidence": 0.992,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 204.06,
+      "end": 210.64,
+      "text": "And I will also need a list of any other medication that you take in.",
+      "confidence": 0.848,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 211.52,
+      "end": 212.78,
+      "text": "Yeah, yeah.",
+      "confidence": 0.77,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 213.8,
+      "end": 220.36,
+      "text": "Right. So Wednesday at 8 o'clock with Dr Geraint.",
+      "confidence": 0.832,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 223.46,
+      "end": 225.36,
+      "text": "Tom Neslend. Right.",
+      "confidence": 0.551,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 227.62,
+      "end": 230.62,
+      "text": "Okay, I put that appointment in for you now.",
+      "confidence": 0.957,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 233.0,
+      "end": 258.54,
+      "text": "can you assure me that that appointment is not going to be cancelled because there's been a couple of instances now where I've had to or the appointment has been cancelled without my without my say and basically I've got enough medication now to last me till Wednesday that's like the last that's the last day I can take the medication because I haven't done left",
+      "confidence": 0.939,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 258.54,
+      "end": 276.22,
+      "text": "right but we have a system whereby if it's really urgent and you have none left you can get enough to last until the next day you have to go to the emergency chemist or you can't it's not a regular chemist",
+      "confidence": 0.94,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 276.22,
+      "end": 290.32,
+      "text": "right is there any um any way of that being closer to me because the My closest emergency pharmacy is over an hour away.",
+      "confidence": 0.95,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 292.08,
+      "end": 326.8,
+      "text": "What you have to do is you have to call through, put a call, you have to ring the emergency chemist and ask them if they can transfer the medicine. they will need 48 hours notice to transfer the medicine to your local chemist just as an emergency, just the emergency dosage for one day until your appointment. So, and you can't request that before the day before you run out of medicine.",
+      "confidence": 0.945,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 327.78,
+      "end": 345.2,
+      "text": "Right, okay. Hopefully then it doesn't get cancelled just so I know if I can get the prescription or not. That's okay. If it comes to, can you ask Dr Geraint to give me a call?",
+      "confidence": 0.926,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 345.7,
+      "end": 362.82,
+      "text": "Yes, I shall put a message for him to call you. However, if you should be any severe difficulty, we do advise patients if any severe difficulty arises with any symptoms then they should visit the nearest A&E.",
+      "confidence": 0.964,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 363.18,
+      "end": 364.84,
+      "text": "Right okay no problem. Of your",
+      "confidence": 0.663,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 364.84,
+      "end": 366.64,
+      "text": "local Bridge Ends hub.",
+      "confidence": 0.569,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 368.16,
+      "end": 368.84,
+      "text": "Yes yes.",
+      "confidence": 0.846,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 370.14,
+      "end": 370.96,
+      "text": "Is that understood?",
+      "confidence": 0.782,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 372.1,
+      "end": 374.64,
+      "text": "Yes that's perfectly fine thank you. Is",
+      "confidence": 0.954,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 374.64,
+      "end": 375.64,
+      "text": "there anything else?",
+      "confidence": 0.997,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 377.3,
+      "end": 379.66,
+      "text": "No that should be everything thank you very much",
+      "confidence": 0.921,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 379.66,
+      "end": 381.72,
+      "text": "no problem take care now",
+      "confidence": 0.908,
+      "low_confidence": false,
+      "speaker_label": "Speaker 2",
+      "role": "Agent"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 381.72,
+      "end": 384.0,
+      "text": "you too bye",
+      "confidence": 0.9,
+      "low_confidence": false,
+      "speaker_label": "Speaker 1",
+      "role": "Customer"
+    }
+  ],
+  "speaker_roles": {
+    "Speaker 1": "Customer",
+    "Speaker 2": "Agent"
+  },
+  "role_method": "llm",
+  "role_reason": "LLM (confidence 0.99): Speaker_01 greets, identifies as Tracy and handles scheduling, typical agent behavior, while Speaker_00 requests an appointment, typical customer behavior."
+}
