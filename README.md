@@ -144,3 +144,8 @@ OpenAI Whisper (turbo) · pyannote.audio (speaker-diarization-community-1 / 3.1)
 - Every call has exactly two speakers (agent + customer).
 - English only; calls longer than 8 minutes are excluded from the sample for run-time reasons.
 - The dataset's human transcripts and role labels are treated as ground truth.
+
+## License
+- **Code** (`src/`, `app.py`, `notebooks/`, `tests/`): MIT License, see [LICENSE](LICENSE).
+- **Data-derived files** (`results/`, `data/raw/sample_metadata.jsonl`): derived from the [AppTek Call Center Dialogues](https://huggingface.co/datasets/apptek-com/apptek_callcenter_dialogues) dataset, © AppTek, shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Audio is not redistributed.
+- **Research survey** (`research/`): own work; dataset and paper licenses are listed per resource in the workbook.
